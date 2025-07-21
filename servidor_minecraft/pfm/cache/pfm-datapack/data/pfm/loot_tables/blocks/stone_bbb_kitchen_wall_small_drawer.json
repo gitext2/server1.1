@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "name": "stone_bbb_kitchen_wall_small_drawer",
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:stone_bbb_kitchen_wall_small_drawer"
+        }
+      ]
+    }
+  ]
+}

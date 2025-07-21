@@ -1,0 +1,2992 @@
+{
+  "__comment": [
+    "Mobs will be able to equip items declared here",
+    "The first number is the weight while the second number is the quality",
+    "Weight is the weight of an item. Higher weight means that the item is more likely to get choosen",
+    "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
+  ],
+  "MAINHAND": {
+    "alexsmobs:skelewag_sword": [
+      10317,
+      0.7804518
+    ],
+    "alexsmobs:tendon_whip": [
+      10614,
+      0.0469
+    ],
+    "apocalypsenow:bamboo_sickle": [
+      10900,
+      0.018299999
+    ],
+    "apocalypsenow:barbecuestick": [
+      10985,
+      0.009799999
+    ],
+    "apocalypsenow:baseball_bat": [
+      10870,
+      0.0213
+    ],
+    "apocalypsenow:bass": [
+      10719,
+      0.036399998
+    ],
+    "apocalypsenow:bayonet": [
+      10722,
+      0.036099996
+    ],
+    "apocalypsenow:black_cleaver": [
+      10642,
+      0.044099998
+    ],
+    "apocalypsenow:blue_boxing_gloves": [
+      10559,
+      0.40784094
+    ],
+    "apocalypsenow:bowie_machete": [
+      10683,
+      0.04
+    ],
+    "apocalypsenow:brass_knuckles": [
+      10712,
+      0.0371
+    ],
+    "apocalypsenow:bread_knife": [
+      10993,
+      0.009
+    ],
+    "apocalypsenow:broken_bottle": [
+      11041,
+      0.0042
+    ],
+    "apocalypsenow:broken_glass": [
+      11041,
+      0.0042
+    ],
+    "apocalypsenow:broken_pool_cue": [
+      10965,
+      0.0117999995
+    ],
+    "apocalypsenow:brush_axe": [
+      10270,
+      0.84156674
+    ],
+    "apocalypsenow:bushcraft_axe": [
+      10780,
+      0.030299999
+    ],
+    "apocalypsenow:bushcraft_knife": [
+      10273,
+      0.8376811
+    ],
+    "apocalypsenow:bushcraft_machete": [
+      10286,
+      0.82082254
+    ],
+    "apocalypsenow:butterfly_knife": [
+      10602,
+      0.0481
+    ],
+    "apocalypsenow:camping_knife": [
+      10184,
+      0.9524124
+    ],
+    "apocalypsenow:camping_machete": [
+      10389,
+      0.68518823
+    ],
+    "apocalypsenow:catana": [
+      10376,
+      0.7026087
+    ],
+    "apocalypsenow:chainsaw_bat": [
+      10168,
+      0.9729605
+    ],
+    "apocalypsenow:cheap_survival_axe": [
+      10920,
+      0.0163
+    ],
+    "apocalypsenow:cheap_survival_knife": [
+      11001,
+      0.0082
+    ],
+    "apocalypsenow:cheap_survival_machete": [
+      10910,
+      0.0173
+    ],
+    "apocalypsenow:chefs_knife": [
+      10653,
+      0.042999998
+    ],
+    "apocalypsenow:claws": [
+      10663,
+      0.041999996
+    ],
+    "apocalypsenow:cleaver": [
+      10546,
+      0.44120392
+    ],
+    "apocalypsenow:club": [
+      10511,
+      0.50804096
+    ],
+    "apocalypsenow:club_with_saw": [
+      10489,
+      0.5434188
+    ],
+    "apocalypsenow:comb_knife": [
+      10959,
+      0.012399999
+    ],
+    "apocalypsenow:combat_axe": [
+      9434,
+      1.9213846
+    ],
+    "apocalypsenow:combat_knife": [
+      10394,
+      0.67845255
+    ],
+    "apocalypsenow:combat_survival_knife": [
+      10653,
+      0.042999998
+    ],
+    "apocalypsenow:construction_axe": [
+      10007,
+      1.1794335
+    ],
+    "apocalypsenow:cricket_bat": [
+      10844,
+      0.023899999
+    ],
+    "apocalypsenow:crowbar": [
+      10546,
+      0.44120392
+    ],
+    "apocalypsenow:cutter_knife": [
+      10874,
+      0.020899998
+    ],
+    "apocalypsenow:dagger": [
+      10212,
+      0.91641146
+    ],
+    "apocalypsenow:deer_horn_knife": [
+      10453,
+      0.59678036
+    ],
+    "apocalypsenow:electric_baton": [
+      10228,
+      0.89580816
+    ],
+    "apocalypsenow:electric_club": [
+      10529,
+      0.47611615
+    ],
+    "apocalypsenow:electric_module_katana": [
+      10311,
+      0.788287
+    ],
+    "apocalypsenow:electrical_baseball_bat": [
+      10821,
+      0.026199998
+    ],
+    "apocalypsenow:electrical_combat_axe": [
+      9449,
+      1.9017597
+    ],
+    "apocalypsenow:electrical_tactical_mace": [
+      9761,
+      1.4960954
+    ],
+    "apocalypsenow:eletrical_machete": [
+      10484,
+      0.55109733
+    ],
+    "apocalypsenow:emergency_axe": [
+      10475,
+      0.5646679
+    ],
+    "apocalypsenow:english_punch_knife": [
+      10529,
+      0.47611615
+    ],
+    "apocalypsenow:executioners_sword": [
+      8803,
+      3.8416624
+    ],
+    "apocalypsenow:executionersaxe": [
+      8803,
+      3.8416624
+    ],
+    "apocalypsenow:expedition_knife": [
+      10454,
+      0.5953474
+    ],
+    "apocalypsenow:fire_axe": [
+      10469,
+      0.57356006
+    ],
+    "apocalypsenow:fire_module_combat_axe": [
+      9689,
+      1.589282
+    ],
+    "apocalypsenow:fire_module_katana": [
+      10299,
+      0.8039249
+    ],
+    "apocalypsenow:fire_module_machete": [
+      10484,
+      0.55109733
+    ],
+    "apocalypsenow:fishermans_knife": [
+      10886,
+      0.019699998
+    ],
+    "apocalypsenow:fixed_baseball_bat": [
+      10999,
+      0.0084
+    ],
+    "apocalypsenow:flame_module_iron_baseball_bat": [
+      10308,
+      0.79220045
+    ],
+    "apocalypsenow:fork": [
+      11041,
+      0.0042
+    ],
+    "apocalypsenow:garden_fork": [
+      10524,
+      0.48536333
+    ],
+    "apocalypsenow:gardening_axe": [
+      10189,
+      0.94598794
+    ],
+    "apocalypsenow:gardening_saw": [
+      10814,
+      0.0269
+    ],
+    "apocalypsenow:gardening_scissors": [
+      10899,
+      0.018399999
+    ],
+    "apocalypsenow:golden_karambit": [
+      10979,
+      0.010399999
+    ],
+    "apocalypsenow:golden_machete": [
+      10962,
+      0.012099999
+    ],
+    "apocalypsenow:goldenstilletoknife": [
+      10874,
+      0.020899998
+    ],
+    "apocalypsenow:golf_stick": [
+      10555,
+      0.41909337
+    ],
+    "apocalypsenow:guitar": [
+      10721,
+      0.036199998
+    ],
+    "apocalypsenow:hammer_axe": [
+      10245,
+      0.87388456
+    ],
+    "apocalypsenow:hand_axe": [
+      10513,
+      0.5046589
+    ],
+    "apocalypsenow:hanger": [
+      11058,
+      0.0025
+    ],
+    "apocalypsenow:harpoon": [
+      10486,
+      0.5480389
+    ],
+    "apocalypsenow:hatchet": [
+      10835,
+      0.024799999
+    ],
+    "apocalypsenow:hawkbill_machete": [
+      10681,
+      0.0402
+    ],
+    "apocalypsenow:head_cutter": [
+      9697,
+      1.5789155
+    ],
+    "apocalypsenow:heavy_machete": [
+      10727,
+      0.0356
+    ],
+    "apocalypsenow:hookey_stick": [
+      10555,
+      0.41909337
+    ],
+    "apocalypsenow:hunting_knife": [
+      10417,
+      0.64716274
+    ],
+    "apocalypsenow:iron_baseball_bat": [
+      10189,
+      0.94598794
+    ],
+    "apocalypsenow:iron_club": [
+      10014,
+      1.1704534
+    ],
+    "apocalypsenow:iron_pipe": [
+      10871,
+      0.021199998
+    ],
+    "apocalypsenow:jagdkommando_knife": [
+      9827,
+      1.4108913
+    ],
+    "apocalypsenow:kanabo": [
+      9463,
+      1.883453
+    ],
+    "apocalypsenow:karambit": [
+      10843,
+      0.023999998
+    ],
+    "apocalypsenow:katana": [
+      10139,
+      1.0101739
+    ],
+    "apocalypsenow:key_wrench": [
+      10845,
+      0.023799999
+    ],
+    "apocalypsenow:kitchen_knife": [
+      10403,
+      0.66627264
+    ],
+    "apocalypsenow:knife": [
+      10543,
+      0.44787866
+    ],
+    "apocalypsenow:knife_spear": [
+      10677,
+      0.040599998
+    ],
+    "apocalypsenow:knife_utensils": [
+      11041,
+      0.0042
+    ],
+    "apocalypsenow:kukri_machete": [
+      10085,
+      1.0794138
+    ],
+    "apocalypsenow:laminated_iron_baseball_bat": [
+      10177,
+      0.96140397
+    ],
+    "apocalypsenow:letter_opener": [
+      10738,
+      0.0345
+    ],
+    "apocalypsenow:light_weitgh_machete": [
+      10637,
+      0.0446
+    ],
+    "apocalypsenow:long_knife": [
+      10559,
+      0.40784094
+    ],
+    "apocalypsenow:lumber_jack_axe": [
+      9973,
+      1.2230678
+    ],
+    "apocalypsenow:mace": [
+      10203,
+      0.9279901
+    ],
+    "apocalypsenow:mace_can": [
+      10900,
+      0.018299999
+    ],
+    "apocalypsenow:machete": [
+      10433,
+      0.62502736
+    ],
+    "apocalypsenow:makeshift_axe": [
+      10943,
+      0.0139999995
+    ],
+    "apocalypsenow:makeshift_knife": [
+      10954,
+      0.0128999995
+    ],
+    "apocalypsenow:makeshift_machete": [
+      10897,
+      0.0186
+    ],
+    "apocalypsenow:meat_cleaver": [
+      10540,
+      0.45429388
+    ],
+    "apocalypsenow:military_knife": [
+      10531,
+      0.47231403
+    ],
+    "apocalypsenow:mk_knife": [
+      10647,
+      0.0436
+    ],
+    "apocalypsenow:modern_glaive": [
+      10554,
+      0.42174345
+    ],
+    "apocalypsenow:modern_tomahawk": [
+      10406,
+      0.6621953
+    ],
+    "apocalypsenow:mosquito_knife": [
+      10829,
+      0.0254
+    ],
+    "apocalypsenow:nailed_club": [
+      10508,
+      0.5130528
+    ],
+    "apocalypsenow:nailed_cricket_bat": [
+      10848,
+      0.0235
+    ],
+    "apocalypsenow:nailed_stick": [
+      10942,
+      0.014099999
+    ],
+    "apocalypsenow:nailed_table_leg": [
+      10899,
+      0.018399999
+    ],
+    "apocalypsenow:night_stick": [
+      10871,
+      0.021199998
+    ],
+    "apocalypsenow:ontario_sp_8": [
+      10338,
+      0.75292885
+    ],
+    "apocalypsenow:pan": [
+      10830,
+      0.0253
+    ],
+    "apocalypsenow:phillipsscrewdriver": [
+      10913,
+      0.016999999
+    ],
+    "apocalypsenow:pick": [
+      10546,
+      0.44120392
+    ],
+    "apocalypsenow:pipe": [
+      10568,
+      0.37663084
+    ],
+    "apocalypsenow:pipe_wrench": [
+      10376,
+      0.7026087
+    ],
+    "apocalypsenow:plank": [
+      10840,
+      0.024299998
+    ],
+    "apocalypsenow:plunger": [
+      10743,
+      0.033999998
+    ],
+    "apocalypsenow:podao": [
+      10530,
+      0.47422305
+    ],
+    "apocalypsenow:pointed_cleaver": [
+      10540,
+      0.45429388
+    ],
+    "apocalypsenow:pool_cue": [
+      10716,
+      0.0367
+    ],
+    "apocalypsenow:razor": [
+      10936,
+      0.014699998
+    ],
+    "apocalypsenow:red_boxing_gloves": [
+      10559,
+      0.40784094
+    ],
+    "apocalypsenow:red_crowbar": [
+      10546,
+      0.44120392
+    ],
+    "apocalypsenow:red_lumberjack_axe": [
+      9973,
+      1.2230678
+    ],
+    "apocalypsenow:reinforced_blue_boxing_gloves": [
+      10298,
+      0.8052262
+    ],
+    "apocalypsenow:reinforced_red_boxing_gloves": [
+      10298,
+      0.8052262
+    ],
+    "apocalypsenow:road_sign": [
+      10633,
+      0.044999998
+    ],
+    "apocalypsenow:road_sign_axe": [
+      10551,
+      0.42937216
+    ],
+    "apocalypsenow:rock": [
+      10993,
+      0.009
+    ],
+    "apocalypsenow:rolling_pin": [
+      10899,
+      0.018399999
+    ],
+    "apocalypsenow:rusty_knife": [
+      11016,
+      0.0066999993
+    ],
+    "apocalypsenow:rusty_machete": [
+      10915,
+      0.0168
+    ],
+    "apocalypsenow:sai": [
+      10219,
+      0.9074007
+    ],
+    "apocalypsenow:saw": [
+      10662,
+      0.0421
+    ],
+    "apocalypsenow:saw_baseball_bat": [
+      10795,
+      0.028799998
+    ],
+    "apocalypsenow:saw_pole": [
+      10596,
+      0.048699997
+    ],
+    "apocalypsenow:scalpel": [
+      10913,
+      0.016999999
+    ],
+    "apocalypsenow:screwdriver": [
+      10743,
+      0.033999998
+    ],
+    "apocalypsenow:scythe": [
+      10168,
+      0.9729605
+    ],
+    "apocalypsenow:scythe_knife": [
+      10529,
+      0.47611615
+    ],
+    "apocalypsenow:serrated_machete": [
+      10655,
+      0.042799998
+    ],
+    "apocalypsenow:shiv": [
+      10908,
+      0.0175
+    ],
+    "apocalypsenow:simple_machete": [
+      9998,
+      1.1909808
+    ],
+    "apocalypsenow:slander": [
+      10828,
+      0.0255
+    ],
+    "apocalypsenow:slitting_pears": [
+      10398,
+      0.67304856
+    ],
+    "apocalypsenow:soap_in_a_sock": [
+      11018,
+      0.0064999997
+    ],
+    "apocalypsenow:spear": [
+      10561,
+      0.40174228
+    ],
+    "apocalypsenow:spiked_baseball_bat": [
+      10848,
+      0.0235
+    ],
+    "apocalypsenow:spiked_iron_baseball_bat": [
+      10179,
+      0.9588353
+    ],
+    "apocalypsenow:spiked_plank": [
+      10802,
+      0.028099999
+    ],
+    "apocalypsenow:stake": [
+      10738,
+      0.0345
+    ],
+    "apocalypsenow:stapler": [
+      11029,
+      0.0053999997
+    ],
+    "apocalypsenow:stilettoknife": [
+      10883,
+      0.02
+    ],
+    "apocalypsenow:stun_baton": [
+      10219,
+      0.9074007
+    ],
+    "apocalypsenow:stylus_knife": [
+      10835,
+      0.024799999
+    ],
+    "apocalypsenow:survival_knife": [
+      10483,
+      0.5526204
+    ],
+    "apocalypsenow:switch_knife": [
+      10403,
+      0.66627264
+    ],
+    "apocalypsenow:sytche_machete": [
+      10331,
+      0.76212186
+    ],
+    "apocalypsenow:table_knife": [
+      10436,
+      0.6208355
+    ],
+    "apocalypsenow:table_leg": [
+      10904,
+      0.0179
+    ],
+    "apocalypsenow:tactical_knife": [
+      10703,
+      0.038
+    ],
+    "apocalypsenow:tactical_machete": [
+      10173,
+      0.9665407
+    ],
+    "apocalypsenow:tactical_saber": [
+      10114,
+      1.0422343
+    ],
+    "apocalypsenow:tactical_sword": [
+      9652,
+      1.6372684
+    ],
+    "apocalypsenow:taiga_1_survival_machete": [
+      10529,
+      0.47611615
+    ],
+    "apocalypsenow:taser": [
+      10573,
+      0.35229552
+    ],
+    "apocalypsenow:tatical_mace": [
+      9669,
+      1.6152122
+    ],
+    "apocalypsenow:tennis_racket": [
+      10868,
+      0.021499999
+    ],
+    "apocalypsenow:timahawk": [
+      10226,
+      0.89838505
+    ],
+    "apocalypsenow:tire_iron": [
+      10479,
+      0.5586735
+    ],
+    "apocalypsenow:tomahawk": [
+      10822,
+      0.026099999
+    ],
+    "apocalypsenow:tourist_axe": [
+      10722,
+      0.036099996
+    ],
+    "apocalypsenow:umbrella": [
+      10956,
+      0.0127
+    ],
+    "apocalypsenow:vintage_brush_axe": [
+      10434,
+      0.62363166
+    ],
+    "apocalypsenow:wired_baseball_bat": [
+      10714,
+      0.0369
+    ],
+    "apocalypsenow:woddenspear": [
+      10628,
+      0.045499995
+    ],
+    "apocalypsenow:wooden_fire_axe": [
+      10486,
+      0.5480389
+    ],
+    "apocalypsenow:wrapped_baseball_bat": [
+      10793,
+      0.028999997
+    ],
+    "create:cardboard_sword": [
+      11018,
+      0.0064999997
+    ],
+    "immersive_weathering:ice_sickle": [
+      10988,
+      0.0095
+    ],
+    "immersiveengineering:axe_steel": [
+      9824,
+      1.41476
+    ],
+    "immersiveengineering:sword_steel": [
+      9904,
+      1.3117309
+    ],
+    "marbledsmelees:barbed_baseball_bat": [
+      10168,
+      0.9729605
+    ],
+    "marbledsmelees:baseball_bat": [
+      10206,
+      0.92413133
+    ],
+    "marbledsmelees:bone_saw": [
+      10568,
+      0.37663084
+    ],
+    "marbledsmelees:crowbar": [
+      10168,
+      0.9729605
+    ],
+    "marbledsmelees:fire_axe": [
+      10114,
+      1.0422343
+    ],
+    "marbledsmelees:katana": [
+      9689,
+      1.589282
+    ],
+    "marbledsmelees:machete": [
+      10114,
+      1.0422343
+    ],
+    "marbledsmelees:modern_axe": [
+      9656,
+      1.6320775
+    ],
+    "marbledsmelees:pipe_wrench": [
+      10189,
+      0.94598794
+    ],
+    "marbledsmelees:police_baton": [
+      10189,
+      0.94598794
+    ],
+    "marbledsmelees:sledgehammer": [
+      9147,
+      2.2989588
+    ],
+    "marbledsmelees:steel_baseball_bat": [
+      9689,
+      1.589282
+    ],
+    "marbledsmelees:stop_sign": [
+      9194,
+      2.236861
+    ],
+    "marbledsmelees:tanto": [
+      10593,
+      0.049
+    ],
+    "marbledsmelees:tomahawk": [
+      10568,
+      0.37663084
+    ],
+    "mcore:steel_axe": [
+      8278,
+      5.022479
+    ],
+    "mcore:steel_sword": [
+      8365,
+      4.8356147
+    ],
+    "mcore:titanium_axe": [
+      10506,
+      0.51635593
+    ],
+    "mcore:titanium_sword": [
+      10568,
+      0.37663084
+    ],
+    "minecraft:bow": [
+      8515,
+      4.508568
+    ],
+    "minecraft:crossbow": [
+      8809,
+      3.826627
+    ],
+    "minecraft:diamond_axe": [
+      8278,
+      5.022479
+    ],
+    "minecraft:diamond_sword": [
+      8340,
+      4.889481
+    ],
+    "minecraft:enchanted_book": [
+      9483,
+      1.8573177
+    ],
+    "minecraft:golden_axe": [
+      10939,
+      0.014399999
+    ],
+    "minecraft:golden_sword": [
+      11002,
+      0.0081
+    ],
+    "minecraft:iron_axe": [
+      10506,
+      0.51635593
+    ],
+    "minecraft:iron_sword": [
+      10593,
+      0.049
+    ],
+    "minecraft:lingering_potion{Potion:\"minecraft:harming\"}": [
+      9583,
+      1.7269388
+    ],
+    "minecraft:netherite_axe": [
+      7442,
+      6.778693
+    ],
+    "minecraft:netherite_sword": [
+      7512,
+      6.632802
+    ],
+    "minecraft:snowball": [
+      10533,
+      0.46844563
+    ],
+    "minecraft:splash_potion{Potion:\"minecraft:harming\"}": [
+      9583,
+      1.7269388
+    ],
+    "minecraft:stone_axe": [
+      10709,
+      0.0374
+    ],
+    "minecraft:stone_sword": [
+      10817,
+      0.026599998
+    ],
+    "minecraft:tnt": [
+      9383,
+      1.9881918
+    ],
+    "minecraft:trident": [
+      8583,
+      4.357304
+    ],
+    "minecraft:wooden_axe": [
+      10893,
+      0.019
+    ],
+    "minecraft:wooden_sword": [
+      10956,
+      0.0127
+    ],
+    "undead_revamp2:bonedagger": [
+      7656,
+      6.3323894
+    ],
+    "undead_revamp2:bostroxsword": [
+      8506,
+      4.5284204
+    ],
+    "undead_revamp2:chainsword": [
+      6,
+      22.517443
+    ],
+    "undead_revamp2:toothmace": [
+      7731,
+      6.1757073
+    ],
+    "zombie_extreme:baseball_bat": [
+      10525,
+      0.4835412
+    ],
+    "zombie_extreme:bronze_axe": [
+      10903,
+      0.018
+    ],
+    "zombie_extreme:butcher_knife": [
+      10490,
+      0.54186976
+    ],
+    "zombie_extreme:buzz_killer": [
+      6709,
+      8.304887
+    ],
+    "zombie_extreme:cleaver": [
+      10684,
+      0.039899997
+    ],
+    "zombie_extreme:crowbar": [
+      10400,
+      0.670341
+    ],
+    "zombie_extreme:electric_katana": [
+      9064,
+      2.8587115
+    ],
+    "zombie_extreme:electro_machete": [
+      8034,
+      5.540094
+    ],
+    "zombie_extreme:fireaxe": [
+      10199,
+      0.93313384
+    ],
+    "zombie_extreme:fittings": [
+      10912,
+      0.017099999
+    ],
+    "zombie_extreme:frying_pan": [
+      10604,
+      0.0479
+    ],
+    "zombie_extreme:golf_club": [
+      10667,
+      0.041599996
+    ],
+    "zombie_extreme:katana": [
+      8491,
+      4.561431
+    ],
+    "zombie_extreme:kitchen_knife": [
+      10908,
+      0.0175
+    ],
+    "zombie_extreme:last_hope": [
+      7521,
+      6.6140394
+    ],
+    "zombie_extreme:m_9_knife": [
+      8647,
+      4.2123923
+    ],
+    "zombie_extreme:machete": [
+      9293,
+      2.1063945
+    ],
+    "zombie_extreme:military_machete": [
+      8593,
+      4.334844
+    ],
+    "zombie_extreme:modern_axe": [
+      9942,
+      1.2628816
+    ],
+    "zombie_extreme:modern_love": [
+      8785,
+      3.886309
+    ],
+    "zombie_extreme:pipe": [
+      10616,
+      0.0467
+    ],
+    "zombie_extreme:police_baton": [
+      10677,
+      0.040599998
+    ],
+    "zombie_extreme:steel_axe": [
+      9826,
+      1.4121808
+    ],
+    "zombie_extreme:steel_sledgehammer": [
+      7677,
+      6.2885356
+    ],
+    "zombie_extreme:stun_stick": [
+      10501,
+      0.5244919
+    ],
+    "zombie_extreme:titan_axe": [
+      8061,
+      5.4831543
+    ],
+    "zombie_extreme:wrench": [
+      10748,
+      0.033499997
+    ]
+  },
+  "OFFHAND": {
+    "apocalypsenow:ballistic_shield": [
+      227,
+      1.9226934
+    ],
+    "apocalypsenow:police_shield": [
+      887,
+      1.069158
+    ],
+    "apocalypsenow:riot_shield": [
+      907,
+      1.0435165
+    ],
+    "apocalypsenow:stopsign_shield": [
+      967,
+      0.9665407
+    ],
+    "apocalypsenow:trash_shield": [
+      967,
+      0.9665407
+    ],
+    "minecraft:ender_pearl": [
+      777,
+      1.2102311
+    ],
+    "minecraft:flint_and_steel": [
+      749,
+      1.2461817
+    ],
+    "minecraft:lava_bucket": [
+      377,
+      1.7269388
+    ],
+    "minecraft:shield": [
+      455,
+      1.6255897
+    ]
+  },
+  "FEET": {
+    "alexsmobs:flying_fish_boots": [
+      27044,
+      0.014099999
+    ],
+    "alexsmobs:roadrunner_boots": [
+      26482,
+      0.6972618
+    ],
+    "apocalypsenow:advanced_hazmat_suit_boots": [
+      26289,
+      0.948558
+    ],
+    "apocalypsenow:anarchy_boots": [
+      26359,
+      0.8583848
+    ],
+    "apocalypsenow:army_boots": [
+      26734,
+      0.045099996
+    ],
+    "apocalypsenow:biohazard_boots": [
+      26065,
+      1.2359076
+    ],
+    "apocalypsenow:black_football_armor_boots": [
+      26424,
+      0.7739134
+    ],
+    "apocalypsenow:blue_football_armor_boots": [
+      26424,
+      0.7739134
+    ],
+    "apocalypsenow:bombsquad_boots": [
+      8604,
+      38.89119
+    ],
+    "apocalypsenow:brazilian_army_boots": [
+      25821,
+      1.5504236
+    ],
+    "apocalypsenow:british_army_boots": [
+      25821,
+      1.5504236
+    ],
+    "apocalypsenow:canadian_army_boots": [
+      25494,
+      1.9763931
+    ],
+    "apocalypsenow:chinese_army_boots": [
+      25941,
+      1.3954209
+    ],
+    "apocalypsenow:construction_boots": [
+      25201,
+      2.3624809
+    ],
+    "apocalypsenow:contamination_suit_white_boots": [
+      26324,
+      0.9035375
+    ],
+    "apocalypsenow:desertghillie_boots": [
+      26600,
+      0.52929753
+    ],
+    "apocalypsenow:divingsuit_boots": [
+      26600,
+      0.52929753
+    ],
+    "apocalypsenow:fire_figther_boots": [
+      26065,
+      1.2359076
+    ],
+    "apocalypsenow:forestguard_boots": [
+      26600,
+      0.52929753
+    ],
+    "apocalypsenow:ghilliesuit_boots": [
+      26600,
+      0.52929753
+    ],
+    "apocalypsenow:hazmat_suit_boots": [
+      26065,
+      1.2359076
+    ],
+    "apocalypsenow:hockey_boots": [
+      25599,
+      1.8390346
+    ],
+    "apocalypsenow:italian_bersaglieri_army_boots": [
+      25821,
+      1.5504236
+    ],
+    "apocalypsenow:japanese_army_boots": [
+      25494,
+      1.9763931
+    ],
+    "apocalypsenow:jet_pilot_boots": [
+      26216,
+      1.0422343
+    ],
+    "apocalypsenow:juggernaut_boots": [
+      35,
+      57.957706
+    ],
+    "apocalypsenow:level_a_hazmatsuit_boots": [
+      26240,
+      1.0114565
+    ],
+    "apocalypsenow:mexican_army_boots": [
+      25494,
+      1.9763931
+    ],
+    "apocalypsenow:military_riot_armor_boots": [
+      23418,
+      7.041143
+    ],
+    "apocalypsenow:military_urban_boots": [
+      25529,
+      1.9305468
+    ],
+    "apocalypsenow:nurse_boots": [
+      26821,
+      0.036399998
+    ],
+    "apocalypsenow:police_boots": [
+      26394,
+      0.8130289
+    ],
+    "apocalypsenow:red_football_armor_boots": [
+      26424,
+      0.7739134
+    ],
+    "apocalypsenow:royal_canada_police_officer_boots": [
+      26389,
+      0.81952417
+    ],
+    "apocalypsenow:russian_army_boots": [
+      25669,
+      1.7477659
+    ],
+    "apocalypsenow:rusty_boots": [
+      26424,
+      0.7739134
+    ],
+    "apocalypsenow:snowghillie_boots": [
+      26600,
+      0.52929753
+    ],
+    "apocalypsenow:soldier_boots": [
+      25164,
+      2.88177
+    ],
+    "apocalypsenow:spec_ops_boots": [
+      23312,
+      7.261838
+    ],
+    "apocalypsenow:swat_boots": [
+      23819,
+      6.2049685
+    ],
+    "apocalypsenow:swatriotcontrol_boots": [
+      23662,
+      6.532715
+    ],
+    "apocalypsenow:un_armor_boots": [
+      25529,
+      1.9305468
+    ],
+    "apocalypsenow:us_army_boots": [
+      25634,
+      1.7933697
+    ],
+    "apocalypsenow:usa_armor_boots": [
+      25669,
+      1.7477659
+    ],
+    "apocalypsenow:yellow_football_armor_boots": [
+      26424,
+      0.7739134
+    ],
+    "cold_sweat:goat_fur_boots": [
+      26464,
+      0.7212403
+    ],
+    "cold_sweat:hoglin_hooves": [
+      25937,
+      1.4005771
+    ],
+    "create:cardboard_boots": [
+      26968,
+      0.021699999
+    ],
+    "create:copper_diving_boots": [
+      26611,
+      0.5113901
+    ],
+    "create:netherite_diving_boots": [
+      25550,
+      1.9030677
+    ],
+    "immersiveengineering:armor_faraday_boots": [
+      26982,
+      0.020299999
+    ],
+    "immersiveengineering:armor_steel_boots": [
+      25832,
+      1.5361866
+    ],
+    "marbledsarsenal:acacia_ghillie_boots": [
+      26855,
+      0.033
+    ],
+    "marbledsarsenal:azalea_ghillie_boots": [
+      26855,
+      0.033
+    ],
+    "marbledsarsenal:birch_ghillie_boots": [
+      26855,
+      0.033
+    ],
+    "marbledsarsenal:black_juggernaut_armor_boots": [
+      24718,
+      4.2829432
+    ],
+    "marbledsarsenal:catmaid_juggernaut_armor_boots": [
+      24718,
+      4.2829432
+    ],
+    "marbledsarsenal:cherry_ghillie_boots": [
+      26855,
+      0.033
+    ],
+    "marbledsarsenal:dark_oak_ghillie_boots": [
+      26855,
+      0.033
+    ],
+    "marbledsarsenal:desert_military_armor_boots": [
+      25218,
+      2.3399715
+    ],
+    "marbledsarsenal:hazmat_armor_boots": [
+      26837,
+      0.0348
+    ],
+    "marbledsarsenal:jungle_ghillie_boots": [
+      26855,
+      0.033
+    ],
+    "marbledsarsenal:mangrove_ghillie_boots": [
+      26855,
+      0.033
+    ],
+    "marbledsarsenal:oak_ghillie_boots": [
+      26855,
+      0.033
+    ],
+    "marbledsarsenal:olive_juggernaut_armor_boots": [
+      24718,
+      4.2829432
+    ],
+    "marbledsarsenal:riot_armor_boots": [
+      25586,
+      1.8560115
+    ],
+    "marbledsarsenal:spruce_ghillie_boots": [
+      26855,
+      0.033
+    ],
+    "marbledsarsenal:swat_armor_boots": [
+      25586,
+      1.8560115
+    ],
+    "marbledsarsenal:winter_military_armor_boots": [
+      25218,
+      2.3399715
+    ],
+    "mcore:steel_boots": [
+      26015,
+      1.3001564
+    ],
+    "mcore:titanium_boots": [
+      25347,
+      2.1695936
+    ],
+    "minecraft:chainmail_boots": [
+      26593,
+      0.540316
+    ],
+    "minecraft:diamond_boots": [
+      25677,
+      1.7373508
+    ],
+    "minecraft:golden_boots": [
+      26659,
+      0.4136078
+    ],
+    "minecraft:iron_boots": [
+      26345,
+      0.8764657
+    ],
+    "minecraft:leather_boots": [
+      26941,
+      0.0244
+    ],
+    "minecraft:netherite_boots": [
+      25550,
+      1.9030677
+    ],
+    "mutantmonsters:mutant_skeleton_boots": [
+      26240,
+      1.0114565
+    ],
+    "undead_revamp2:bostroxset_boots": [
+      24847,
+      3.9834037
+    ],
+    "undead_revamp2:cloggerarmor_boots": [
+      25188,
+      2.3797028
+    ],
+    "undead_revamp2:primodialarmour_boots": [
+      26388,
+      0.82082254
+    ],
+    "zombie_extreme:camouflage_suit_forest_boots": [
+      26811,
+      0.0374
+    ],
+    "zombie_extreme:combat_armor_boots": [
+      25409,
+      2.087982
+    ],
+    "zombie_extreme:exo_suit_boots": [
+      21357,
+      11.34403
+    ],
+    "zombie_extreme:hazmat_suit_boots": [
+      25960,
+      1.3709393
+    ],
+    "zombie_extreme:juggernaut_suit_boots": [
+      23425,
+      7.0265665
+    ],
+    "zombie_extreme:military_suit_boots": [
+      25445,
+      2.0406785
+    ],
+    "zombie_extreme:swat_suit_boots": [
+      25966,
+      1.3632114
+    ]
+  },
+  "LEGS": {
+    "alexsmobs:centipede_leggings": [
+      24894,
+      3.9059477
+    ],
+    "alexsmobs:emu_leggings": [
+      26129,
+      1.173019
+    ],
+    "apocalypsenow:advanced_hazmat_suit_leggings": [
+      26304,
+      0.948558
+    ],
+    "apocalypsenow:anarchy_leggings": [
+      26374,
+      0.8583848
+    ],
+    "apocalypsenow:army_leggings": [
+      26749,
+      0.045099996
+    ],
+    "apocalypsenow:biohazard_leggings": [
+      26080,
+      1.2359076
+    ],
+    "apocalypsenow:black_football_armor_leggings": [
+      26439,
+      0.7739134
+    ],
+    "apocalypsenow:blue_fighting_leggings": [
+      26567,
+      0.6010664
+    ],
+    "apocalypsenow:blue_football_armor_leggings": [
+      26439,
+      0.7739134
+    ],
+    "apocalypsenow:bombsquad_leggings": [
+      8619,
+      38.89119
+    ],
+    "apocalypsenow:brazilian_army_leggings": [
+      25836,
+      1.5504236
+    ],
+    "apocalypsenow:british_army_leggings": [
+      25836,
+      1.5504236
+    ],
+    "apocalypsenow:canadian_army_leggings": [
+      25509,
+      1.9763931
+    ],
+    "apocalypsenow:chinese_army_leggings": [
+      25956,
+      1.3954209
+    ],
+    "apocalypsenow:construction_leggings": [
+      25216,
+      2.3624809
+    ],
+    "apocalypsenow:contamination_suit_blue_leggings": [
+      26339,
+      0.9035375
+    ],
+    "apocalypsenow:contamination_suit_green_leggings": [
+      26339,
+      0.9035375
+    ],
+    "apocalypsenow:contamination_suit_white_leggings": [
+      26339,
+      0.9035375
+    ],
+    "apocalypsenow:desertghillie_leggings": [
+      26615,
+      0.52929753
+    ],
+    "apocalypsenow:divingsuit_leggings": [
+      26615,
+      0.52929753
+    ],
+    "apocalypsenow:fire_figther_leggings": [
+      26080,
+      1.2359076
+    ],
+    "apocalypsenow:forestguard_leggings": [
+      26615,
+      0.52929753
+    ],
+    "apocalypsenow:ghilliesuit_leggings": [
+      26615,
+      0.52929753
+    ],
+    "apocalypsenow:hazmat_suit_leggings": [
+      26080,
+      1.2359076
+    ],
+    "apocalypsenow:hockey_leggings": [
+      25614,
+      1.8390346
+    ],
+    "apocalypsenow:italian_bersaglieri_army_leggings": [
+      25836,
+      1.5504236
+    ],
+    "apocalypsenow:japanese_army_leggings": [
+      25509,
+      1.9763931
+    ],
+    "apocalypsenow:jet_pilot_leggings": [
+      26231,
+      1.0422343
+    ],
+    "apocalypsenow:juggernaut_leggings": [
+      50,
+      57.957706
+    ],
+    "apocalypsenow:level_a_hazmatsuit_leggings": [
+      26255,
+      1.0114565
+    ],
+    "apocalypsenow:mexican_army_leggings": [
+      25509,
+      1.9763931
+    ],
+    "apocalypsenow:military_riot_armor_leggings": [
+      23433,
+      7.041143
+    ],
+    "apocalypsenow:military_urban_leggings": [
+      25544,
+      1.9305468
+    ],
+    "apocalypsenow:nurse_leggings": [
+      26836,
+      0.036399998
+    ],
+    "apocalypsenow:police_leggings": [
+      26409,
+      0.8130289
+    ],
+    "apocalypsenow:red_fighting_leggings": [
+      26567,
+      0.6010664
+    ],
+    "apocalypsenow:red_football_armor_leggings": [
+      26439,
+      0.7739134
+    ],
+    "apocalypsenow:royal_canada_police_officer_leggings": [
+      26404,
+      0.81952417
+    ],
+    "apocalypsenow:russian_army_leggings": [
+      25684,
+      1.7477659
+    ],
+    "apocalypsenow:rusty_leggings": [
+      26439,
+      0.7739134
+    ],
+    "apocalypsenow:snowghillie_leggings": [
+      26615,
+      0.52929753
+    ],
+    "apocalypsenow:soldier_leggings": [
+      25179,
+      2.88177
+    ],
+    "apocalypsenow:spec_ops_leggings": [
+      23327,
+      7.261838
+    ],
+    "apocalypsenow:swat_leggings": [
+      23834,
+      6.2049685
+    ],
+    "apocalypsenow:swatriotcontrol_leggings": [
+      23677,
+      6.532715
+    ],
+    "apocalypsenow:un_armor_leggings": [
+      25544,
+      1.9305468
+    ],
+    "apocalypsenow:us_army_leggings": [
+      25649,
+      1.7933697
+    ],
+    "apocalypsenow:usa_armor_leggings": [
+      25684,
+      1.7477659
+    ],
+    "apocalypsenow:yellow_football_armor_leggings": [
+      26439,
+      0.7739134
+    ],
+    "cold_sweat:goat_fur_pants": [
+      26479,
+      0.7212403
+    ],
+    "cold_sweat:hoglin_trousers": [
+      25952,
+      1.4005771
+    ],
+    "create:cardboard_leggings": [
+      26983,
+      0.021699999
+    ],
+    "immersiveengineering:armor_faraday_leggings": [
+      26997,
+      0.020299999
+    ],
+    "immersiveengineering:armor_steel_leggings": [
+      25847,
+      1.5361866
+    ],
+    "marbledsarsenal:acacia_ghillie_leggings": [
+      26855,
+      0.0345
+    ],
+    "marbledsarsenal:azalea_ghillie_leggings": [
+      26855,
+      0.0345
+    ],
+    "marbledsarsenal:birch_ghillie_leggings": [
+      26855,
+      0.0345
+    ],
+    "marbledsarsenal:black_juggernaut_armor_leggings": [
+      24670,
+      4.4243336
+    ],
+    "marbledsarsenal:catmaid_juggernaut_armor_leggings": [
+      24670,
+      4.4243336
+    ],
+    "marbledsarsenal:cherry_ghillie_leggings": [
+      26855,
+      0.0345
+    ],
+    "marbledsarsenal:dark_oak_ghillie_leggings": [
+      26855,
+      0.0345
+    ],
+    "marbledsarsenal:desert_military_armor_leggings": [
+      25179,
+      2.88177
+    ],
+    "marbledsarsenal:hazmat_armor_leggings": [
+      26832,
+      0.036799997
+    ],
+    "marbledsarsenal:jungle_ghillie_leggings": [
+      26855,
+      0.0345
+    ],
+    "marbledsarsenal:mangrove_ghillie_leggings": [
+      26855,
+      0.0345
+    ],
+    "marbledsarsenal:oak_ghillie_leggings": [
+      26855,
+      0.0345
+    ],
+    "marbledsarsenal:olive_juggernaut_armor_leggings": [
+      24670,
+      4.4243336
+    ],
+    "marbledsarsenal:riot_armor_leggings": [
+      25561,
+      1.9083
+    ],
+    "marbledsarsenal:spruce_ghillie_leggings": [
+      26855,
+      0.0345
+    ],
+    "marbledsarsenal:swat_armor_leggings": [
+      25561,
+      1.9083
+    ],
+    "marbledsarsenal:winter_military_armor_leggings": [
+      25179,
+      2.88177
+    ],
+    "mcore:steel_leggings": [
+      25979,
+      1.3657873
+    ],
+    "mcore:titanium_leggings": [
+      25337,
+      2.2025528
+    ],
+    "minecraft:chainmail_leggings": [
+      26608,
+      0.540316
+    ],
+    "minecraft:diamond_leggings": [
+      25692,
+      1.7373508
+    ],
+    "minecraft:golden_leggings": [
+      26674,
+      0.4136078
+    ],
+    "minecraft:iron_leggings": [
+      26360,
+      0.8764657
+    ],
+    "minecraft:leather_leggings": [
+      26956,
+      0.0244
+    ],
+    "minecraft:netherite_leggings": [
+      25565,
+      1.9030677
+    ],
+    "mutantmonsters:mutant_skeleton_leggings": [
+      26255,
+      1.0114565
+    ],
+    "undead_revamp2:cloggerarmor_leggings": [
+      25203,
+      2.3797028
+    ],
+    "zombie_extreme:camouflage_suit_forest_leggings": [
+      26826,
+      0.0374
+    ],
+    "zombie_extreme:combat_armor_leggings": [
+      25424,
+      2.087982
+    ],
+    "zombie_extreme:exo_suit_leggings": [
+      21372,
+      11.34403
+    ],
+    "zombie_extreme:hazmat_suit_leggings": [
+      25975,
+      1.3709393
+    ],
+    "zombie_extreme:juggernaut_suit_leggings": [
+      23440,
+      7.0265665
+    ],
+    "zombie_extreme:military_suit_leggings": [
+      25460,
+      2.0406785
+    ],
+    "zombie_extreme:swat_suit_leggings": [
+      25981,
+      1.3632114
+    ]
+  },
+  "CHEST": {
+    "alexsmobs:crocodile_chestplate": [
+      25918,
+      1.4444326
+    ],
+    "alexsmobs:rocky_chestplate": [
+      25997,
+      1.3426114
+    ],
+    "alexsmobs:tarantula_hawk_elytra": [
+      26345,
+      0.89580816
+    ],
+    "alexsmobs:unsettling_kimono": [
+      26568,
+      0.59963983
+    ],
+    "apocalypsenow:advanced_hazmat_suit_chestplate": [
+      26304,
+      0.948558
+    ],
+    "apocalypsenow:anarchy_chestplate": [
+      26374,
+      0.8583848
+    ],
+    "apocalypsenow:army_chestplate": [
+      26749,
+      0.045099996
+    ],
+    "apocalypsenow:atlast_7_chestplate": [
+      26080,
+      1.2359076
+    ],
+    "apocalypsenow:beret_chestplate": [
+      26080,
+      1.2359076
+    ],
+    "apocalypsenow:biohazard_chestplate": [
+      26080,
+      1.2359076
+    ],
+    "apocalypsenow:black_football_armor_chestplate": [
+      26439,
+      0.7739134
+    ],
+    "apocalypsenow:blue_fighting_chestplate": [
+      26567,
+      0.6010664
+    ],
+    "apocalypsenow:blue_football_armor_chestplate": [
+      26439,
+      0.7739134
+    ],
+    "apocalypsenow:bombsquad_chestplate": [
+      8619,
+      38.89119
+    ],
+    "apocalypsenow:brazilian_army_chestplate": [
+      25836,
+      1.5504236
+    ],
+    "apocalypsenow:british_army_chestplate": [
+      25836,
+      1.5504236
+    ],
+    "apocalypsenow:bulletproof_vest_chestplate": [
+      25326,
+      2.217064
+    ],
+    "apocalypsenow:bvd_assault_vest_chestplate": [
+      26394,
+      0.83249766
+    ],
+    "apocalypsenow:canadian_army_chestplate": [
+      25509,
+      1.9763931
+    ],
+    "apocalypsenow:chinese_army_chestplate": [
+      25956,
+      1.3954209
+    ],
+    "apocalypsenow:civilian_body_vest_chestplate": [
+      25746,
+      1.6671321
+    ],
+    "apocalypsenow:construction_chestplate": [
+      25216,
+      2.3624809
+    ],
+    "apocalypsenow:contamination_suit_blue_chestplate": [
+      26339,
+      0.9035375
+    ],
+    "apocalypsenow:contamination_suit_green_chestplate": [
+      26339,
+      0.9035375
+    ],
+    "apocalypsenow:contamination_suit_white_chestplate": [
+      26339,
+      0.9035375
+    ],
+    "apocalypsenow:desert_military_bulletproof_vest_chestplate": [
+      25326,
+      2.217064
+    ],
+    "apocalypsenow:desertcamo_6b_chestplate": [
+      26080,
+      1.2359076
+    ],
+    "apocalypsenow:desertghillie_chestplate": [
+      26615,
+      0.52929753
+    ],
+    "apocalypsenow:divingsuit_chestplate": [
+      26615,
+      0.52929753
+    ],
+    "apocalypsenow:fire_figther_chestplate": [
+      26080,
+      1.2359076
+    ],
+    "apocalypsenow:forestguard_chestplate": [
+      26615,
+      0.52929753
+    ],
+    "apocalypsenow:gas_tank_vest_chestplate": [
+      25746,
+      1.6671321
+    ],
+    "apocalypsenow:ghilliesuit_chestplate": [
+      26615,
+      0.52929753
+    ],
+    "apocalypsenow:hazmat_suit_chestplate": [
+      26080,
+      1.2359076
+    ],
+    "apocalypsenow:helicopter_chestplate": [
+      26404,
+      0.81952417
+    ],
+    "apocalypsenow:high_visibility_jacket_chestplate": [
+      26685,
+      0.37663084
+    ],
+    "apocalypsenow:hockey_chestplate": [
+      25614,
+      1.8390346
+    ],
+    "apocalypsenow:hunting_chestplate": [
+      26510,
+      0.67980134
+    ],
+    "apocalypsenow:italian_bersaglieri_army_chestplate": [
+      25836,
+      1.5504236
+    ],
+    "apocalypsenow:japanese_army_chestplate": [
+      25509,
+      1.9763931
+    ],
+    "apocalypsenow:jet_pilot_chestplate": [
+      26231,
+      1.0422343
+    ],
+    "apocalypsenow:juggernaut_chestplate": [
+      50,
+      57.957706
+    ],
+    "apocalypsenow:level_a_hazmatsuit_chestplate": [
+      26255,
+      1.0114565
+    ],
+    "apocalypsenow:life_jacket_bullet_helmet_chestplate": [
+      25956,
+      1.3954209
+    ],
+    "apocalypsenow:mexican_army_chestplate": [
+      25509,
+      1.9763931
+    ],
+    "apocalypsenow:military_beret_chestplate": [
+      26080,
+      1.2359076
+    ],
+    "apocalypsenow:military_bulletprooft_vest_chestplate": [
+      25326,
+      2.217064
+    ],
+    "apocalypsenow:military_pilot_headset_chestplate": [
+      26080,
+      1.2359076
+    ],
+    "apocalypsenow:military_riot_armor_chestplate": [
+      23433,
+      7.041143
+    ],
+    "apocalypsenow:military_urban_chestplate": [
+      25544,
+      1.9305468
+    ],
+    "apocalypsenow:nurse_chestplate": [
+      26836,
+      0.036399998
+    ],
+    "apocalypsenow:officer_beret_chestplate": [
+      26080,
+      1.2359076
+    ],
+    "apocalypsenow:police_chestplate": [
+      26409,
+      0.8130289
+    ],
+    "apocalypsenow:press_bulletproof_vest_chestplate": [
+      25870,
+      1.5064372
+    ],
+    "apocalypsenow:red_fighting_chestplate": [
+      26567,
+      0.6010664
+    ],
+    "apocalypsenow:red_football_armor_chestplate": [
+      26439,
+      0.7739134
+    ],
+    "apocalypsenow:royal_canada_police_officer_chestplate": [
+      26404,
+      0.81952417
+    ],
+    "apocalypsenow:russian_army_chestplate": [
+      25684,
+      1.7477659
+    ],
+    "apocalypsenow:rusty_chestplate": [
+      26439,
+      0.7739134
+    ],
+    "apocalypsenow:sixsh_116_chestplate": [
+      26081,
+      1.2346236
+    ],
+    "apocalypsenow:snowghillie_chestplate": [
+      26615,
+      0.52929753
+    ],
+    "apocalypsenow:soldier_chestplate": [
+      25179,
+      2.88177
+    ],
+    "apocalypsenow:spec_ops_chestplate": [
+      23327,
+      7.261838
+    ],
+    "apocalypsenow:specialoperationsvest_chestplate": [
+      25901,
+      1.4663801
+    ],
+    "apocalypsenow:swat_chestplate": [
+      23834,
+      6.2049685
+    ],
+    "apocalypsenow:swatriotcontrol_chestplate": [
+      23677,
+      6.532715
+    ],
+    "apocalypsenow:un_armor_chestplate": [
+      25544,
+      1.9305468
+    ],
+    "apocalypsenow:us_army_chestplate": [
+      25649,
+      1.7933697
+    ],
+    "apocalypsenow:usa_armor_chestplate": [
+      25684,
+      1.7477659
+    ],
+    "apocalypsenow:yellow_football_armor_chestplate": [
+      26439,
+      0.7739134
+    ],
+    "cold_sweat:goat_fur_parka": [
+      26479,
+      0.7212403
+    ],
+    "cold_sweat:hoglin_tunic": [
+      25952,
+      1.4005771
+    ],
+    "create:cardboard_chestplate": [
+      26983,
+      0.021699999
+    ],
+    "create:copper_backtank": [
+      26626,
+      0.5113901
+    ],
+    "create:netherite_backtank": [
+      25565,
+      1.9030677
+    ],
+    "immersiveengineering:armor_faraday_chestplate": [
+      26997,
+      0.020299999
+    ],
+    "immersiveengineering:armor_steel_chestplate": [
+      25847,
+      1.5361866
+    ],
+    "marbledsarsenal:acacia_ghillie_chestplate": [
+      26864,
+      0.0336
+    ],
+    "marbledsarsenal:azalea_ghillie_chestplate": [
+      26864,
+      0.0336
+    ],
+    "marbledsarsenal:birch_ghillie_chestplate": [
+      26864,
+      0.0336
+    ],
+    "marbledsarsenal:black_juggernaut_armor_chestplate": [
+      24708,
+      4.339341
+    ],
+    "marbledsarsenal:black_plate_carrier_heavy": [
+      25769,
+      1.6372684
+    ],
+    "marbledsarsenal:black_plate_carrier_light": [
+      26094,
+      1.2179327
+    ],
+    "marbledsarsenal:catmaid_juggernaut_armor_chestplate": [
+      24708,
+      4.339341
+    ],
+    "marbledsarsenal:cherry_ghillie_chestplate": [
+      26864,
+      0.0336
+    ],
+    "marbledsarsenal:dark_oak_ghillie_chestplate": [
+      26864,
+      0.0336
+    ],
+    "marbledsarsenal:desert_military_armor_chestplate": [
+      25211,
+      2.369104
+    ],
+    "marbledsarsenal:hazmat_armor_chestplate": [
+      26844,
+      0.0356
+    ],
+    "marbledsarsenal:jungle_ghillie_chestplate": [
+      26864,
+      0.0336
+    ],
+    "marbledsarsenal:mangrove_ghillie_chestplate": [
+      26864,
+      0.0336
+    ],
+    "marbledsarsenal:oak_ghillie_chestplate": [
+      26864,
+      0.0336
+    ],
+    "marbledsarsenal:olive_juggernaut_armor_chestplate": [
+      24708,
+      4.339341
+    ],
+    "marbledsarsenal:olive_plate_carrier_heavy": [
+      25769,
+      1.6372684
+    ],
+    "marbledsarsenal:olive_plate_carrier_light": [
+      26094,
+      1.2179327
+    ],
+    "marbledsarsenal:riot_armor_chestplate": [
+      25585,
+      1.8769172
+    ],
+    "marbledsarsenal:spruce_ghillie_chestplate": [
+      26864,
+      0.0336
+    ],
+    "marbledsarsenal:swat_armor_chestplate": [
+      25585,
+      1.8769172
+    ],
+    "marbledsarsenal:winter_military_armor_chestplate": [
+      25211,
+      2.369104
+    ],
+    "mcore:steel_chestplate": [
+      26009,
+      1.3271681
+    ],
+    "mcore:titanium_chestplate": [
+      25351,
+      2.1840923
+    ],
+    "minecraft:chainmail_chestplate": [
+      26608,
+      0.540316
+    ],
+    "minecraft:diamond_chestplate": [
+      25692,
+      1.7373508
+    ],
+    "minecraft:golden_chestplate": [
+      26674,
+      0.4136078
+    ],
+    "minecraft:iron_chestplate": [
+      26360,
+      0.8764657
+    ],
+    "minecraft:leather_chestplate": [
+      26956,
+      0.0244
+    ],
+    "minecraft:netherite_chestplate": [
+      25565,
+      1.9030677
+    ],
+    "mutantmonsters:mutant_skeleton_chestplate": [
+      26255,
+      1.0114565
+    ],
+    "undead_revamp2:bostroxset_chestplate": [
+      24862,
+      3.9834037
+    ],
+    "undead_revamp2:cloggerarmor_chestplate": [
+      25203,
+      2.3797028
+    ],
+    "undead_revamp2:primodialarmour_chestplate": [
+      26403,
+      0.82082254
+    ],
+    "zombie_extreme:camouflage_suit_forest_chestplate": [
+      26826,
+      0.0374
+    ],
+    "zombie_extreme:civilian_suit_chestplate": [
+      26519,
+      0.6676297
+    ],
+    "zombie_extreme:combat_armor_chestplate": [
+      25424,
+      2.087982
+    ],
+    "zombie_extreme:exo_suit_chestplate": [
+      21372,
+      11.34403
+    ],
+    "zombie_extreme:hazmat_suit_chestplate": [
+      25975,
+      1.3709393
+    ],
+    "zombie_extreme:juggernaut_suit_chestplate": [
+      23440,
+      7.0265665
+    ],
+    "zombie_extreme:military_suit_chestplate": [
+      25460,
+      2.0406785
+    ],
+    "zombie_extreme:police_suit_chestplate": [
+      26227,
+      1.047363
+    ],
+    "zombie_extreme:swat_suit_chestplate": [
+      25981,
+      1.3632114
+    ]
+  },
+  "HEAD": {
+    "alexsmobs:fedora": [
+      26741,
+      0.043899998
+    ],
+    "alexsmobs:frontier_cap": [
+      26435,
+      0.75292885
+    ],
+    "alexsmobs:froststalker_helmet": [
+      26528,
+      0.62781405
+    ],
+    "alexsmobs:moose_headgear": [
+      26426,
+      0.7647448
+    ],
+    "alexsmobs:novelty_hat": [
+      26741,
+      0.043899998
+    ],
+    "alexsmobs:sombrero": [
+      26712,
+      0.0468
+    ],
+    "alexsmobs:spiked_turtle_shell": [
+      26176,
+      1.0871058
+    ],
+    "apocalypsenow:advanced_hazmat_suit_helmet": [
+      26284,
+      0.948558
+    ],
+    "apocalypsenow:anarchy_helmet": [
+      26354,
+      0.8583848
+    ],
+    "apocalypsenow:army_helmet": [
+      26729,
+      0.045099996
+    ],
+    "apocalypsenow:aviator_hat_helmet": [
+      26316,
+      0.9074007
+    ],
+    "apocalypsenow:ballistic_mask_helmet": [
+      24671,
+      4.377466
+    ],
+    "apocalypsenow:baseball_cap_blue_helmet": [
+      26389,
+      0.8130289
+    ],
+    "apocalypsenow:baseball_cap_green_helmet": [
+      26389,
+      0.8130289
+    ],
+    "apocalypsenow:baseball_cap_red_helmet": [
+      26389,
+      0.8130289
+    ],
+    "apocalypsenow:baseball_helmet_helmet": [
+      25734,
+      1.6567419
+    ],
+    "apocalypsenow:beret_helmet": [
+      26060,
+      1.2359076
+    ],
+    "apocalypsenow:bikers_helmet": [
+      25936,
+      1.3954209
+    ],
+    "apocalypsenow:biohazard_helmet": [
+      26060,
+      1.2359076
+    ],
+    "apocalypsenow:black_bikers_helmet": [
+      25936,
+      1.3954209
+    ],
+    "apocalypsenow:black_football_armor_helmet": [
+      26419,
+      0.7739134
+    ],
+    "apocalypsenow:black_motorcycle_helmet_helmet": [
+      25516,
+      1.9410207
+    ],
+    "apocalypsenow:blackhockeymask_helmet": [
+      25664,
+      1.7477659
+    ],
+    "apocalypsenow:blue_fighting_helmet": [
+      26547,
+      0.6010664
+    ],
+    "apocalypsenow:blue_football_armor_helmet": [
+      26419,
+      0.7739134
+    ],
+    "apocalypsenow:bluemotorcyclehelmet_helmet": [
+      25516,
+      1.9410207
+    ],
+    "apocalypsenow:bombsquad_helmet": [
+      8599,
+      38.89119
+    ],
+    "apocalypsenow:brazilian_army_helmet": [
+      25816,
+      1.5504236
+    ],
+    "apocalypsenow:british_army_helmet": [
+      25816,
+      1.5504236
+    ],
+    "apocalypsenow:canadian_army_helmet": [
+      25489,
+      1.9763931
+    ],
+    "apocalypsenow:chinese_army_helmet": [
+      25936,
+      1.3954209
+    ],
+    "apocalypsenow:construction_helmet": [
+      25196,
+      2.3624809
+    ],
+    "apocalypsenow:contamination_suit_blue_helmet": [
+      26319,
+      0.9035375
+    ],
+    "apocalypsenow:contamination_suit_green_helmet": [
+      26319,
+      0.9035375
+    ],
+    "apocalypsenow:contamination_suit_white_helmet": [
+      26319,
+      0.9035375
+    ],
+    "apocalypsenow:cowboy_hat_helmet": [
+      25150,
+      2.9670084
+    ],
+    "apocalypsenow:desertghillie_helmet": [
+      26595,
+      0.52929753
+    ],
+    "apocalypsenow:divingsuit_helmet": [
+      26595,
+      0.52929753
+    ],
+    "apocalypsenow:fire_figther_helmet": [
+      26060,
+      1.2359076
+    ],
+    "apocalypsenow:forestguard_helmet": [
+      26595,
+      0.52929753
+    ],
+    "apocalypsenow:gas_mask_helmet_helmet": [
+      25629,
+      1.7933697
+    ],
+    "apocalypsenow:gasmask_helmet": [
+      26060,
+      1.2359076
+    ],
+    "apocalypsenow:gentex_hgu_56_p_helmet": [
+      26172,
+      1.0922337
+    ],
+    "apocalypsenow:ghilliesuit_helmet": [
+      26595,
+      0.52929753
+    ],
+    "apocalypsenow:gpnvg_18_helmet_helmet": [
+      25804,
+      1.5659617
+    ],
+    "apocalypsenow:green_bikers_helmet": [
+      25936,
+      1.3954209
+    ],
+    "apocalypsenow:hardhat_helmet": [
+      25196,
+      2.3624809
+    ],
+    "apocalypsenow:hazmat_suit_helmet": [
+      26060,
+      1.2359076
+    ],
+    "apocalypsenow:helicopter_helmet": [
+      26384,
+      0.81952417
+    ],
+    "apocalypsenow:hockey_helmet": [
+      25594,
+      1.8390346
+    ],
+    "apocalypsenow:hunting_helmet": [
+      26490,
+      0.67980134
+    ],
+    "apocalypsenow:italian_bersaglieri_army_helmet": [
+      25816,
+      1.5504236
+    ],
+    "apocalypsenow:japanese_army_helmet": [
+      25489,
+      1.9763931
+    ],
+    "apocalypsenow:jasonmask_helmet": [
+      25664,
+      1.7477659
+    ],
+    "apocalypsenow:jet_pilot_helmet": [
+      26211,
+      1.0422343
+    ],
+    "apocalypsenow:juggernaut_helmet": [
+      30,
+      57.957706
+    ],
+    "apocalypsenow:level_a_hazmatsuit_helmet": [
+      26235,
+      1.0114565
+    ],
+    "apocalypsenow:life_jacket_bullet_helmet_helmet": [
+      25936,
+      1.3954209
+    ],
+    "apocalypsenow:mcu2p_gasmask_helmet": [
+      26384,
+      0.81952417
+    ],
+    "apocalypsenow:mexican_army_helmet": [
+      25489,
+      1.9763931
+    ],
+    "apocalypsenow:military_beret_helmet": [
+      26060,
+      1.2359076
+    ],
+    "apocalypsenow:military_cap_helmet": [
+      26389,
+      0.8130289
+    ],
+    "apocalypsenow:military_riot_armor_helmet": [
+      23413,
+      7.041143
+    ],
+    "apocalypsenow:military_urban_helmet": [
+      25524,
+      1.9305468
+    ],
+    "apocalypsenow:mo4_forest_camo_helmet": [
+      26284,
+      0.948558
+    ],
+    "apocalypsenow:mo4_gas_mask_helmet": [
+      26284,
+      0.948558
+    ],
+    "apocalypsenow:mo4_mud_camo_helmet": [
+      26284,
+      0.948558
+    ],
+    "apocalypsenow:officer_beret_helmet": [
+      26060,
+      1.2359076
+    ],
+    "apocalypsenow:officer_hard_hat_helmet": [
+      25196,
+      2.3624809
+    ],
+    "apocalypsenow:officer_helmet": [
+      26384,
+      0.81952417
+    ],
+    "apocalypsenow:old_west_hat_helmet": [
+      25850,
+      1.5064372
+    ],
+    "apocalypsenow:orange_visor_gas_mask_helmet": [
+      25629,
+      1.7933697
+    ],
+    "apocalypsenow:patriotmotorcyclehelmet_helmet": [
+      25516,
+      1.9410207
+    ],
+    "apocalypsenow:pbf_hamstergasmask_helmet": [
+      26060,
+      1.2359076
+    ],
+    "apocalypsenow:pink_bikers_helmet": [
+      25936,
+      1.3954209
+    ],
+    "apocalypsenow:pkm_4gasmask_helmet": [
+      26060,
+      1.2359076
+    ],
+    "apocalypsenow:plague_mask_helmet": [
+      26316,
+      0.9074007
+    ],
+    "apocalypsenow:police_helmet": [
+      26389,
+      0.8130289
+    ],
+    "apocalypsenow:red_bikers_helmet": [
+      25936,
+      1.3954209
+    ],
+    "apocalypsenow:red_fighting_helmet": [
+      26547,
+      0.6010664
+    ],
+    "apocalypsenow:red_football_armor_helmet": [
+      26419,
+      0.7739134
+    ],
+    "apocalypsenow:red_motorcycle_helmet_helmet": [
+      25516,
+      1.9410207
+    ],
+    "apocalypsenow:rou_respirator_helmet": [
+      25936,
+      1.3954209
+    ],
+    "apocalypsenow:royal_canada_police_officer_helmet": [
+      26384,
+      0.81952417
+    ],
+    "apocalypsenow:russian_army_helmet": [
+      25664,
+      1.7477659
+    ],
+    "apocalypsenow:rusty_helmet": [
+      26419,
+      0.7739134
+    ],
+    "apocalypsenow:sack_helmet": [
+      27057,
+      0.0123
+    ],
+    "apocalypsenow:sheriff_helmet": [
+      25594,
+      1.8390346
+    ],
+    "apocalypsenow:snowghillie_helmet": [
+      26595,
+      0.52929753
+    ],
+    "apocalypsenow:soldier_helmet": [
+      25159,
+      2.88177
+    ],
+    "apocalypsenow:soviet_ushanka_helmet": [
+      26176,
+      1.0871058
+    ],
+    "apocalypsenow:spec_ops_helmet": [
+      23307,
+      7.261838
+    ],
+    "apocalypsenow:strawhat_helmet": [
+      25594,
+      1.8390346
+    ],
+    "apocalypsenow:swat_helmet": [
+      23814,
+      6.2049685
+    ],
+    "apocalypsenow:swatriotcontrol_helmet": [
+      23657,
+      6.532715
+    ],
+    "apocalypsenow:tank_helmet": [
+      25659,
+      1.7542769
+    ],
+    "apocalypsenow:un_armor_helmet": [
+      25524,
+      1.9305468
+    ],
+    "apocalypsenow:un_gas_mask_helmet_helmet": [
+      25629,
+      1.7933697
+    ],
+    "apocalypsenow:us_army_helmet": [
+      25629,
+      1.7933697
+    ],
+    "apocalypsenow:usa_armor_helmet": [
+      25664,
+      1.7477659
+    ],
+    "apocalypsenow:visor_helmet": [
+      26371,
+      0.8363856
+    ],
+    "apocalypsenow:welding_mask_helmet": [
+      25159,
+      2.88177
+    ],
+    "apocalypsenow:yellow_football_armor_helmet": [
+      26419,
+      0.7739134
+    ],
+    "cold_sweat:goat_fur_cap": [
+      26459,
+      0.7212403
+    ],
+    "cold_sweat:hoglin_headpiece": [
+      25932,
+      1.4005771
+    ],
+    "create:cardboard_helmet": [
+      26963,
+      0.021699999
+    ],
+    "create:copper_diving_helmet": [
+      26606,
+      0.5113901
+    ],
+    "create:netherite_diving_helmet": [
+      25545,
+      1.9030677
+    ],
+    "immersive_weathering:flower_crown": [
+      26820,
+      0.036
+    ],
+    "immersiveengineering:armor_faraday_helmet": [
+      26977,
+      0.020299999
+    ],
+    "immersiveengineering:armor_steel_helmet": [
+      25827,
+      1.5361866
+    ],
+    "marbledsarsenal:acacia_ghillie_helmet": [
+      26827,
+      0.035299998
+    ],
+    "marbledsarsenal:azalea_ghillie_helmet": [
+      26827,
+      0.035299998
+    ],
+    "marbledsarsenal:birch_ghillie_helmet": [
+      26827,
+      0.035299998
+    ],
+    "marbledsarsenal:black_gp5_gas_mask": [
+      26197,
+      1.0601839
+    ],
+    "marbledsarsenal:black_juggernaut_armor_helmet": [
+      24617,
+      4.4975233
+    ],
+    "marbledsarsenal:black_military_beret": [
+      26239,
+      1.0063256
+    ],
+    "marbledsarsenal:catmaid_juggernaut_armor_helmet": [
+      24617,
+      4.4975233
+    ],
+    "marbledsarsenal:cherry_ghillie_helmet": [
+      26827,
+      0.035299998
+    ],
+    "marbledsarsenal:cm6m_gas_mask": [
+      26197,
+      1.0601839
+    ],
+    "marbledsarsenal:cm7m_gas_mask": [
+      26197,
+      1.0601839
+    ],
+    "marbledsarsenal:cm8m_gas_mask": [
+      26197,
+      1.0601839
+    ],
+    "marbledsarsenal:combat_helmet": [
+      26040,
+      1.2615967
+    ],
+    "marbledsarsenal:dark_oak_ghillie_helmet": [
+      26827,
+      0.035299998
+    ],
+    "marbledsarsenal:desert_military_armor_helmet": [
+      25131,
+      3.095307
+    ],
+    "marbledsarsenal:hazmat_armor_helmet": [
+      26802,
+      0.0378
+    ],
+    "marbledsarsenal:helmet_cm6m_gas_mask": [
+      26040,
+      1.2615967
+    ],
+    "marbledsarsenal:helmet_cm7m_gas_mask": [
+      26040,
+      1.2615967
+    ],
+    "marbledsarsenal:helmet_cm8m_gas_mask": [
+      26040,
+      1.2615967
+    ],
+    "marbledsarsenal:jungle_ghillie_helmet": [
+      26827,
+      0.035299998
+    ],
+    "marbledsarsenal:mangrove_ghillie_helmet": [
+      26827,
+      0.035299998
+    ],
+    "marbledsarsenal:oak_ghillie_helmet": [
+      26827,
+      0.035299998
+    ],
+    "marbledsarsenal:olive_combat_helmet": [
+      26040,
+      1.2615967
+    ],
+    "marbledsarsenal:olive_helmet_cm6m_gas_mask": [
+      26040,
+      1.2615967
+    ],
+    "marbledsarsenal:olive_helmet_cm7m_gas_mask": [
+      26040,
+      1.2615967
+    ],
+    "marbledsarsenal:olive_helmet_cm8m_gas_mask": [
+      26040,
+      1.2615967
+    ],
+    "marbledsarsenal:olive_juggernaut_armor_helmet": [
+      24617,
+      4.4975233
+    ],
+    "marbledsarsenal:red_military_beret": [
+      26239,
+      1.0063256
+    ],
+    "marbledsarsenal:riot_armor_helmet": [
+      25520,
+      1.9357834
+    ],
+    "marbledsarsenal:spruce_ghillie_helmet": [
+      26827,
+      0.035299998
+    ],
+    "marbledsarsenal:swat_armor_helmet": [
+      25520,
+      1.9357834
+    ],
+    "marbledsarsenal:un_combat_helmet": [
+      26040,
+      1.2615967
+    ],
+    "marbledsarsenal:un_helmet_cm6m_gas_mask": [
+      26040,
+      1.2615967
+    ],
+    "marbledsarsenal:un_helmet_cm7m_gas_mask": [
+      26040,
+      1.2615967
+    ],
+    "marbledsarsenal:un_helmet_cm8m_gas_mask": [
+      26040,
+      1.2615967
+    ],
+    "marbledsarsenal:un_military_beret": [
+      26239,
+      1.0063256
+    ],
+    "marbledsarsenal:white_gp5_gas_mask": [
+      26197,
+      1.0601839
+    ],
+    "marbledsarsenal:winter_military_armor_helmet": [
+      25131,
+      3.095307
+    ],
+    "mcore:steel_helmet": [
+      25932,
+      1.4005771
+    ],
+    "mcore:titanium_helmet": [
+      25304,
+      2.2197032
+    ],
+    "minecraft:chainmail_helmet": [
+      26588,
+      0.540316
+    ],
+    "minecraft:diamond_helmet": [
+      25672,
+      1.7373508
+    ],
+    "minecraft:golden_helmet": [
+      26654,
+      0.4136078
+    ],
+    "minecraft:iron_helmet": [
+      26340,
+      0.8764657
+    ],
+    "minecraft:leather_helmet": [
+      26936,
+      0.0244
+    ],
+    "minecraft:netherite_helmet": [
+      25545,
+      1.9030677
+    ],
+    "minecraft:turtle_helmet": [
+      26284,
+      0.948558
+    ],
+    "theoneprobe:diamond_helmet_probe": [
+      25673,
+      1.736049
+    ],
+    "theoneprobe:gold_helmet_probe": [
+      26629,
+      0.47038844
+    ],
+    "theoneprobe:iron_helmet_probe": [
+      26322,
+      0.89967334
+    ],
+    "undead_revamp2:bostroxset_helmet": [
+      24842,
+      3.9834037
+    ],
+    "undead_revamp2:cloggerarmor_helmet": [
+      25183,
+      2.3797028
+    ],
+    "undead_revamp2:imbuemask_helmet": [
+      26141,
+      1.1319785
+    ],
+    "undead_revamp2:nullifymask_helmet": [
+      26141,
+      1.1319785
+    ],
+    "undead_revamp2:primodialarmour_helmet": [
+      26383,
+      0.82082254
+    ],
+    "undead_revamp2:shieldmask_helmet": [
+      24651,
+      4.422107
+    ],
+    "undead_revamp2:witherchargemask_helmet": [
+      26591,
+      0.53562516
+    ],
+    "zombie_extreme:berret_helmet": [
+      26956,
+      0.0224
+    ],
+    "zombie_extreme:black_ops_glasses_helmet": [
+      26263,
+      0.9755281
+    ],
+    "zombie_extreme:camouflage_suit_forest_helmet": [
+      26806,
+      0.0374
+    ],
+    "zombie_extreme:civilian_suit_helmet": [
+      26499,
+      0.6676297
+    ],
+    "zombie_extreme:combat_armor_helmet": [
+      25404,
+      2.087982
+    ],
+    "zombie_extreme:exo_suit_helmet": [
+      21352,
+      11.34403
+    ],
+    "zombie_extreme:gas_mask_helmet": [
+      26941,
+      0.023899999
+    ],
+    "zombie_extreme:hazmat_suit_helmet": [
+      25955,
+      1.3709393
+    ],
+    "zombie_extreme:juggernaut_suit_helmet": [
+      23420,
+      7.0265665
+    ],
+    "zombie_extreme:military_suit_helmet": [
+      25440,
+      2.0406785
+    ],
+    "zombie_extreme:night_vision_glasses_helmet": [
+      26856,
+      0.0324
+    ],
+    "zombie_extreme:police_suit_helmet": [
+      26207,
+      1.047363
+    ],
+    "zombie_extreme:swat_suit_helmet": [
+      25961,
+      1.3632114
+    ]
+  }
+}

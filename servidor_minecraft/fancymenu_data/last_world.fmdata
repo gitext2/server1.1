@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = C:/Users/RivaM/AppData/Roaming/.minecraft/modpacks/f8df8349-ce9b-3d38-b3af-e1eae02de466/saves/Mundo nuevo
+}
+
