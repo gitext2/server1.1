@@ -342,6 +342,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-07-22 01:45:43 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-22 01:28:17 +0000"
@@ -1062,6 +1068,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-22 01:45:47 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-07-22 01:36:32 +0000"
@@ -1092,6 +1104,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-07-22 01:45:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-07-22 01:36:32 +0000"
@@ -1107,6 +1125,12 @@
   "decorative_blocks:recipes/decorations/chandelier": {
     "criteria": {
       "has_torch": "2025-07-22 01:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-07-22 01:45:48 +0000"
     },
     "done": true
   },
@@ -1590,6 +1614,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-07-22 01:45:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-07-22 01:26:59 +0000"
@@ -1602,6 +1632,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-07-22 01:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-07-22 01:45:43 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-07-22 01:22:52 +0000"
@@ -1610,6 +1652,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-07-22 01:49:07 +0000",
       "minecraft:river": "2025-07-22 01:29:19 +0000"
     },
     "done": false
@@ -1631,6 +1674,12 @@
       "has_stick": "2025-07-22 01:25:37 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-07-22 01:45:55 +0000"
+    },
+    "done": false
   },
   "bbb:recipes/acacia_support": {
     "criteria": {

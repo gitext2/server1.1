@@ -4003,3 +4003,50 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Jul2025 01:44:29.113] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=601, y=-58, z=1299}
 [22Jul2025 01:44:29.220] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=739, y=-58, z=1295}
 [22Jul2025 01:44:33.715] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=601, y=-58, z=1297}
+[22Jul2025 01:44:44.155] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=906, y=-59, z=1298}
+[22Jul2025 01:44:44.155] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=905, y=-59, z=1299}
+[22Jul2025 01:44:44.155] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=907, y=-59, z=1299}
+[22Jul2025 01:44:51.805] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=907, y=-59, z=1299}
+[22Jul2025 01:44:53.145] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=910, y=-59, z=1288}
+[22Jul2025 01:44:53.145] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=911, y=-59, z=1287}
+[22Jul2025 01:44:53.145] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=909, y=-59, z=1287}
+[22Jul2025 01:44:53.351] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=906, y=-59, z=1298}
+[22Jul2025 01:44:53.351] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=905, y=-59, z=1299}
+[22Jul2025 01:44:54.289] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=910, y=-59, z=1288}
+[22Jul2025 01:44:54.289] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=911, y=-59, z=1287}
+[22Jul2025 01:44:54.289] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=909, y=-59, z=1287}
+[22Jul2025 01:44:54.290] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=906, y=-59, z=1298}
+[22Jul2025 01:44:54.290] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=905, y=-59, z=1299}
+[22Jul2025 01:44:54.290] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=907, y=-59, z=1299}
+[22Jul2025 01:44:54.393] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=910, y=-59, z=1288}
+[22Jul2025 01:44:54.393] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=911, y=-59, z=1287}
+[22Jul2025 01:44:54.394] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=909, y=-59, z=1287}
+[22Jul2025 01:44:55.102] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=866, y=-58, z=1289}
+[22Jul2025 01:45:05.390] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=866, y=-58, z=1289}
+[22Jul2025 01:45:12.594] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=866, y=-58, z=1289}
+[22Jul2025 01:45:43.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has made the advancement [Monster Hunter]
+[22Jul2025 01:45:48.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has made the advancement [Suit Up]
+[22Jul2025 01:46:19.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Killed Sr_Riva]
+[22Jul2025 01:46:26.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva died
+[22Jul2025 01:46:27.689] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[22Jul2025 01:46:27.689] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[22Jul2025 01:47:24.111] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[22Jul2025 01:47:24.111] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[22Jul2025 01:47:57.561] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[22Jul2025 01:47:59.261] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[22Jul2025 01:48:45.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Killed BlaseTK]
+[22Jul2025 01:48:52.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK died from dehydration
+[22Jul2025 01:48:53.954] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[22Jul2025 01:48:53.954] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[22Jul2025 01:48:56.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[22Jul2025 01:48:59.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[22Jul2025 01:49:26.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [Not Today, Thank You]
+[22Jul2025 01:49:31.589] [Worker-Main-14/ERROR] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: No starting jigsaw minecraft:bottom found in start pool minecraft:village/savanna/town_centers
+[22Jul2025 01:50:18.449] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=-59, z=251}
+[22Jul2025 01:50:45.162] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-502, y=-58, z=246}
+[22Jul2025 01:50:45.164] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-492, y=-58, z=250}
+[22Jul2025 01:51:01.360] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-445, y=-55, z=249}
+[22Jul2025 01:51:03.963] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=-59, z=251}
+[22Jul2025 01:51:04.122] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-445, y=-55, z=249}
+[22Jul2025 01:52:19.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[22Jul2025 01:53:01.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
