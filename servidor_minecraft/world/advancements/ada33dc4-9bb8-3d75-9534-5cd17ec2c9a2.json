@@ -1774,9 +1774,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2025-07-22 02:02:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-07-22 02:08:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-07-22 01:56:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/building_blocks/acacia_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2025-07-22 02:09:18 +0000"
     },
     "done": true
   },
@@ -1789,6 +1807,12 @@
   "bbb:recipes/rope": {
     "criteria": {
       "has_string": "2025-07-22 01:56:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-07-22 02:09:18 +0000"
     },
     "done": true
   },
@@ -1810,9 +1834,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-22 02:09:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-07-22 01:56:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-07-22 02:08:16 +0000"
     },
     "done": true
   },
@@ -1834,9 +1870,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-07-22 02:09:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-07-22 01:56:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-07-22 02:09:18 +0000"
     },
     "done": true
   },
