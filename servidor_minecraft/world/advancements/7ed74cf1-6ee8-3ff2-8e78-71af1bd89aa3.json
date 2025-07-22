@@ -2485,6 +2485,12 @@
     },
     "done": true
   },
+  "cold_sweat:huddle_close": {
+    "criteria": {
+      "requirement": "2025-07-22 02:15:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-07-22 02:09:37 +0000"

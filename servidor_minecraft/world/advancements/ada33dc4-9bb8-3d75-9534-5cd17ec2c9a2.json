@@ -1792,6 +1792,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_white_sheet": "2025-07-22 02:21:08 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/building_blocks/acacia_herringbone_planks": {
     "criteria": {
       "has_wood_slabs": "2025-07-22 02:09:18 +0000"
@@ -1801,6 +1807,36 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-07-22 01:56:43 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2025-07-22 02:21:08 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:huddle_close": {
+    "criteria": {
+      "requirement": "2025-07-22 02:15:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/white_shower_towel": {
+    "criteria": {
+      "has_white_wool": "2025-07-22 02:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-22 02:13:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-22 02:21:08 +0000"
     },
     "done": true
   },
@@ -1834,6 +1870,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-22 02:21:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-07-22 02:09:18 +0000"
@@ -1843,6 +1885,36 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-07-22 01:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-22 02:11:49 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/radiator": {
+    "criteria": {
+      "has_water_bucket": "2025-07-22 02:13:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_white_cushion": "2025-07-22 02:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-22 02:21:08 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basic_shower_head": {
+    "criteria": {
+      "has_water_bucket": "2025-07-22 02:13:49 +0000"
     },
     "done": true
   },
@@ -1858,6 +1930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-22 02:21:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-07-22 01:59:18 +0000"
@@ -1870,9 +1948,27 @@
     },
     "done": true
   },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2025-07-22 02:21:08 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wood_bowl": {
     "criteria": {
       "has_wood_bowl": "2025-07-22 02:09:18 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/jerrycan": {
+    "criteria": {
+      "has_bucket": "2025-07-22 02:12:39 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_white": {
+    "criteria": {
+      "oak_chair_classic_white": "2025-07-22 02:21:08 +0000"
     },
     "done": true
   },
