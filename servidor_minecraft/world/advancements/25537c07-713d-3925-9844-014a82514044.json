@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-07-22 01:53:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-07-22 01:22:15 +0000"
@@ -59,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2025-07-22 02:00:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-07-22 01:49:26 +0000"
@@ -74,6 +86,18 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-22 01:31:01 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/acacia_lantern": {
+    "criteria": {
+      "has_torch": "2025-07-22 01:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-07-22 02:01:08 +0000"
     },
     "done": true
   },
@@ -143,6 +167,12 @@
     },
     "done": true
   },
+  "bbb:recipes/bamboo_lantern": {
+    "criteria": {
+      "has_torch": "2025-07-22 01:59:39 +0000"
+    },
+    "done": true
+  },
   "ags_day_counter:firts_day_advancement": {
     "criteria": {
       "firts_day_advancement_0": "2025-07-22 01:40:59 +0000"
@@ -158,6 +188,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-07-22 01:45:05 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_lantern": {
+    "criteria": {
+      "has_torch": "2025-07-22 01:59:39 +0000"
     },
     "done": true
   },
@@ -182,6 +218,12 @@
   "securitycraft:recipes/decorations/floor_trap": {
     "criteria": {
       "has_iron": "2025-07-22 01:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-07-22 01:53:05 +0000"
     },
     "done": true
   },
@@ -257,9 +299,21 @@
     },
     "done": true
   },
+  "bbb:recipes/dark_oak_lantern": {
+    "criteria": {
+      "has_torch": "2025-07-22 01:59:39 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_cupboard": {
     "criteria": {
       "has_acacia_cupboard": "2025-07-22 01:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-22 01:55:21 +0000"
     },
     "done": true
   },
@@ -336,6 +390,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_white_sheet": "2025-07-22 01:53:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-07-22 01:34:08 +0000"
@@ -390,6 +450,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-07-22 01:53:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/whitelist_module": {
     "criteria": {
       "has_iron": "2025-07-22 01:37:24 +0000"
@@ -423,6 +489,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-07-22 01:21:21 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/crimson_lantern": {
+    "criteria": {
+      "has_torch": "2025-07-22 01:59:39 +0000"
     },
     "done": true
   },
@@ -528,6 +600,18 @@
     },
     "done": true
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-07-22 02:00:38 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-07-22 01:53:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-22 01:31:01 +0000"
@@ -594,6 +678,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2025-07-22 01:53:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-22 01:21:21 +0000"
@@ -654,6 +744,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/white_shower_towel": {
+    "criteria": {
+      "has_white_wool": "2025-07-22 01:53:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-07-22 01:19:40 +0000"
@@ -681,6 +777,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-07-22 01:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-07-22 01:53:05 +0000"
     },
     "done": true
   },
@@ -840,6 +942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-22 02:01:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2025-07-22 01:19:40 +0000"
@@ -870,6 +978,12 @@
     },
     "done": true
   },
+  "bbb:recipes/spruce_lantern": {
+    "criteria": {
+      "has_torch": "2025-07-22 01:59:39 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-07-22 01:17:33 +0000"
@@ -885,6 +999,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-07-22 01:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-07-22 01:53:05 +0000"
     },
     "done": true
   },
@@ -909,6 +1029,12 @@
   "pfm:recipes/furniture/kitchen_stovetop": {
     "criteria": {
       "has_iron_ingot": "2025-07-22 01:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-22 01:53:57 +0000"
     },
     "done": true
   },
@@ -1135,6 +1261,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-07-22 02:00:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-07-22 01:25:21 +0000"
@@ -1165,6 +1297,18 @@
     },
     "done": true
   },
+  "bbb:recipes/jungle_lantern": {
+    "criteria": {
+      "has_torch": "2025-07-22 01:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-07-22 01:53:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-22 01:31:01 +0000"
@@ -1180,6 +1324,12 @@
   "bbb:recipes/acacia_frame": {
     "criteria": {
       "has_planks": "2025-07-22 01:19:40 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/chandelier": {
+    "criteria": {
+      "has_torch": "2025-07-22 01:59:39 +0000"
     },
     "done": true
   },
@@ -1351,6 +1501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-22 01:53:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-07-22 01:25:21 +0000"
@@ -1405,6 +1561,12 @@
     },
     "done": true
   },
+  "bbb:recipes/warped_lantern": {
+    "criteria": {
+      "has_torch": "2025-07-22 01:59:39 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_side_table": {
     "criteria": {
       "has_acacia_side_table": "2025-07-22 01:20:36 +0000"
@@ -1441,6 +1603,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/conveyor_basic": {
+    "criteria": {
+      "has_leather": "2025-07-22 01:53:05 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/mangrove_lantern": {
+    "criteria": {
+      "has_torch": "2025-07-22 01:59:39 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-07-22 01:17:33 +0000"
@@ -1462,6 +1636,12 @@
   "bbb:recipes/cobblestone_layer": {
     "criteria": {
       "has_block": "2025-07-22 01:21:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_white_cushion": "2025-07-22 01:53:57 +0000"
     },
     "done": true
   },
@@ -1501,6 +1681,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-22 01:53:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-07-22 01:34:08 +0000"
@@ -1522,6 +1708,12 @@
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-22 01:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-07-22 01:58:46 +0000"
     },
     "done": true
   },
@@ -1609,6 +1801,12 @@
     },
     "done": true
   },
+  "bbb:recipes/birch_lantern": {
+    "criteria": {
+      "has_torch": "2025-07-22 01:59:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-07-22 01:24:45 +0000"
@@ -1633,9 +1831,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-22 02:01:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-07-22 01:45:05 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/powerpack": {
+    "criteria": {
+      "has_leather": "2025-07-22 01:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-22 01:53:57 +0000"
     },
     "done": true
   },
@@ -1687,6 +1903,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-07-22 01:53:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/smart_module": {
     "criteria": {
       "has_iron": "2025-07-22 01:37:24 +0000"
@@ -1702,6 +1924,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-07-22 01:21:21 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/oak_lantern": {
+    "criteria": {
+      "has_torch": "2025-07-22 01:59:39 +0000"
     },
     "done": true
   },
@@ -1765,6 +1993,12 @@
     },
     "done": true
   },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2025-07-22 01:53:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-22 01:31:01 +0000"
@@ -1798,7 +2032,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-07-22 01:25:57 +0000",
-      "minecraft:desert": "2025-07-22 01:30:19 +0000"
+      "minecraft:forest": "2025-07-22 01:52:19 +0000",
+      "minecraft:desert": "2025-07-22 01:30:19 +0000",
+      "minecraft:meadow": "2025-07-22 01:59:03 +0000",
+      "minecraft:plains": "2025-07-22 01:59:49 +0000"
     },
     "done": false
   },
@@ -1851,6 +2088,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/oak_chair_classic_white": {
+    "criteria": {
+      "oak_chair_classic_white": "2025-07-22 01:53:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-07-22 01:26:33 +0000"
@@ -1884,6 +2127,12 @@
   "cold_sweat:recipes/thermometer": {
     "criteria": {
       "temperature": "2025-07-22 01:21:41 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2025-07-22 01:59:39 +0000"
     },
     "done": true
   },
