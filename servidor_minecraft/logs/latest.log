@@ -3937,3 +3937,35 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Jul2025 01:23:23.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Elishy_ to Sr_Riva]
 [22Jul2025 01:24:23.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Set own game mode to Survival Mode]
 [22Jul2025 01:24:26.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has made the advancement [A Seedy Place]
+[22Jul2025 01:25:03.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Difficulty paused]
+[22Jul2025 01:25:06.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has made the advancement [The Parrots and the Bats]
+[22Jul2025 01:25:55.432] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-204, y=60, z=-93}
+[22Jul2025 01:26:59.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has made the advancement [Stone Age]
+[22Jul2025 01:27:06.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has made the advancement [Getting an Upgrade]
+[22Jul2025 01:27:13.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [Monster Hunter]
+[22Jul2025 01:27:29.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[22Jul2025 01:28:19.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ died from dehydration
+[22Jul2025 01:28:21.045] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
+[22Jul2025 01:28:21.046] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
+[22Jul2025 01:29:16.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Killed BlaseTK]
+[22Jul2025 01:29:22.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK died
+[22Jul2025 01:29:24.167] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[22Jul2025 01:29:24.167] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[22Jul2025 01:29:27.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has made the advancement [Crops of the Wild]
+[22Jul2025 01:29:34.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has made the advancement [Crops of the Wild]
+[22Jul2025 01:30:01.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has made the advancement [Acquire Hardware]
+[22Jul2025 01:31:11.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has made the advancement [Inhospitable]
+[22Jul2025 01:32:13.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[22Jul2025 01:32:35.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has made the advancement [Inhospitable]
+[22Jul2025 01:33:31.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva was slain by Zombie
+[22Jul2025 01:33:33.293] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[22Jul2025 01:33:33.294] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[22Jul2025 01:34:08.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[22Jul2025 01:34:19.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was shot by Husk
+[22Jul2025 01:34:22.388] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[22Jul2025 01:34:22.389] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[22Jul2025 01:34:24.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[22Jul2025 01:34:30.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ was slain by Husk
+[22Jul2025 01:34:32.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[22Jul2025 01:34:35.198] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
+[22Jul2025 01:34:35.199] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
