@@ -1792,6 +1792,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-07-22 02:41:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-22 02:43:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-07-22 01:56:43 +0000"
@@ -1951,6 +1963,18 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-07-22 02:22:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-07-22 02:41:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-22 02:41:39 +0000"
     },
     "done": true
   },
@@ -2158,6 +2182,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-22 02:41:39 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_couch": {
     "criteria": {
       "has_dark_oak_couch": "2025-07-22 02:22:16 +0000"
@@ -2311,6 +2341,12 @@
   "handcrafted:recipes/misc/dark_oak_pillar_trim": {
     "criteria": {
       "has_dark_oak_pillar_trim": "2025-07-22 02:22:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-07-22 02:41:39 +0000"
     },
     "done": true
   },
