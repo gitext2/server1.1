@@ -25162,3 +25162,85 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Jul2025 03:22:51.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo2
 [24Jul2025 03:23:00.397] [IO-Worker-131/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-132
 [24Jul2025 03:23:07.744] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:23:09.745] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:23:11.746] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:23:13.744] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:23:15.750] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:23:17.745] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:23:19.744] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:23:21.745] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:23:22.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Killed BlaseTK]
+[24Jul2025 03:23:23.744] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:23:25.744] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:23:27.744] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:23:29.742] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:23:29.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK died from dehydration
+[24Jul2025 03:23:30.982] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:23:31.111] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[24Jul2025 03:23:31.112] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[24Jul2025 03:23:50.845] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:23:54.195] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:23:54.846] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:23:56.188] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:23:58.188] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:23:58.837] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:24:00.196] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:24:02.200] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:24:02.846] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:24:04.196] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:24:06.197] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:24:06.849] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:24:08.196] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:24:10.196] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:24:10.847] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:24:12.198] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:24:14.197] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:24:14.503] [IO-Worker-128/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-133
+[24Jul2025 03:24:16.197] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:24:18.198] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:24:19.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva died from dehydration
+[24Jul2025 03:24:20.753] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:24:20.919] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[24Jul2025 03:24:20.919] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[24Jul2025 03:24:22.940] [IO-Worker-128/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-134
+[24Jul2025 03:25:24.425] [IO-Worker-130/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-135
+[24Jul2025 03:25:24.425] [IO-Worker-130/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-136
+[24Jul2025 03:25:35.995] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:25:36.495] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:25:37.003] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:25:37.497] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:25:38.003] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:25:38.496] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:25:38.997] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:25:39.494] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:25:39.993] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:25:40.496] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:25:40.995] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:25:41.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[24Jul2025 03:25:41.494] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:25:41.994] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:25:42.494] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:25:43.008] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:25:43.493] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:25:43.993] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:27:38.088] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:pumpkin_ruin_one
+[24Jul2025 03:27:42.803] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_tower_2
+[24Jul2025 03:27:51.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo2
+[24Jul2025 03:27:51.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo2
+[24Jul2025 03:27:55.052] [IO-Worker-136/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-137
+[24Jul2025 03:28:15.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[24Jul2025 03:28:19.046] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:mod_structures/desert_ruin4
+[24Jul2025 03:28:55.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[24Jul2025 03:31:04.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has made the advancement [Bonfire Lit]
+[24Jul2025 03:31:26.496] [IO-Worker-133/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-138
+[24Jul2025 03:31:58.394] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:31:58.394] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:32:00.645] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:32:00.645] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:32:01.544] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:32:01.544] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:32:33.397] [IO-Worker-138/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-139
+[24Jul2025 03:32:51.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo2
+[24Jul2025 03:32:51.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo2
+[24Jul2025 03:33:15.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [Keep Going]
+[24Jul2025 03:33:15.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has made the advancement [Keep Going]

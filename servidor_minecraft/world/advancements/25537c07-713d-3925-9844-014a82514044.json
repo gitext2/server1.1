@@ -980,6 +980,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-07-24 03:27:44 +0000",
       "minecraft:river": "2025-07-22 01:25:57 +0000",
       "minecraft:forest": "2025-07-22 01:52:19 +0000",
       "minecraft:desert": "2025-07-22 01:30:19 +0000",
@@ -2791,6 +2792,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/black_sheet": {
+    "criteria": {
+      "has_black_sheet": "2025-07-24 03:26:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-07-24 01:45:44 +0000"
@@ -2818,6 +2825,12 @@
   "handcrafted:recipes/misc/birch_shelf": {
     "criteria": {
       "has_birch_shelf": "2025-07-24 01:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-07-24 03:26:35 +0000"
     },
     "done": true
   },
@@ -3073,6 +3086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-07-24 03:26:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_sheet_from_orange_dye": {
     "criteria": {
       "has_orange_sheet": "2025-07-24 02:28:30 +0000"
@@ -3289,6 +3308,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/black_cushion": {
+    "criteria": {
+      "has_black_cushion": "2025-07-24 03:26:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-07-24 02:23:06 +0000"
@@ -3439,6 +3464,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2025-07-24 03:26:35 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/light_gray_sheet": {
     "criteria": {
       "has_light_gray_sheet": "2025-07-24 02:44:55 +0000"
@@ -3466,6 +3497,12 @@
   "pfm:recipes/furniture/yellow_simple_sofa": {
     "criteria": {
       "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-07-24 03:26:35 +0000"
     },
     "done": true
   },
@@ -3529,6 +3566,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/oak_chair_classic_black": {
+    "criteria": {
+      "oak_chair_classic_black": "2025-07-24 03:26:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_sheet_from_white_dye": {
     "criteria": {
       "has_white_sheet": "2025-07-24 02:28:30 +0000"
@@ -3550,6 +3593,12 @@
   "handcrafted:recipes/misc/birch_chair": {
     "criteria": {
       "has_birch_chair": "2025-07-24 01:45:44 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/black_shower_towel": {
+    "criteria": {
+      "has_black_wool": "2025-07-24 03:26:35 +0000"
     },
     "done": true
   },
@@ -3586,6 +3635,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-07-24 02:39:13 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2025-07-24 03:26:35 +0000"
     },
     "done": true
   },
