@@ -3979,6 +3979,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-07-24 03:51:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_sheet_from_cyan_dye": {
     "criteria": {
       "has_cyan_sheet": "2025-07-24 03:17:27 +0000"

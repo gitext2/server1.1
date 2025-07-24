@@ -4284,3 +4284,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Jul2025 03:40:57.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ died
 [24Jul2025 03:40:58.819] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
 [24Jul2025 03:40:58.819] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
+[24Jul2025 03:48:51.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Set own game mode to Creative Mode]
+[24Jul2025 03:50:06.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Set own game mode to Survival Mode]
