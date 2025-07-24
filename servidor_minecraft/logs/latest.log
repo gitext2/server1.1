@@ -4131,3 +4131,31 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Jul2025 02:41:15.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was slain by Grizzly Bear
 [24Jul2025 02:41:17.323] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
 [24Jul2025 02:41:17.323] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[24Jul2025 02:43:35.066] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=334, y=102, z=-614}
+[24Jul2025 02:44:06.905] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-445, y=-55, z=249}
+[24Jul2025 02:44:52.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has made the advancement [Barrel Booty]
+[24Jul2025 02:46:52.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has made the advancement [Barrel Booty]
+[24Jul2025 02:47:51.290] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elishy_ lost connection: Disconnected
+[24Jul2025 02:47:51.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ left the game
+[24Jul2025 02:47:51.291] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7ed74cf1-6ee8-3ff2-8e78-71af1bd89aa3 was unloaded
+[24Jul2025 02:47:51.291] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Elishy_
+[24Jul2025 02:48:00.844] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elishy_[/127.1.114.11:34967] logged in with entity id 21768 at (205.70436247876825, 66.0, -555.953954347715)
+[24Jul2025 02:48:00.852] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Elishy_
+[24Jul2025 02:48:00.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ joined the game
+[24Jul2025 02:48:00.864] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Elishy_
+[24Jul2025 02:48:01.366] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Elishy_
+[24Jul2025 02:48:01.373] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Elishy_ (18)
+[24Jul2025 02:48:01.374] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Elishy_
+[24Jul2025 02:48:01.490] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7ed74cf1-6ee8-3ff2-8e78-71af1bd89aa3 was loaded
+[24Jul2025 02:48:01.490] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
+[24Jul2025 02:48:01.490] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
+[24Jul2025 02:48:24.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva was slain by Iron Golem
+[24Jul2025 02:48:25.872] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[24Jul2025 02:48:25.873] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[24Jul2025 02:49:42.255] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-59, z=246}
+[24Jul2025 02:51:36.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[24Jul2025 02:51:57.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK died from dehydration
+[24Jul2025 02:51:58.597] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[24Jul2025 02:51:58.598] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[24Jul2025 02:52:01.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[24Jul2025 02:52:14.241] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-445, y=-55, z=249}

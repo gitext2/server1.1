@@ -2694,6 +2694,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/light_gray_cushion": {
+    "criteria": {
+      "has_light_gray_cushion": "2025-07-24 02:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-07-24 02:39:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_sheet_from_blue_dye": {
     "criteria": {
       "has_blue_sheet": "2025-07-24 02:28:30 +0000"
@@ -2874,6 +2886,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-07-24 02:44:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-24 01:45:44 +0000"
@@ -2883,6 +2901,12 @@
   "handcrafted:recipes/misc/birch_table": {
     "criteria": {
       "has_birch_table": "2025-07-24 01:45:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_cushion": {
+    "criteria": {
+      "has_gray_cushion": "2025-07-24 02:44:56 +0000"
     },
     "done": true
   },
@@ -3012,6 +3036,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-24 02:44:55 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_cupboard": {
     "criteria": {
       "has_birch_cupboard": "2025-07-24 01:45:44 +0000"
@@ -3021,6 +3051,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-07-24 02:00:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_light_gray": {
+    "criteria": {
+      "oak_chair_classic_light_gray": "2025-07-24 02:44:55 +0000"
     },
     "done": true
   },
@@ -3102,9 +3138,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-07-24 02:44:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-24 02:44:55 +0000"
     },
     "done": true
   },
@@ -3186,6 +3234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-07-24 02:44:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-07-24 01:07:34 +0000"
@@ -3228,6 +3282,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-24 02:44:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-07-24 02:32:00 +0000"
@@ -3246,6 +3306,18 @@
     },
     "done": true
   },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-07-24 02:44:56 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/gray_shower_towel": {
+    "criteria": {
+      "has_gray_wool": "2025-07-24 02:44:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-07-24 02:01:05 +0000"
@@ -3261,6 +3333,18 @@
   "decorative_blocks:recipes/building_blocks/birch_support": {
     "criteria": {
       "has_plank": "2025-07-24 01:45:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_sheet": {
+    "criteria": {
+      "has_light_gray_sheet": "2025-07-24 02:44:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_gray_shower_towel": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-24 02:44:55 +0000"
     },
     "done": true
   },
@@ -3354,15 +3438,39 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/oak_chair_classic_gray": {
+    "criteria": {
+      "oak_chair_classic_gray": "2025-07-24 02:44:56 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/pink_simple_sofa": {
     "criteria": {
       "has_wool": "2025-07-24 02:23:06 +0000"
     },
     "done": true
   },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-07-24 02:44:56 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/black_simple_sofa": {
     "criteria": {
       "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2025-07-24 02:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-07-24 02:39:13 +0000"
     },
     "done": true
   },
@@ -3396,9 +3504,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-07-24 02:39:13 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_bench": {
     "criteria": {
       "has_birch_bench": "2025-07-24 01:45:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-24 02:39:13 +0000"
     },
     "done": true
   },
@@ -3423,6 +3543,18 @@
   "pfm:recipes/furniture/light_blue_simple_sofa": {
     "criteria": {
       "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-24 02:44:55 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-24 02:44:55 +0000"
     },
     "done": true
   },
