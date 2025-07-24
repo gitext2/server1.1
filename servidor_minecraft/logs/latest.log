@@ -4274,3 +4274,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Jul2025 03:31:04.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has made the advancement [Bonfire Lit]
 [24Jul2025 03:33:15.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [Keep Going]
 [24Jul2025 03:33:15.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has made the advancement [Keep Going]
+[24Jul2025 03:33:20.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Difficulty set to 5.0]
+[24Jul2025 03:34:33.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[24Jul2025 03:39:27.692] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BlaseTK lost connection: Disconnected
+[24Jul2025 03:39:27.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK left the game
+[24Jul2025 03:39:27.693] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 25537c07-713d-3925-9844-014a82514044 was unloaded
+[24Jul2025 03:39:27.693] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BlaseTK
+[24Jul2025 03:40:51.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Killed Elishy_]
+[24Jul2025 03:40:57.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ died
+[24Jul2025 03:40:58.819] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
+[24Jul2025 03:40:58.819] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
