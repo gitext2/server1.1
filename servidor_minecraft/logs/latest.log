@@ -4245,3 +4245,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Jul2025 03:11:27.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ was killed by magic
 [24Jul2025 03:11:29.660] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
 [24Jul2025 03:11:29.660] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
+[24Jul2025 03:14:02.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK died from dehydration
+[24Jul2025 03:14:04.152] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[24Jul2025 03:14:04.152] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[24Jul2025 03:14:08.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[24Jul2025 03:15:14.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[24Jul2025 03:16:10.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva died from dehydration
+[24Jul2025 03:16:11.569] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[24Jul2025 03:16:11.570] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[24Jul2025 03:17:18.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Difficulty set to 4.0]
+[24Jul2025 03:17:36.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[24Jul2025 03:17:43.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was killed by magic
+[24Jul2025 03:17:45.901] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[24Jul2025 03:17:45.901] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[24Jul2025 03:19:19.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has made the advancement [Sweet Dreams]
+[24Jul2025 03:19:40.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[24Jul2025 03:21:18.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]

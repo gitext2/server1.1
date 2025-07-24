@@ -3576,5 +3576,443 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2025-07-24 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/spruce_support": {
+    "criteria": {
+      "has_plank": "2025-07-24 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_sheet_from_blue_dye": {
+    "criteria": {
+      "has_blue_sheet": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-07-24 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_cushion_from_light_blue_dye": {
+    "criteria": {
+      "has_light_blue_cushion": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_cushion_from_magenta_dye": {
+    "criteria": {
+      "has_magenta_cushion": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_shelf": {
+    "criteria": {
+      "has_spruce_shelf": "2025-07-24 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_cushion_from_purple_dye": {
+    "criteria": {
+      "has_purple_cushion": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/spruce_trim": {
+    "criteria": {
+      "has_block": "2025-07-24 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_sheet_from_light_blue_dye": {
+    "criteria": {
+      "has_light_blue_sheet": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_cushion_from_green_dye": {
+    "criteria": {
+      "has_green_cushion": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_spruce_dining_bench": "2025-07-24 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-07-24 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/spruce_beam": {
+    "criteria": {
+      "has_log": "2025-07-24 03:15:49 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/spruce_palisade": {
+    "criteria": {
+      "has_log": "2025-07-24 03:15:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_sheet_from_magenta_dye": {
+    "criteria": {
+      "has_magenta_sheet": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_sheet_from_pink_dye": {
+    "criteria": {
+      "has_pink_sheet": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_cushion_from_yellow_dye": {
+    "criteria": {
+      "has_yellow_cushion": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2025-07-24 03:22:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-07-24 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/spruce_pallet": {
+    "criteria": {
+      "has_planks": "2025-07-24 03:15:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_sheet_from_orange_dye": {
+    "criteria": {
+      "has_orange_sheet": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/spruce_wall": {
+    "criteria": {
+      "has_logs": "2025-07-24 03:15:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-24 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_pillar_trim": {
+    "criteria": {
+      "has_spruce_pillar_trim": "2025-07-24 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_cushion_from_pink_dye": {
+    "criteria": {
+      "has_pink_cushion": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_cushion_from_blue_dye": {
+    "criteria": {
+      "has_blue_cushion": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_cushion_from_orange_dye": {
+    "criteria": {
+      "has_orange_cushion": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_sheet_from_lime_dye": {
+    "criteria": {
+      "has_lime_sheet": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_cushion_from_cyan_dye": {
+    "criteria": {
+      "has_cyan_cushion": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_sheet_from_purple_dye": {
+    "criteria": {
+      "has_purple_sheet": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_cushion_from_brown_dye": {
+    "criteria": {
+      "has_brown_cushion": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_sheet_from_green_dye": {
+    "criteria": {
+      "has_green_sheet": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_sheet_from_cyan_dye": {
+    "criteria": {
+      "has_cyan_sheet": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_sheet_from_light_gray_dye": {
+    "criteria": {
+      "has_light_gray_sheet": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-24 03:17:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_corner_trim": {
+    "criteria": {
+      "has_spruce_corner_trim": "2025-07-24 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_desk": {
+    "criteria": {
+      "has_spruce_desk": "2025-07-24 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_sheet_from_red_dye": {
+    "criteria": {
+      "has_red_sheet": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/spruce_frame": {
+    "criteria": {
+      "has_planks": "2025-07-24 03:15:49 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/spruce_seat": {
+    "criteria": {
+      "has_plank": "2025-07-24 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-07-24 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/lantern": {
+    "criteria": {
+      "has_glowstone": "2025-07-24 03:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_cushion_from_red_dye": {
+    "criteria": {
+      "has_red_cushion": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/spruce_ladder": {
+    "criteria": {
+      "has_planks": "2025-07-24 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/spruce_support": {
+    "criteria": {
+      "has_block": "2025-07-24 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-24 03:15:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_cushion_from_gray_dye": {
+    "criteria": {
+      "has_gray_cushion": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_couch": {
+    "criteria": {
+      "has_spruce_couch": "2025-07-24 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-07-24 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_sheet_from_white_dye": {
+    "criteria": {
+      "has_white_sheet": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_sheet_from_yellow_dye": {
+    "criteria": {
+      "has_yellow_sheet": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-07-24 03:15:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_nightstand": {
+    "criteria": {
+      "has_spruce_nightstand": "2025-07-24 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_bench": {
+    "criteria": {
+      "has_spruce_bench": "2025-07-24 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_drawer": {
+    "criteria": {
+      "has_spruce_drawer": "2025-07-24 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_sheet_from_brown_dye": {
+    "criteria": {
+      "has_brown_sheet": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_cushion_from_white_dye": {
+    "criteria": {
+      "has_white_cushion": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-24 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-07-24 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-24 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_cushion_from_black_dye": {
+    "criteria": {
+      "has_black_cushion": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/spruce_layer": {
+    "criteria": {
+      "has_block": "2025-07-24 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_fancy_bed": "2025-07-24 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-24 03:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_sheet_from_gray_dye": {
+    "criteria": {
+      "has_gray_sheet": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_chair": {
+    "criteria": {
+      "has_spruce_chair": "2025-07-24 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_cushion_from_lime_dye": {
+    "criteria": {
+      "has_lime_cushion": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_cupboard": {
+    "criteria": {
+      "has_spruce_cupboard": "2025-07-24 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-24 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_sheet_from_black_dye": {
+    "criteria": {
+      "has_black_sheet": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_cushion_from_light_gray_dye": {
+    "criteria": {
+      "has_light_gray_cushion": "2025-07-24 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_side_table": {
+    "criteria": {
+      "has_spruce_side_table": "2025-07-24 03:15:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
