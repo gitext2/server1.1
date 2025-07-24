@@ -2724,6 +2724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-24 01:25:07 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/smelting/ingot_aluminum_from_blasting3": {
     "criteria": {
       "has_raw_aluminum": "2025-07-24 01:07:02 +0000"
@@ -2742,9 +2748,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/lantern": {
+    "criteria": {
+      "has_glowstone": "2025-07-24 01:25:07 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/raw_block_lead_to_raw_lead": {
     "criteria": {
       "has_raw_block_lead": "2025-07-24 01:12:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-24 01:25:07 +0000"
     },
     "done": true
   },
