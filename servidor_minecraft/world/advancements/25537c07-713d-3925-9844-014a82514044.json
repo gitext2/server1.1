@@ -2694,6 +2694,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 02:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 02:01:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-07-24 01:14:17 +0000"
@@ -2706,9 +2718,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 02:01:05 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/smelting/ingot_lead3": {
     "criteria": {
       "has_raw_lead": "2025-07-24 01:12:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 02:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 02:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-24 02:00:31 +0000"
     },
     "done": true
   },
@@ -2721,6 +2757,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-07-24 01:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 02:01:05 +0000"
     },
     "done": true
   },
@@ -2748,6 +2790,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 02:01:05 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_nightstand": {
     "criteria": {
       "has_birch_nightstand": "2025-07-24 01:45:44 +0000"
@@ -2772,9 +2820,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 02:01:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-07-24 01:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 02:01:05 +0000"
     },
     "done": true
   },
@@ -2796,9 +2856,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-24 02:00:31 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_cupboard": {
     "criteria": {
       "has_birch_cupboard": "2025-07-24 01:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-07-24 02:00:31 +0000"
     },
     "done": true
   },
@@ -2811,6 +2883,18 @@
   "handcrafted:recipes/misc/birch_counter": {
     "criteria": {
       "has_birch_counter": "2025-07-24 01:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 02:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 02:01:05 +0000"
     },
     "done": true
   },
@@ -2835,6 +2919,12 @@
   "handcrafted:recipes/misc/birch_corner_trim": {
     "criteria": {
       "has_birch_corner_trim": "2025-07-24 01:45:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_gold_hammering": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 02:01:05 +0000"
     },
     "done": true
   },
@@ -2874,6 +2964,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 02:01:05 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/lantern": {
     "criteria": {
       "has_glowstone": "2025-07-24 01:25:07 +0000"
@@ -2889,6 +2985,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-07-24 01:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-24 01:58:32 +0000"
     },
     "done": true
   },
@@ -2928,6 +3030,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-07-24 01:58:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-24 01:45:44 +0000"
@@ -2958,9 +3066,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 02:01:05 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/raw_block_aluminum_to_raw_aluminum": {
     "criteria": {
       "has_raw_block_aluminum": "2025-07-24 01:07:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-24 02:01:05 +0000"
     },
     "done": true
   },

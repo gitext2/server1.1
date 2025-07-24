@@ -4100,3 +4100,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Jul2025 01:56:15.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Set own game mode to Creative Mode]
 [24Jul2025 01:57:29.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Set own game mode to Survival Mode]
 [24Jul2025 02:00:35.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[24Jul2025 02:02:47.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has made the advancement [A Seedy Place]
+[24Jul2025 02:03:26.232] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@557640cb[id=<null>,name=Elishy_,properties={},legacy=false] (/127.85.214.1:37091): Took too long to log in
+[24Jul2025 02:03:26.233] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@557640cb[id=<null>,name=Elishy_,properties={},legacy=false] (/127.85.214.1:37091) lost connection: Took too long to log in
+[24Jul2025 02:03:26.282] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Jul2025 02:05:41.982] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3ca30309[id=<null>,name=Elishy_,properties={},legacy=false] (/127.1.114.11:54407) lost connection: Disconnected
+[24Jul2025 02:10:19.332] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2aafda9a[id=<null>,name=Elishy_,properties={},legacy=false] (/127.85.214.1:58251) lost connection: Disconnected
