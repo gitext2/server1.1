@@ -2820,6 +2820,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/birch_palisade": {
+    "criteria": {
+      "has_log": "2025-07-24 03:08:41 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/red_simple_sofa": {
     "criteria": {
       "has_wool": "2025-07-24 02:23:06 +0000"
@@ -2865,6 +2871,12 @@
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-07-24 01:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-24 03:08:41 +0000"
     },
     "done": true
   },
@@ -3081,6 +3093,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-07-24 02:00:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-07-24 03:08:41 +0000"
     },
     "done": true
   },
@@ -3336,6 +3354,12 @@
     },
     "done": true
   },
+  "bbb:recipes/birch_beam": {
+    "criteria": {
+      "has_log": "2025-07-24 03:08:41 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/green_arm_chair": {
     "criteria": {
       "has_wool": "2025-07-24 02:23:06 +0000"
@@ -3351,6 +3375,12 @@
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-07-24 02:32:00 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_frame": {
+    "criteria": {
+      "has_planks": "2025-07-24 03:08:41 +0000"
     },
     "done": true
   },
@@ -3399,6 +3429,12 @@
   "decorative_blocks:recipes/building_blocks/birch_support": {
     "criteria": {
       "has_plank": "2025-07-24 01:45:44 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_wall": {
+    "criteria": {
+      "has_logs": "2025-07-24 03:08:41 +0000"
     },
     "done": true
   },
@@ -3501,6 +3537,12 @@
   "minecraft:recipes/misc/yellow_sheet_from_yellow_dye": {
     "criteria": {
       "has_yellow_sheet": "2025-07-24 02:28:30 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_pallet": {
+    "criteria": {
+      "has_planks": "2025-07-24 03:08:41 +0000"
     },
     "done": true
   },
