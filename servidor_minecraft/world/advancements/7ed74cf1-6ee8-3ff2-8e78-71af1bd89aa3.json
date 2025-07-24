@@ -3376,21 +3376,15 @@
     },
     "done": true
   },
-  "farmersdelight:main/place_campfire": {
-    "criteria": {
-      "campfire": "2025-07-24 03:31:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-07-24 03:19:19 +0000"
     },
     "done": true
   },
-  "bbb:recipes/dark_oak_frame": {
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
-      "has_planks": "2025-07-24 03:26:14 +0000"
+      "has_orange_terracotta": "2025-07-24 03:22:56 +0000"
     },
     "done": true
   },
@@ -3418,57 +3412,39 @@
     },
     "done": true
   },
-  "bbb:recipes/dark_oak_pallet": {
-    "criteria": {
-      "has_planks": "2025-07-24 03:26:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_tulip": {
-    "criteria": {
-      "has_red_flower": "2025-07-24 03:39:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2025-07-24 03:49:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-07-24 03:33:56 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/dark_oak_beam": {
-    "criteria": {
-      "has_log": "2025-07-24 03:26:14 +0000"
-    },
-    "done": true
-  },
   "bbb:recipes/spruce_frame": {
     "criteria": {
       "has_planks": "2025-07-24 03:23:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glass": {
+  "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
-      "has_smelts_to_glass": "2025-07-24 03:40:17 +0000"
+      "has_log": "2025-07-24 03:23:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+  "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
-      "has_orange_terracotta": "2025-07-24 03:22:56 +0000"
+      "has_logs": "2025-07-24 03:23:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato": {
+  "bbb:recipes/dark_oak_frame": {
     "criteria": {
-      "has_potato": "2025-07-24 03:33:56 +0000"
+      "has_planks": "2025-07-24 03:26:14 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/dark_oak_pallet": {
+    "criteria": {
+      "has_planks": "2025-07-24 03:26:14 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/dark_oak_beam": {
+    "criteria": {
+      "has_log": "2025-07-24 03:26:14 +0000"
     },
     "done": true
   },
@@ -3484,27 +3460,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-07-24 03:23:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-07-24 03:26:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-07-24 03:23:57 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/stove": {
-    "criteria": {
-      "has_campfire": "2025-07-24 03:30:44 +0000"
     },
     "done": true
   },
@@ -3514,15 +3472,57 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-07-24 03:30:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-07-24 03:31:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-24 03:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-24 03:33:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-07-24 03:33:56 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-07-24 03:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-07-24 03:40:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-07-24 03:40:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-07-24 03:49:02 +0000"
     },
     "done": true
   },
