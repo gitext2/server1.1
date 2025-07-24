@@ -23126,3 +23126,130 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Jul2025 02:52:01.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
 [24Jul2025 02:52:07.338] [IO-Worker-112/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
 [24Jul2025 02:52:14.241] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-445, y=-55, z=249}
+[24Jul2025 02:52:42.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[24Jul2025 02:52:51.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo2
+[24Jul2025 02:52:51.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo2
+[24Jul2025 02:53:02.013] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_start
+[24Jul2025 02:54:08.957] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:lost_soul_city_start
+[24Jul2025 02:54:09.001] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:field_stone_ruins8
+[24Jul2025 02:54:33.472] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:badlands_start_dungeon
+[24Jul2025 02:54:33.511] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_pyramid2
+[24Jul2025 02:54:33.529] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:mod_structures/desert_ruin7
+[24Jul2025 02:54:37.786] [IO-Worker-108/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
+[24Jul2025 02:55:22.735] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 02:55:23.234] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 02:55:23.734] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 02:55:24.235] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 02:55:24.735] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 02:55:25.234] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 02:55:25.735] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 02:55:26.236] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 02:55:26.735] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 02:55:27.235] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 02:55:27.735] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 02:55:28.235] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 02:55:28.735] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 02:55:29.235] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 02:55:29.734] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 02:55:30.235] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 02:56:49.473] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 02:56:55.735] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@3950ea76]Trying to start horde event on day 10 with nextDay 10 and time 10698
+[24Jul2025 02:56:55.737] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@432c60c4
+[24Jul2025 02:56:55.738] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+[24Jul2025 02:56:55.738] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[24Jul2025 02:56:55.786] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[24Jul2025 02:56:55.786] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[24Jul2025 02:57:45.785] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[24Jul2025 02:57:45.786] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[24Jul2025 02:57:51.528] [IO-Worker-112/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[24Jul2025 02:57:51.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo2
+[24Jul2025 02:57:51.569] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo2
+[24Jul2025 02:58:27.895] [IO-Worker-115/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[24Jul2025 02:58:35.784] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[24Jul2025 02:58:35.785] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[24Jul2025 02:58:48.725] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 02:59:02.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[24Jul2025 02:59:04.768] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 02:59:08.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[24Jul2025 02:59:25.784] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[24Jul2025 02:59:25.785] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[24Jul2025 02:59:39.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[24Jul2025 03:00:15.786] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[24Jul2025 03:00:15.786] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[24Jul2025 03:00:22.195] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:00:23.192] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:00:24.187] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:00:31.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to Elishy_]
+[24Jul2025 03:01:05.790] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[24Jul2025 03:01:05.790] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[24Jul2025 03:01:10.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to BlaseTK]
+[24Jul2025 03:01:36.040] [Server thread/DEBUG] [pointblank/]: 96040 handling client fire request
+[24Jul2025 03:01:36.040] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 114189788 to 6
+[24Jul2025 03:01:36.040] [Server thread/DEBUG] [pointblank/]: 96040 - obtained hit result in 0ms
+[24Jul2025 03:01:36.040] [Server thread/DEBUG] [pointblank/]: 96040 obtained hit results
+[24Jul2025 03:01:36.040] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@68af3ff1
+[24Jul2025 03:01:36.041] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Sr_Riva'/1829, l='ServerLevel[Mundo nuevo2]', x=232.73, y=67.00, z=-425.81] sends hit scan notification to ServerPlayer['Sr_Riva'/1829, l='ServerLevel[Mundo nuevo2]', x=232.73, y=67.00, z=-425.81]
+[24Jul2025 03:01:36.041] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Sr_Riva'/1829, l='ServerLevel[Mundo nuevo2]', x=232.73, y=67.00, z=-425.81] sends hit scan notification to ServerPlayer['BlaseTK'/314, l='ServerLevel[Mundo nuevo2]', x=171.85, y=63.50, z=-441.00]
+[24Jul2025 03:01:36.848] [Server thread/DEBUG] [pointblank/]: 96848 handling client fire request
+[24Jul2025 03:01:36.848] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 114189788 to 5
+[24Jul2025 03:01:36.849] [Server thread/DEBUG] [pointblank/]: 96849 - obtained hit result in 0ms
+[24Jul2025 03:01:36.849] [Server thread/DEBUG] [pointblank/]: 96849 obtained hit results
+[24Jul2025 03:01:36.849] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@35247f78
+[24Jul2025 03:01:36.849] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Sr_Riva'/1829, l='ServerLevel[Mundo nuevo2]', x=231.62, y=67.00, z=-423.41] sends hit scan notification to ServerPlayer['Sr_Riva'/1829, l='ServerLevel[Mundo nuevo2]', x=231.62, y=67.00, z=-423.41]
+[24Jul2025 03:01:36.849] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Sr_Riva'/1829, l='ServerLevel[Mundo nuevo2]', x=231.62, y=67.00, z=-423.41] sends hit scan notification to ServerPlayer['BlaseTK'/314, l='ServerLevel[Mundo nuevo2]', x=167.20, y=63.00, z=-440.96]
+[24Jul2025 03:01:37.690] [Server thread/DEBUG] [pointblank/]: 97690 handling client fire request
+[24Jul2025 03:01:37.690] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 114189788 to 4
+[24Jul2025 03:01:37.690] [Server thread/DEBUG] [pointblank/]: 97690 - obtained hit result in 0ms
+[24Jul2025 03:01:37.690] [Server thread/DEBUG] [pointblank/]: 97690 obtained hit results
+[24Jul2025 03:01:37.690] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@399ce6e3
+[24Jul2025 03:01:37.691] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Sr_Riva'/1829, l='ServerLevel[Mundo nuevo2]', x=230.74, y=67.00, z=-422.00] sends hit scan notification to ServerPlayer['Sr_Riva'/1829, l='ServerLevel[Mundo nuevo2]', x=230.74, y=67.00, z=-422.00]
+[24Jul2025 03:01:37.691] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Sr_Riva'/1829, l='ServerLevel[Mundo nuevo2]', x=230.74, y=67.00, z=-422.00] sends hit scan notification to ServerPlayer['BlaseTK'/314, l='ServerLevel[Mundo nuevo2]', x=164.59, y=63.00, z=-438.07]
+[24Jul2025 03:01:38.476] [Server thread/DEBUG] [pointblank/]: 98476 handling client fire request
+[24Jul2025 03:01:38.476] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 114189788 to 3
+[24Jul2025 03:01:38.476] [Server thread/DEBUG] [pointblank/]: 98476 - obtained hit result in 0ms
+[24Jul2025 03:01:38.476] [Server thread/DEBUG] [pointblank/]: 98476 obtained hit results
+[24Jul2025 03:01:38.476] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5d374783
+[24Jul2025 03:01:38.477] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Sr_Riva'/1829, l='ServerLevel[Mundo nuevo2]', x=229.78, y=66.00, z=-420.94] sends hit scan notification to ServerPlayer['Sr_Riva'/1829, l='ServerLevel[Mundo nuevo2]', x=229.78, y=66.00, z=-420.94]
+[24Jul2025 03:01:38.477] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Sr_Riva'/1829, l='ServerLevel[Mundo nuevo2]', x=229.78, y=66.00, z=-420.94] sends hit scan notification to ServerPlayer['BlaseTK'/314, l='ServerLevel[Mundo nuevo2]', x=160.38, y=63.00, z=-439.89]
+[24Jul2025 03:01:39.188] [Server thread/DEBUG] [pointblank/]: 99188 handling client fire request
+[24Jul2025 03:01:39.188] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 114189788 to 2
+[24Jul2025 03:01:39.189] [Server thread/DEBUG] [pointblank/]: 99189 - obtained hit result in 1ms
+[24Jul2025 03:01:39.189] [Server thread/DEBUG] [pointblank/]: 99189 obtained hit results
+[24Jul2025 03:01:39.189] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@71cb636c
+[24Jul2025 03:01:39.190] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Sr_Riva'/1829, l='ServerLevel[Mundo nuevo2]', x=230.22, y=66.00, z=-420.57] sends hit scan notification to ServerPlayer['Sr_Riva'/1829, l='ServerLevel[Mundo nuevo2]', x=230.22, y=66.00, z=-420.57]
+[24Jul2025 03:01:39.190] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Sr_Riva'/1829, l='ServerLevel[Mundo nuevo2]', x=230.22, y=66.00, z=-420.57] sends hit scan notification to ServerPlayer['BlaseTK'/314, l='ServerLevel[Mundo nuevo2]', x=156.48, y=63.00, z=-441.37]
+[24Jul2025 03:01:40.038] [Server thread/DEBUG] [pointblank/]: 38 handling client fire request
+[24Jul2025 03:01:40.038] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 114189788 to 1
+[24Jul2025 03:01:40.042] [Server thread/DEBUG] [pointblank/]: 42 - obtained hit result in 4ms
+[24Jul2025 03:01:40.042] [Server thread/DEBUG] [pointblank/]: 42 obtained hit results
+[24Jul2025 03:01:40.042] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@94008e4
+[24Jul2025 03:01:40.043] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Sr_Riva'/1829, l='ServerLevel[Mundo nuevo2]', x=229.89, y=66.00, z=-420.10] sends hit scan notification to ServerPlayer['Sr_Riva'/1829, l='ServerLevel[Mundo nuevo2]', x=229.89, y=66.00, z=-420.10]
+[24Jul2025 03:01:40.043] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Sr_Riva'/1829, l='ServerLevel[Mundo nuevo2]', x=229.89, y=66.00, z=-420.10] sends hit scan notification to ServerPlayer['BlaseTK'/314, l='ServerLevel[Mundo nuevo2]', x=151.42, y=63.00, z=-442.04]
+[24Jul2025 03:01:42.969] [Server thread/DEBUG] [pointblank/]: 2969 handling client fire request
+[24Jul2025 03:01:42.969] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 114189788 to 0
+[24Jul2025 03:01:42.969] [Server thread/DEBUG] [pointblank/]: 2969 - obtained hit result in 0ms
+[24Jul2025 03:01:42.969] [Server thread/DEBUG] [pointblank/]: 2969 obtained hit results
+[24Jul2025 03:01:42.969] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4b80e744
+[24Jul2025 03:01:42.970] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Sr_Riva'/1829, l='ServerLevel[Mundo nuevo2]', x=228.26, y=69.00, z=-424.26] sends hit scan notification to ServerPlayer['Sr_Riva'/1829, l='ServerLevel[Mundo nuevo2]', x=228.26, y=69.00, z=-424.26]
+[24Jul2025 03:01:42.970] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Sr_Riva'/1829, l='ServerLevel[Mundo nuevo2]', x=228.26, y=69.00, z=-424.26] sends hit scan notification to ServerPlayer['BlaseTK'/314, l='ServerLevel[Mundo nuevo2]', x=138.56, y=63.00, z=-434.05]
+[24Jul2025 03:01:49.039] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:01:49.039] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:01:50.844] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:01:50.844] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:01:53.243] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:01:53.244] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:01:54.089] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:01:54.089] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:01:55.987] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:01:55.987] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:02:12.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[24Jul2025 03:02:15.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[24Jul2025 03:02:16.814] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:02:17.417] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:02:42.022] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jul2025 03:02:43.135] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elishy_ lost connection: Disconnected
+[24Jul2025 03:02:43.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ left the game
+[24Jul2025 03:02:43.136] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7ed74cf1-6ee8-3ff2-8e78-71af1bd89aa3 was unloaded
+[24Jul2025 03:02:43.136] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Elishy_
+[24Jul2025 03:02:43.136] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Elishy_
+[24Jul2025 03:02:44.932] [IO-Worker-108/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117

@@ -2832,6 +2832,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_cushion_from_light_blue_dye": {
+    "criteria": {
+      "has_light_blue_cushion": "2025-07-24 02:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_cushion_from_magenta_dye": {
+    "criteria": {
+      "has_magenta_cushion": "2025-07-24 02:53:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2025-07-24 02:32:00 +0000"
@@ -2856,6 +2868,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_cushion_from_purple_dye": {
+    "criteria": {
+      "has_purple_cushion": "2025-07-24 02:53:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-07-24 02:01:05 +0000"
@@ -2877,6 +2895,12 @@
   "pfm:recipes/furniture/brown_arm_chair": {
     "criteria": {
       "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_cushion_from_green_dye": {
+    "criteria": {
+      "has_green_cushion": "2025-07-24 02:53:34 +0000"
     },
     "done": true
   },
@@ -3018,6 +3042,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_cushion_from_yellow_dye": {
+    "criteria": {
+      "has_yellow_cushion": "2025-07-24 02:53:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-07-24 01:45:44 +0000"
@@ -3066,9 +3096,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_cushion_from_pink_dye": {
+    "criteria": {
+      "has_pink_cushion": "2025-07-24 02:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_cushion_from_blue_dye": {
+    "criteria": {
+      "has_blue_cushion": "2025-07-24 02:53:34 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_side_table": {
     "criteria": {
       "has_birch_side_table": "2025-07-24 01:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_cushion_from_orange_dye": {
+    "criteria": {
+      "has_orange_cushion": "2025-07-24 02:53:34 +0000"
     },
     "done": true
   },
@@ -3102,9 +3150,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_cushion_from_cyan_dye": {
+    "criteria": {
+      "has_cyan_cushion": "2025-07-24 02:53:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/purple_sheet_from_purple_dye": {
     "criteria": {
       "has_purple_sheet": "2025-07-24 02:28:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_cushion_from_brown_dye": {
+    "criteria": {
+      "has_brown_cushion": "2025-07-24 02:53:34 +0000"
     },
     "done": true
   },
@@ -3330,6 +3390,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_cushion_from_red_dye": {
+    "criteria": {
+      "has_red_cushion": "2025-07-24 02:53:34 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/birch_support": {
     "criteria": {
       "has_plank": "2025-07-24 01:45:44 +0000"
@@ -3387,6 +3453,12 @@
   "pfm:recipes/furniture/white_simple_sofa": {
     "criteria": {
       "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_cushion_from_gray_dye": {
+    "criteria": {
+      "has_gray_cushion": "2025-07-24 02:53:34 +0000"
     },
     "done": true
   },
@@ -3498,6 +3570,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_cushion_from_white_dye": {
+    "criteria": {
+      "has_white_cushion": "2025-07-24 02:53:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-24 01:45:44 +0000"
@@ -3546,6 +3624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_cushion_from_black_dye": {
+    "criteria": {
+      "has_black_cushion": "2025-07-24 02:53:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-07-24 02:44:55 +0000"
@@ -3567,6 +3651,12 @@
   "minecraft:recipes/misc/gray_sheet_from_gray_dye": {
     "criteria": {
       "has_gray_sheet": "2025-07-24 02:28:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_cushion_from_lime_dye": {
+    "criteria": {
+      "has_lime_cushion": "2025-07-24 02:53:34 +0000"
     },
     "done": true
   },
@@ -3621,6 +3711,12 @@
   "minecraft:recipes/misc/black_sheet_from_black_dye": {
     "criteria": {
       "has_black_sheet": "2025-07-24 02:28:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_cushion_from_light_gray_dye": {
+    "criteria": {
+      "has_light_gray_cushion": "2025-07-24 02:53:34 +0000"
     },
     "done": true
   },

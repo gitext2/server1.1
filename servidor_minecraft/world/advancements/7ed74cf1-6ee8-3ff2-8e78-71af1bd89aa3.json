@@ -3339,18 +3339,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-24 02:44:14 +0000"
-    },
-    "done": true
-  },
-  "lootr:1barrel": {
-    "criteria": {
-      "opened_barrel": "2025-07-24 02:44:52 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/buzzsaw": {
     "criteria": {
       "has_component_steel": "2025-07-24 02:43:00 +0000"
@@ -3363,6 +3351,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-24 02:44:14 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2025-07-24 02:44:14 +0000"
@@ -3372,6 +3366,12 @@
   "farmersdelight:recipes/building_blocks/rice_bag": {
     "criteria": {
       "has_rice": "2025-07-24 02:44:14 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-07-24 02:44:52 +0000"
     },
     "done": true
   },
