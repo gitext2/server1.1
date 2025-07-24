@@ -2694,6 +2694,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_sheet_from_blue_dye": {
+    "criteria": {
+      "has_blue_sheet": "2025-07-24 02:28:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-07-24 01:45:44 +0000"
@@ -2814,6 +2820,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-07-24 02:32:00 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/raw_aluminum_to_raw_block_aluminum": {
     "criteria": {
       "has_raw_aluminum": "2025-07-24 01:07:02 +0000"
@@ -2841,6 +2853,12 @@
   "bbb:recipes/oak_wall": {
     "criteria": {
       "has_logs": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_sheet_from_light_blue_dye": {
+    "criteria": {
+      "has_light_blue_sheet": "2025-07-24 02:28:30 +0000"
     },
     "done": true
   },
@@ -2892,6 +2910,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-07-24 02:32:00 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/blue_arm_chair": {
     "criteria": {
       "has_wool": "2025-07-24 02:23:06 +0000"
@@ -2904,9 +2928,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-07-24 02:32:00 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/oak_pallet": {
     "criteria": {
       "has_planks": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-07-24 02:32:59 +0000"
     },
     "done": true
   },
@@ -2934,6 +2970,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_sheet_from_magenta_dye": {
+    "criteria": {
+      "has_magenta_sheet": "2025-07-24 02:28:30 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/birch_ladder": {
     "criteria": {
       "has_planks": "2025-07-24 01:45:44 +0000"
@@ -2946,6 +2988,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_sheet_from_pink_dye": {
+    "criteria": {
+      "has_pink_sheet": "2025-07-24 02:28:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-07-24 01:45:44 +0000"
@@ -2955,6 +3003,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-07-24 02:00:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_sheet_from_orange_dye": {
+    "criteria": {
+      "has_orange_sheet": "2025-07-24 02:28:30 +0000"
     },
     "done": true
   },
@@ -2982,6 +3036,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_sheet_from_lime_dye": {
+    "criteria": {
+      "has_lime_sheet": "2025-07-24 02:28:30 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/cyan_arm_chair": {
     "criteria": {
       "has_wool": "2025-07-24 02:23:06 +0000"
@@ -3003,6 +3063,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-07-24 02:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_sheet_from_purple_dye": {
+    "criteria": {
+      "has_purple_sheet": "2025-07-24 02:28:30 +0000"
     },
     "done": true
   },
@@ -3030,6 +3096,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_sheet_from_green_dye": {
+    "criteria": {
+      "has_green_sheet": "2025-07-24 02:28:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-07-24 02:23:06 +0000"
@@ -3042,9 +3114,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_sheet_from_cyan_dye": {
+    "criteria": {
+      "has_cyan_sheet": "2025-07-24 02:28:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-07-24 02:11:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-07-24 02:32:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_sheet_from_light_gray_dye": {
+    "criteria": {
+      "has_light_gray_sheet": "2025-07-24 02:28:30 +0000"
     },
     "done": true
   },
@@ -3108,6 +3198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_sheet_from_red_dye": {
+    "criteria": {
+      "has_red_sheet": "2025-07-24 02:28:30 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/birch_support": {
     "criteria": {
       "has_block": "2025-07-24 01:45:44 +0000"
@@ -3129,6 +3225,12 @@
   "pfm:recipes/furniture/green_arm_chair": {
     "criteria": {
       "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-07-24 02:32:00 +0000"
     },
     "done": true
   },
@@ -3159,6 +3261,12 @@
   "decorative_blocks:recipes/building_blocks/birch_support": {
     "criteria": {
       "has_plank": "2025-07-24 01:45:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-07-24 02:32:00 +0000"
     },
     "done": true
   },
@@ -3228,6 +3336,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_sheet_from_white_dye": {
+    "criteria": {
+      "has_white_sheet": "2025-07-24 02:28:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_sheet_from_yellow_dye": {
+    "criteria": {
+      "has_yellow_sheet": "2025-07-24 02:28:30 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_chair": {
     "criteria": {
       "has_birch_chair": "2025-07-24 01:45:44 +0000"
@@ -3252,9 +3372,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-07-24 02:29:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-07-24 01:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_sheet_from_brown_dye": {
+    "criteria": {
+      "has_brown_sheet": "2025-07-24 02:28:30 +0000"
     },
     "done": true
   },
@@ -3297,6 +3429,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-07-24 01:25:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_sheet_from_gray_dye": {
+    "criteria": {
+      "has_gray_sheet": "2025-07-24 02:28:30 +0000"
     },
     "done": true
   },
@@ -3345,6 +3483,12 @@
   "pfm:recipes/furniture/light_blue_arm_chair": {
     "criteria": {
       "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_sheet_from_black_dye": {
+    "criteria": {
+      "has_black_sheet": "2025-07-24 02:28:30 +0000"
     },
     "done": true
   },

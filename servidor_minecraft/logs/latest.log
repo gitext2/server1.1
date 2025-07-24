@@ -4117,3 +4117,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Jul2025 02:29:14.910] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
 [24Jul2025 02:29:14.910] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
 [24Jul2025 02:29:23.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [Pic-A-Nic Basket?]
+[24Jul2025 02:34:46.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Difficulty set to 3.0]
+[24Jul2025 02:37:12.245] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elishy_[/127.1.114.11:36921] logged in with entity id 17833 at (-970.0764332540629, 121.0, -1140.190005385521)
+[24Jul2025 02:37:12.252] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Elishy_
+[24Jul2025 02:37:12.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ joined the game
+[24Jul2025 02:37:12.271] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Elishy_
+[24Jul2025 02:37:13.526] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Elishy_
+[24Jul2025 02:37:13.595] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Elishy_ (18)
+[24Jul2025 02:37:13.596] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Elishy_
+[24Jul2025 02:37:28.727] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7ed74cf1-6ee8-3ff2-8e78-71af1bd89aa3 was loaded
+[24Jul2025 02:37:28.727] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
+[24Jul2025 02:37:28.727] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
+[24Jul2025 02:41:15.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was slain by Grizzly Bear
+[24Jul2025 02:41:17.323] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[24Jul2025 02:41:17.323] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
