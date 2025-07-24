@@ -2688,6 +2688,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/lime_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-07-24 01:45:44 +0000"
@@ -2715,6 +2721,24 @@
   "immersiveengineering:recipes/misc/smelting/ingot_aluminum3": {
     "criteria": {
       "has_raw_aluminum": "2025-07-24 01:07:02 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/oak_palisade": {
+    "criteria": {
+      "has_log": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pink_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/orange_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
     },
     "done": true
   },
@@ -2766,9 +2790,21 @@
     },
     "done": true
   },
+  "bbb:recipes/oak_beam": {
+    "criteria": {
+      "has_log": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_shelf": {
     "criteria": {
       "has_birch_shelf": "2025-07-24 01:45:44 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/red_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
     },
     "done": true
   },
@@ -2784,6 +2820,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/magenta_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-07-24 01:45:44 +0000"
@@ -2793,6 +2835,18 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-07-24 02:01:05 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/oak_wall": {
+    "criteria": {
+      "has_logs": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/brown_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
     },
     "done": true
   },
@@ -2814,9 +2868,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/purple_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/birch_seat": {
     "criteria": {
       "has_plank": "2025-07-24 01:45:44 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/green_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
     },
     "done": true
   },
@@ -2826,15 +2892,45 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/blue_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-07-24 01:45:44 +0000"
     },
     "done": true
   },
+  "bbb:recipes/oak_pallet": {
+    "criteria": {
+      "has_planks": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/red_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-07-24 02:01:05 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/oak_frame": {
+    "criteria": {
+      "has_log": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/arm_chair_leather": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
     },
     "done": true
   },
@@ -2874,9 +2970,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/brown_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_side_table": {
     "criteria": {
       "has_birch_side_table": "2025-07-24 01:45:44 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cyan_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
     },
     "done": true
   },
@@ -2886,9 +2994,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/white_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-07-24 02:01:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/black_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/purple_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
     },
     "done": true
   },
@@ -2901,6 +3027,12 @@
   "immersiveengineering:recipes/misc/smelting/ingot_lead_from_blasting3": {
     "criteria": {
       "has_raw_lead": "2025-07-24 01:12:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-07-24 02:23:06 +0000"
     },
     "done": true
   },
@@ -2940,6 +3072,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cyan_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/yellow_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/smelting/ingot_aluminum_from_blasting3": {
     "criteria": {
       "has_raw_aluminum": "2025-07-24 01:07:02 +0000"
@@ -2970,6 +3120,30 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/light_gray_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/green_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/lime_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_gray_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-07-24 02:01:05 +0000"
@@ -2994,6 +3168,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/yellow_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-07-24 01:58:32 +0000"
@@ -3012,6 +3192,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/white_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/birch_trim": {
     "criteria": {
       "has_block": "2025-07-24 01:45:44 +0000"
@@ -3024,15 +3210,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-07-24 02:22:40 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_dining_bench": {
     "criteria": {
       "has_birch_dining_bench": "2025-07-24 01:45:44 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/gray_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_chair": {
     "criteria": {
       "has_birch_chair": "2025-07-24 01:45:44 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pink_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/black_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-24 02:22:40 +0000"
     },
     "done": true
   },
@@ -3054,15 +3270,39 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/blue_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/gray_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_drawer": {
     "criteria": {
       "has_birch_drawer": "2025-07-24 01:45:44 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/light_blue_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-07-24 01:25:07 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/magenta_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
     },
     "done": true
   },
@@ -3090,9 +3330,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/orange_simple_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/jerrycan": {
     "criteria": {
       "has_bucket": "2025-07-24 02:08:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_blue_arm_chair": {
+    "criteria": {
+      "has_wool": "2025-07-24 02:23:06 +0000"
     },
     "done": true
   },

@@ -4111,3 +4111,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Jul2025 02:21:53.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was killed by magic
 [24Jul2025 02:21:54.756] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
 [24Jul2025 02:21:54.756] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[24Jul2025 02:24:28.285] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1165cb49[id=<null>,name=Elishy_,properties={},legacy=false] (/127.1.114.11:53575) lost connection: Timed out
+[24Jul2025 02:28:52.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to BlaseTK]
+[24Jul2025 02:29:13.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was slain by Grizzly Bear
+[24Jul2025 02:29:14.910] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[24Jul2025 02:29:14.910] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[24Jul2025 02:29:23.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [Pic-A-Nic Basket?]
