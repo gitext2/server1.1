@@ -4102,3 +4102,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Jul2025 02:29:49.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to BlaseTK]
 [25Jul2025 02:29:49.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has made the advancement [Quite the Renovation]
 [25Jul2025 02:30:36.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has made the advancement [The Hoarding Begins]
+[25Jul2025 02:37:00.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[25Jul2025 02:42:51.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[25Jul2025 02:45:30.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported BlaseTK to Sr_Riva]
+[25Jul2025 02:45:32.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
