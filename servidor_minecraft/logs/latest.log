@@ -4124,3 +4124,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Jul2025 03:02:28.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK left the game
 [25Jul2025 03:02:28.681] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 25537c07-713d-3925-9844-014a82514044 was unloaded
 [25Jul2025 03:02:28.681] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BlaseTK
+[25Jul2025 03:07:57.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Elishy_ to Sr_Riva]
+[25Jul2025 03:13:01.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Set own game mode to Creative Mode]
+[25Jul2025 03:13:44.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has reached the goal [Plant Food]

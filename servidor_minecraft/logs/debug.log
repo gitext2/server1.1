@@ -21126,3 +21126,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Jul2025 03:06:06.085] [IO-Worker-109/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
 [25Jul2025 03:07:04.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo2
 [25Jul2025 03:07:04.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo2
+[25Jul2025 03:07:57.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Elishy_ to Sr_Riva]
+[25Jul2025 03:08:57.081] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 03:08:57.081] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 03:10:01.833] [IO-Worker-108/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[25Jul2025 03:10:01.833] [IO-Worker-114/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[25Jul2025 03:10:02.083] [IO-Worker-116/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117
+[25Jul2025 03:11:52.480] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 03:11:52.481] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 03:12:04.082] [IO-Worker-114/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-118
+[25Jul2025 03:12:04.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo2
+[25Jul2025 03:12:04.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo2
+[25Jul2025 03:12:52.633] [IO-Worker-108/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-119
+[25Jul2025 03:13:01.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Set own game mode to Creative Mode]
+[25Jul2025 03:13:44.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has reached the goal [Plant Food]
+[25Jul2025 03:15:21.302] [IO-Worker-119/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-120
+[25Jul2025 03:17:04.087] [IO-Worker-108/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-121
+[25Jul2025 03:17:04.088] [IO-Worker-108/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-122
+[25Jul2025 03:17:04.089] [IO-Worker-121/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-123
+[25Jul2025 03:17:04.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo2
+[25Jul2025 03:17:04.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo2
