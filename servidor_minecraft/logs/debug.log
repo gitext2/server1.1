@@ -20575,3 +20575,36 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Jul2025 02:14:13.541] [IO-Worker-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
 [25Jul2025 02:14:47.294] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [25Jul2025 02:16:24.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[25Jul2025 02:16:49.781] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 02:16:49.782] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 02:17:04.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo2
+[25Jul2025 02:17:04.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo2
+[25Jul2025 02:18:02.832] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 02:18:02.832] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 02:18:03.931] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 02:18:03.931] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 02:19:06.093] [IO-Worker-82/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[25Jul2025 02:20:01.180] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 02:20:01.181] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 02:20:58.833] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=984, y=-25, z=-1162} BlockPos{x=984, y=-25, z=-1166}
+[25Jul2025 02:22:04.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo2
+[25Jul2025 02:22:04.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo2
+[25Jul2025 02:22:08.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[25Jul2025 02:23:35.393] [IO-Worker-80/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[25Jul2025 02:23:35.394] [IO-Worker-85/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[25Jul2025 02:23:35.394] [IO-Worker-82/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[25Jul2025 02:25:13.603] [Server thread/INFO] [incontrol/]: Reading rules from areas.json
+[25Jul2025 02:25:13.604] [Server thread/INFO] [incontrol/]: Reading rules from spawn.json
+[25Jul2025 02:25:13.607] [Server thread/INFO] [incontrol/]: Reading rules from summonaid.json
+[25Jul2025 02:25:13.608] [Server thread/INFO] [incontrol/]: Reading rules from loot.json
+[25Jul2025 02:25:13.609] [Server thread/ERROR] [incontrol/]: Unknown item 'cw_additions:rubber_sheet'!
+[25Jul2025 02:25:13.609] [Server thread/ERROR] [incontrol/]: Unknown item 'cw_additions:plastic_sheet'!
+[25Jul2025 02:25:13.609] [Server thread/INFO] [incontrol/]: Reading rules from experience.json
+[25Jul2025 02:25:13.609] [Server thread/INFO] [incontrol/]: Reading rules from phases.json
+[25Jul2025 02:25:13.610] [Server thread/INFO] [incontrol/]: Reading rules from effects.json
+[25Jul2025 02:25:13.611] [Server thread/INFO] [incontrol/]: Reading rules from breakevents.json
+[25Jul2025 02:25:13.611] [Server thread/INFO] [incontrol/]: Reading rules from placeevents.json
+[25Jul2025 02:25:13.611] [Server thread/INFO] [incontrol/]: Reading rules from rightclicks.json
+[25Jul2025 02:25:13.612] [Server thread/INFO] [incontrol/]: Reading rules from leftclicks.json
+[25Jul2025 02:25:13.612] [Server thread/INFO] [incontrol/]: Reading rules from spawner.json
+[25Jul2025 02:25:13.613] [Server thread/INFO] [incontrol/]: Reading rules from events.json

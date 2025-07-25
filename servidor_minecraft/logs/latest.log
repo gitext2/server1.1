@@ -4078,3 +4078,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Jul2025 02:09:20.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has made the advancement [Keep Going]
 [25Jul2025 02:12:11.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to BlaseTK]
 [25Jul2025 02:16:24.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[25Jul2025 02:20:58.833] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=984, y=-25, z=-1162} BlockPos{x=984, y=-25, z=-1166}
+[25Jul2025 02:22:08.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[25Jul2025 02:25:13.603] [Server thread/INFO] [incontrol/]: Reading rules from areas.json
+[25Jul2025 02:25:13.604] [Server thread/INFO] [incontrol/]: Reading rules from spawn.json
+[25Jul2025 02:25:13.607] [Server thread/INFO] [incontrol/]: Reading rules from summonaid.json
+[25Jul2025 02:25:13.608] [Server thread/INFO] [incontrol/]: Reading rules from loot.json
+[25Jul2025 02:25:13.609] [Server thread/ERROR] [incontrol/]: Unknown item 'cw_additions:rubber_sheet'!
+[25Jul2025 02:25:13.609] [Server thread/ERROR] [incontrol/]: Unknown item 'cw_additions:plastic_sheet'!
+[25Jul2025 02:25:13.609] [Server thread/INFO] [incontrol/]: Reading rules from experience.json
+[25Jul2025 02:25:13.609] [Server thread/INFO] [incontrol/]: Reading rules from phases.json
+[25Jul2025 02:25:13.610] [Server thread/INFO] [incontrol/]: Reading rules from effects.json
+[25Jul2025 02:25:13.611] [Server thread/INFO] [incontrol/]: Reading rules from breakevents.json
+[25Jul2025 02:25:13.611] [Server thread/INFO] [incontrol/]: Reading rules from placeevents.json
+[25Jul2025 02:25:13.611] [Server thread/INFO] [incontrol/]: Reading rules from rightclicks.json
+[25Jul2025 02:25:13.612] [Server thread/INFO] [incontrol/]: Reading rules from leftclicks.json
+[25Jul2025 02:25:13.612] [Server thread/INFO] [incontrol/]: Reading rules from spawner.json
+[25Jul2025 02:25:13.613] [Server thread/INFO] [incontrol/]: Reading rules from events.json

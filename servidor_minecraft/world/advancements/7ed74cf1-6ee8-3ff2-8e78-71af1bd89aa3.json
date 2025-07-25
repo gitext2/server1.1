@@ -3808,6 +3808,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-25 02:13:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-25 01:41:48 +0000"
@@ -3880,6 +3886,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-07-25 02:17:15 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/blackstone_moulding": {
     "criteria": {
       "has_block": "2025-07-25 01:41:48 +0000"
@@ -3937,6 +3949,12 @@
   "walkietalkie:recipes/golden_walkietalkie": {
     "criteria": {
       "has_redstone": "2025-07-25 01:35:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-07-25 02:16:43 +0000"
     },
     "done": true
   },
@@ -4009,6 +4027,12 @@
   "walkietalkie:recipes/netherite_walkietalkie": {
     "criteria": {
       "has_redstone": "2025-07-25 01:35:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-25 02:16:46 +0000"
     },
     "done": true
   },
@@ -4156,6 +4180,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-07-25 02:16:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-07-25 01:35:08 +0000"
@@ -4243,6 +4273,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-07-25 01:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-25 02:13:24 +0000"
     },
     "done": true
   },
