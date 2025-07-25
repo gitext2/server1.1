@@ -20608,3 +20608,22 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Jul2025 02:25:13.612] [Server thread/INFO] [incontrol/]: Reading rules from leftclicks.json
 [25Jul2025 02:25:13.612] [Server thread/INFO] [incontrol/]: Reading rules from spawner.json
 [25Jul2025 02:25:13.613] [Server thread/INFO] [incontrol/]: Reading rules from events.json
+[25Jul2025 02:26:51.586] [IO-Worker-82/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
+[25Jul2025 02:27:04.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo2
+[25Jul2025 02:27:04.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo2
+[25Jul2025 02:28:09.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Difficulty set to 8.0]
+[25Jul2025 02:28:57.107] [IO-Worker-87/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-88
+[25Jul2025 02:29:21.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [Quite the Renovation]
+[25Jul2025 02:29:38.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[25Jul2025 02:29:39.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has made the advancement [Quite the Renovation]
+[25Jul2025 02:29:49.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to BlaseTK]
+[25Jul2025 02:29:49.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has made the advancement [Quite the Renovation]
+[25Jul2025 02:30:25.684] [IO-Worker-87/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-89
+[25Jul2025 02:30:36.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has made the advancement [The Hoarding Begins]
+[25Jul2025 02:31:33.446] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 02:31:40.486] [IO-Worker-87/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-90
+[25Jul2025 02:32:04.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo2
+[25Jul2025 02:32:04.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo2
+[25Jul2025 02:32:43.894] [IO-Worker-87/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-91
+[25Jul2025 02:35:25.683] [IO-Worker-87/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-92
+[25Jul2025 02:35:25.683] [IO-Worker-89/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-93

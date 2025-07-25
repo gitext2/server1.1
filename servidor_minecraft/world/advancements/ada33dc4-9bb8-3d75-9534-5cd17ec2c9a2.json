@@ -4525,6 +4525,12 @@
     },
     "done": true
   },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-07-25 02:29:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-07-25 01:05:29 +0000"
@@ -4621,6 +4627,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/alloybrick": {
+    "criteria": {
+      "has_brick": "2025-07-25 02:30:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-07-25 02:10:31 +0000"
@@ -4651,6 +4663,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oven": {
+    "criteria": {
+      "has_oven": "2025-07-25 02:30:50 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/empty_shell": {
     "criteria": {
       "has_coppper_ingot": "2025-07-25 01:10:22 +0000"
@@ -4672,6 +4690,12 @@
   "immersiveengineering:recipes/misc/crafting/empty_casing": {
     "criteria": {
       "has_coppper_ingot": "2025-07-25 01:10:22 +0000"
+    },
+    "done": true
+  },
+  "table_top_craft:root": {
+    "criteria": {
+      "get_chess_piece": "2025-07-25 02:30:36 +0000"
     },
     "done": true
   },
@@ -4735,6 +4759,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-07-25 02:30:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-25 01:40:25 +0000"
@@ -4783,6 +4813,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/blastbrick": {
+    "criteria": {
+      "has_item": "2025-07-25 02:30:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-25 01:40:25 +0000"
@@ -4792,6 +4828,18 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-25 01:40:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-07-25 02:30:50 +0000"
+    },
+    "done": true
+  },
+  "table_top_craft:the_hoarding_begins": {
+    "criteria": {
+      "ChessPieceFigure": "2025-07-25 02:30:36 +0000"
     },
     "done": true
   },
@@ -4810,6 +4858,12 @@
   "immersiveengineering:main/main_root": {
     "criteria": {
       "has_item": "2025-07-25 01:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-07-25 02:30:50 +0000"
     },
     "done": true
   },
@@ -4873,6 +4927,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2025-07-25 02:29:49 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2025-07-25 02:06:07 +0000"
@@ -4888,6 +4948,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-25 01:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-07-25 02:30:50 +0000"
     },
     "done": true
   },

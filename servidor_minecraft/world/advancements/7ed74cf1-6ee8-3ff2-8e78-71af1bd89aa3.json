@@ -3664,6 +3664,12 @@
     },
     "done": true
   },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-07-25 02:29:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-07-25 01:58:22 +0000"
@@ -3691,6 +3697,24 @@
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2025-07-25 02:11:16 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_nickel3": {
+    "criteria": {
+      "has_raw_nickel": "2025-07-25 02:25:32 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_block_nickel_to_raw_nickel": {
+    "criteria": {
+      "has_raw_block_nickel": "2025-07-25 02:25:32 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_block_silver_to_raw_silver": {
+    "criteria": {
+      "has_raw_block_silver": "2025-07-25 02:23:21 +0000"
     },
     "done": true
   },
@@ -3820,6 +3844,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/raw_silver_to_raw_block_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-07-25 02:23:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
     "criteria": {
       "has_moss": "2025-07-25 02:03:12 +0000"
@@ -3850,6 +3880,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/raw_nickel_to_raw_block_nickel": {
+    "criteria": {
+      "has_raw_nickel": "2025-07-25 02:25:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-25 01:40:52 +0000"
@@ -3868,9 +3904,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/smelting/ingot_silver_from_blasting3": {
+    "criteria": {
+      "has_raw_silver": "2025-07-25 02:23:21 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/raw_lead_to_raw_block_lead": {
     "criteria": {
       "has_raw_lead": "2025-07-25 02:01:37 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_silver3": {
+    "criteria": {
+      "has_raw_silver": "2025-07-25 02:23:21 +0000"
     },
     "done": true
   },
@@ -4027,6 +4075,12 @@
   "walkietalkie:recipes/netherite_walkietalkie": {
     "criteria": {
       "has_redstone": "2025-07-25 01:35:08 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_nickel_from_blasting3": {
+    "criteria": {
+      "has_raw_nickel": "2025-07-25 02:25:32 +0000"
     },
     "done": true
   },
@@ -4209,6 +4263,12 @@
       "has_log": "2025-07-25 01:56:21 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2025-07-25 02:29:39 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
