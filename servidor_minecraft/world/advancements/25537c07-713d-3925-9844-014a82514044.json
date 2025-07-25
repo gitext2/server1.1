@@ -983,7 +983,10 @@
       "minecraft:taiga": "2025-07-25 01:51:49 +0000",
       "minecraft:beach": "2025-07-24 03:27:44 +0000",
       "minecraft:river": "2025-07-22 01:25:57 +0000",
+      "minecraft:cold_ocean": "2025-07-25 01:55:56 +0000",
       "minecraft:forest": "2025-07-22 01:52:19 +0000",
+      "minecraft:lush_caves": "2025-07-25 02:02:01 +0000",
+      "minecraft:frozen_ocean": "2025-07-25 01:54:32 +0000",
       "minecraft:desert": "2025-07-22 01:30:19 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-24 03:15:50 +0000",
       "minecraft:meadow": "2025-07-22 01:59:03 +0000",
@@ -3843,6 +3846,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-07-25 01:56:24 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/blackstone_urn": {
     "criteria": {
       "has_block": "2025-07-25 01:41:39 +0000"
@@ -3876,6 +3885,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-25 01:34:44 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/mangrove_frame": {
+    "criteria": {
+      "has_planks": "2025-07-25 01:56:24 +0000"
     },
     "done": true
   },
@@ -4008,6 +4023,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-07-25 01:41:39 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/mangrove_palisade": {
+    "criteria": {
+      "has_log": "2025-07-25 01:56:24 +0000"
     },
     "done": true
   },
@@ -4203,6 +4224,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-07-25 01:54:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-07-25 01:38:52 +0000"
@@ -4329,9 +4356,27 @@
     },
     "done": true
   },
+  "bbb:recipes/mangrove_beam": {
+    "criteria": {
+      "has_log": "2025-07-25 01:56:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-25 01:41:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-07-25 01:56:24 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/mangrove_pallet": {
+    "criteria": {
+      "has_planks": "2025-07-25 01:56:24 +0000"
     },
     "done": true
   },
@@ -4386,6 +4431,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-07-25 01:38:52 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/mangrove_wall": {
+    "criteria": {
+      "has_logs": "2025-07-25 01:56:24 +0000"
     },
     "done": true
   },

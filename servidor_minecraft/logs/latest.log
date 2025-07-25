@@ -4049,3 +4049,26 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Jul2025 01:54:36.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to Elishy_]
 [25Jul2025 01:55:36.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to Sr_Riva]
 [25Jul2025 01:56:23.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[25Jul2025 01:57:02.066] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=945, y=60, z=-949} but found not block entity block Block{minecraft:smooth_basalt} at location
+[25Jul2025 01:57:02.066] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smooth_basalt} but failed at location BlockPos{x=945, y=60, z=-949}
+[25Jul2025 01:57:02.066] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=947, y=60, z=-947} but found not block entity block Block{minecraft:blackstone} at location
+[25Jul2025 01:57:02.066] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:blackstone} but failed at location BlockPos{x=947, y=60, z=-947}
+[25Jul2025 01:57:02.676] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=939, y=59, z=-942} but found not block entity block Block{minecraft:magma_block} at location
+[25Jul2025 01:57:02.676] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:magma_block} but failed at location BlockPos{x=939, y=59, z=-942}
+[25Jul2025 01:57:02.676] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=939, y=59, z=-944} but found not block entity block Block{minecraft:magma_block} at location
+[25Jul2025 01:57:02.676] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:magma_block} but failed at location BlockPos{x=939, y=59, z=-944}
+[25Jul2025 01:57:02.950] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=946, y=59, z=-943} but found not block entity block Block{minecraft:calcite} at location
+[25Jul2025 01:57:02.950] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:calcite} but failed at location BlockPos{x=946, y=59, z=-943}
+[25Jul2025 01:57:02.950] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=954, y=60, z=-944} but found not block entity block Block{minecraft:stone_bricks} at location
+[25Jul2025 01:57:02.950] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone_bricks} but failed at location BlockPos{x=954, y=60, z=-944}
+[25Jul2025 01:57:03.045] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=978, y=59, z=-937} but found not block entity block Block{minecraft:yellow_terracotta} at location
+[25Jul2025 01:57:03.045] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:yellow_terracotta} but failed at location BlockPos{x=978, y=59, z=-937}
+[25Jul2025 01:59:39.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Difficulty set to 7.0]
+[25Jul2025 02:01:39.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[25Jul2025 02:01:48.286] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[25Jul2025 02:01:49.150] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[25Jul2025 02:03:37.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to BlaseTK]
+[25Jul2025 02:03:45.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva was killed by magic
+[25Jul2025 02:03:47.476] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[25Jul2025 02:03:47.477] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[25Jul2025 02:06:33.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to Sr_Riva]

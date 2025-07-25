@@ -990,7 +990,9 @@
       "minecraft:taiga": "2025-07-25 01:51:56 +0000",
       "minecraft:beach": "2025-07-22 01:49:07 +0000",
       "minecraft:river": "2025-07-22 01:29:19 +0000",
+      "minecraft:cold_ocean": "2025-07-25 02:01:31 +0000",
       "minecraft:forest": "2025-07-22 01:51:40 +0000",
+      "minecraft:frozen_ocean": "2025-07-25 01:54:36 +0000",
       "minecraft:desert": "2025-07-24 03:28:02 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-24 03:04:51 +0000",
       "minecraft:meadow": "2025-07-22 01:54:34 +0000",
@@ -1774,6 +1776,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-07-25 01:52:48 +0000",
       "bread": "2025-07-22 01:45:55 +0000",
       "cookie": "2025-07-24 01:09:57 +0000",
       "melon_slice": "2025-07-24 03:00:48 +0000",
@@ -4751,6 +4754,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-25 01:40:25 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-07-25 01:52:44 +0000"
     },
     "done": true
   },
