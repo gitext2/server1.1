@@ -4113,3 +4113,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Jul2025 02:53:41.398] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
 [25Jul2025 02:53:42.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
 [25Jul2025 02:55:53.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Difficulty set to 9.0]
+[25Jul2025 02:57:27.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[25Jul2025 02:57:34.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was killed by magic
+[25Jul2025 02:57:35.438] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[25Jul2025 02:57:35.438] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[25Jul2025 02:57:36.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[25Jul2025 03:01:00.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[25Jul2025 03:01:29.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Difficulty set to 10.0]
+[25Jul2025 03:02:28.680] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BlaseTK lost connection: Disconnected
+[25Jul2025 03:02:28.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK left the game
+[25Jul2025 03:02:28.681] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 25537c07-713d-3925-9844-014a82514044 was unloaded
+[25Jul2025 03:02:28.681] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BlaseTK
