@@ -3580,6 +3580,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-25 02:50:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-07-25 01:31:08 +0000"
@@ -3943,6 +3949,12 @@
   "bbb:recipes/blackstone_moulding": {
     "criteria": {
       "has_block": "2025-07-25 01:41:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-25 02:50:22 +0000"
     },
     "done": true
   },
