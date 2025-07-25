@@ -4447,15 +4447,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-25 01:40:25 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/connector_lv": {
     "criteria": {
       "has_copper_ingot": "2025-07-25 01:10:22 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-25 01:40:25 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/cobbled_deepslate_layer": {
+    "criteria": {
+      "has_block": "2025-07-25 01:40:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_organic_compost": {
     "criteria": {
       "place_organic_compost": "2025-07-25 01:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-25 01:40:25 +0000"
     },
     "done": true
   },
@@ -4483,6 +4507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-25 01:40:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-07-25 01:10:22 +0000"
@@ -4498,6 +4528,18 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-07-25 01:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-25 01:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-25 01:40:25 +0000"
     },
     "done": true
   },
@@ -4519,9 +4561,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-25 01:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-25 01:40:25 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/manual": {
     "criteria": {
       "has_book": "2025-07-25 01:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-25 01:40:25 +0000"
     },
     "done": true
   },
@@ -4561,6 +4621,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-25 01:36:06 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-07-25 01:24:11 +0000"
@@ -4573,9 +4639,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-25 01:40:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-07-25 01:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-25 01:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-25 01:40:25 +0000"
     },
     "done": true
   },
@@ -4597,9 +4681,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-25 01:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-25 01:40:25 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/voltmeter": {
     "criteria": {
       "has_copper_ingot": "2025-07-25 01:10:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-25 01:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-25 01:40:25 +0000"
     },
     "done": true
   },
@@ -4615,9 +4723,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-25 01:40:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-07-25 01:01:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-25 01:40:25 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/deepslate_column": {
+    "criteria": {
+      "has_block": "2025-07-25 01:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-25 01:40:25 +0000"
     },
     "done": true
   },
@@ -4639,9 +4771,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-25 01:40:25 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/connector_lv_relay": {
     "criteria": {
       "has_copper_ingot": "2025-07-25 01:10:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-25 01:40:25 +0000"
     },
     "done": true
   },

@@ -3982,3 +3982,37 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Jul2025 01:34:07.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to BlaseTK]
 [25Jul2025 01:35:38.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has made the advancement [Ancient Shard]
 [25Jul2025 01:36:06.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has made the advancement [Isn't It Iron Pick]
+[25Jul2025 01:37:02.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[25Jul2025 01:37:11.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ died
+[25Jul2025 01:37:12.902] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
+[25Jul2025 01:37:12.903] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
+[25Jul2025 01:37:16.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[25Jul2025 01:38:48.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[25Jul2025 01:38:55.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to BlaseTK]
+[25Jul2025 01:38:57.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has made the advancement [Isn't It Iron Pick]
+[25Jul2025 01:39:47.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Killed BlaseTK]
+[25Jul2025 01:39:53.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK died
+[25Jul2025 01:39:55.094] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[25Jul2025 01:39:55.094] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[25Jul2025 01:39:56.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[25Jul2025 01:41:43.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[25Jul2025 01:41:51.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK died
+[25Jul2025 01:41:53.261] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[25Jul2025 01:41:53.261] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[25Jul2025 01:41:54.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[25Jul2025 01:42:30.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK died
+[25Jul2025 01:42:32.208] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[25Jul2025 01:42:32.208] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[25Jul2025 01:42:33.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[25Jul2025 01:42:58.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Killed Elishy_]
+[25Jul2025 01:43:05.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ died
+[25Jul2025 01:43:06.791] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
+[25Jul2025 01:43:06.791] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
+[25Jul2025 01:43:11.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[25Jul2025 01:45:21.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[25Jul2025 01:45:30.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva was killed by magic
+[25Jul2025 01:45:32.206] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[25Jul2025 01:45:32.207] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[25Jul2025 01:45:34.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ was killed by magic
+[25Jul2025 01:45:36.310] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
+[25Jul2025 01:45:36.310] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
