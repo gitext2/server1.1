@@ -3842,6 +3842,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/raw_block_silver_to_raw_silver": {
+    "criteria": {
+      "has_raw_block_silver": "2025-07-25 01:31:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_silver_to_raw_block_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-07-25 01:31:50 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/manual": {
     "criteria": {
       "has_book": "2025-07-25 01:05:32 +0000"
@@ -3851,6 +3863,18 @@
   "handcrafted:recipes/misc/stackable_book": {
     "criteria": {
       "has_stackable_book": "2025-07-25 01:05:32 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_silver_from_blasting3": {
+    "criteria": {
+      "has_raw_silver": "2025-07-25 01:31:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_silver3": {
+    "criteria": {
+      "has_raw_silver": "2025-07-25 01:31:50 +0000"
     },
     "done": true
   },
