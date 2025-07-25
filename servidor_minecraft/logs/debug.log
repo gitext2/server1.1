@@ -19957,3 +19957,492 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Jul2025 01:45:36.310] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
 [25Jul2025 01:45:56.318] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1351943289 to 7
 [25Jul2025 01:46:12.903] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[25Jul2025 01:47:04.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo2
+[25Jul2025 01:47:04.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo2
+[25Jul2025 01:47:32.257] [IO-Worker-61/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[25Jul2025 01:47:32.258] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[25Jul2025 01:47:32.261] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[25Jul2025 01:47:32.489] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:desert_pyramid
+[25Jul2025 01:47:32.499] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:badlands_ruin1
+[25Jul2025 01:47:32.764] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/town_centers/desert_meeting_point_3
+[25Jul2025 01:47:32.780] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/town_centers/snowy_meeting_point_2
+[25Jul2025 01:47:32.797] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/savanna/town_centers/savanna_meeting_point_2
+[25Jul2025 01:47:32.809] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/town_centers/plains_fountain_01
+[25Jul2025 01:47:33.209] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ocean_ruin4
+[25Jul2025 01:47:34.294] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=695, y=102, z=-853}
+[25Jul2025 01:47:35.761] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: jeffs_cursed_walking_structures:factoryofdoom_parts
+[25Jul2025 01:47:35.798] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: jeffs_cursed_walking_structures:factoryofdoom_parts
+[25Jul2025 01:47:35.860] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: jeffs_cursed_walking_structures:factoryofdoom_parts
+[25Jul2025 01:47:35.920] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: jeffs_cursed_walking_structures:factoryofdoom_parts
+[25Jul2025 01:47:46.881] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[25Jul2025 01:47:46.911] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:pumpkin_ruin_one
+[25Jul2025 01:47:54.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[25Jul2025 01:47:56.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[25Jul2025 01:48:08.495] [Server thread/DEBUG] [pointblank/]: 88495 handling client fire request
+[25Jul2025 01:48:08.495] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 23
+[25Jul2025 01:48:08.496] [Server thread/DEBUG] [pointblank/]: 88496 - obtained hit result in 0ms
+[25Jul2025 01:48:08.496] [Server thread/DEBUG] [pointblank/]: 88496 obtained hit results
+[25Jul2025 01:48:08.496] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5b8bd7c2
+[25Jul2025 01:48:08.496] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=580.23, y=67.00, z=-821.68] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=580.23, y=67.00, z=-821.68]
+[25Jul2025 01:48:08.497] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=580.23, y=67.00, z=-821.68] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=487.67, y=65.00, z=-764.45]
+[25Jul2025 01:48:08.497] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=580.23, y=67.00, z=-821.68] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=573.66, y=67.00, z=-822.29]
+[25Jul2025 01:48:09.046] [Server thread/DEBUG] [pointblank/]: 89046 handling client fire request
+[25Jul2025 01:48:09.047] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 22
+[25Jul2025 01:48:09.047] [Server thread/DEBUG] [pointblank/]: 89047 - obtained hit result in 0ms
+[25Jul2025 01:48:09.047] [Server thread/DEBUG] [pointblank/]: 89047 obtained hit results
+[25Jul2025 01:48:09.047] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@518961a5
+[25Jul2025 01:48:09.047] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=582.58, y=67.00, z=-822.53] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=582.58, y=67.00, z=-822.53]
+[25Jul2025 01:48:09.048] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=582.58, y=67.00, z=-822.53] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=487.67, y=65.00, z=-764.45]
+[25Jul2025 01:48:09.048] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=582.58, y=67.00, z=-822.53] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=575.22, y=67.00, z=-823.06]
+[25Jul2025 01:48:09.504] [Server thread/DEBUG] [pointblank/]: 89504 handling client fire request
+[25Jul2025 01:48:09.504] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 21
+[25Jul2025 01:48:09.504] [Server thread/DEBUG] [pointblank/]: 89504 - obtained hit result in 0ms
+[25Jul2025 01:48:09.504] [Server thread/DEBUG] [pointblank/]: 89504 obtained hit results
+[25Jul2025 01:48:09.504] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@37a7131c
+[25Jul2025 01:48:09.505] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=584.46, y=67.00, z=-823.32] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=584.46, y=67.00, z=-823.32]
+[25Jul2025 01:48:09.505] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=584.46, y=67.00, z=-823.32] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=576.06, y=67.00, z=-824.53]
+[25Jul2025 01:48:09.864] [Server thread/DEBUG] [pointblank/]: 89864 handling client fire request
+[25Jul2025 01:48:09.864] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 20
+[25Jul2025 01:48:09.864] [Server thread/DEBUG] [pointblank/]: 89864 - obtained hit result in 0ms
+[25Jul2025 01:48:09.864] [Server thread/DEBUG] [pointblank/]: 89864 obtained hit results
+[25Jul2025 01:48:09.864] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@45e09c66
+[25Jul2025 01:48:09.865] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=585.83, y=67.00, z=-824.10] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=585.83, y=67.00, z=-824.10]
+[25Jul2025 01:48:09.865] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=585.83, y=67.00, z=-824.10] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=576.97, y=67.00, z=-825.62]
+[25Jul2025 01:48:10.197] [Server thread/DEBUG] [pointblank/]: 90197 handling client fire request
+[25Jul2025 01:48:10.197] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 19
+[25Jul2025 01:48:10.197] [Server thread/DEBUG] [pointblank/]: 90197 - obtained hit result in 0ms
+[25Jul2025 01:48:10.198] [Server thread/DEBUG] [pointblank/]: 90198 obtained hit results
+[25Jul2025 01:48:10.198] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7e8d69b7
+[25Jul2025 01:48:10.198] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=585.97, y=67.00, z=-824.19] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=585.97, y=67.00, z=-824.19]
+[25Jul2025 01:48:10.198] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=585.97, y=67.00, z=-824.19] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=577.42, y=67.00, z=-826.40]
+[25Jul2025 01:48:10.693] [Server thread/DEBUG] [pointblank/]: 90693 handling client fire request
+[25Jul2025 01:48:10.693] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 18
+[25Jul2025 01:48:10.693] [Server thread/DEBUG] [pointblank/]: 90693 - obtained hit result in 0ms
+[25Jul2025 01:48:10.693] [Server thread/DEBUG] [pointblank/]: 90693 obtained hit results
+[25Jul2025 01:48:10.693] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5114e49f
+[25Jul2025 01:48:10.694] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=584.54, y=67.00, z=-822.63] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=584.54, y=67.00, z=-822.63]
+[25Jul2025 01:48:10.694] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=584.54, y=67.00, z=-822.63] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=579.02, y=67.00, z=-826.12]
+[25Jul2025 01:48:11.396] [Server thread/DEBUG] [pointblank/]: 91396 handling client fire request
+[25Jul2025 01:48:11.396] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 17
+[25Jul2025 01:48:11.396] [Server thread/DEBUG] [pointblank/]: 91396 - obtained hit result in 0ms
+[25Jul2025 01:48:11.396] [Server thread/DEBUG] [pointblank/]: 91396 obtained hit results
+[25Jul2025 01:48:11.396] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4dd5972b
+[25Jul2025 01:48:11.397] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=584.24, y=67.00, z=-822.24] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=584.24, y=67.00, z=-822.24]
+[25Jul2025 01:48:11.397] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=584.24, y=67.00, z=-822.24] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=581.96, y=67.00, z=-825.91]
+[25Jul2025 01:48:11.744] [Server thread/DEBUG] [pointblank/]: 91744 handling client fire request
+[25Jul2025 01:48:11.745] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 16
+[25Jul2025 01:48:11.745] [Server thread/DEBUG] [pointblank/]: 91745 - obtained hit result in 0ms
+[25Jul2025 01:48:11.745] [Server thread/DEBUG] [pointblank/]: 91745 obtained hit results
+[25Jul2025 01:48:11.745] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3b93a212
+[25Jul2025 01:48:11.746] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=583.86, y=67.00, z=-822.00] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=583.86, y=67.00, z=-822.00]
+[25Jul2025 01:48:11.747] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=583.86, y=67.00, z=-822.00] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=583.37, y=67.00, z=-825.65]
+[25Jul2025 01:48:19.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has made the advancement [Pic-A-Nic Basket?]
+[25Jul2025 01:48:19.892] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:20.392] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:21.492] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:21.991] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:32.093] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:32.592] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:33.094] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:33.593] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:34.124] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:34.593] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:35.093] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:35.594] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:36.093] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:37.092] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:37.593] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:38.456] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:38.945] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:39.444] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:39.942] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:40.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[25Jul2025 01:48:40.444] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:40.942] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:41.443] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:41.942] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:42.443] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:42.946] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:43.443] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:43.943] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:44.442] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:44.943] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:45.443] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:45.955] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:58.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ died
+[25Jul2025 01:48:59.337] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:48:59.463] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
+[25Jul2025 01:48:59.463] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
+[25Jul2025 01:49:01.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[25Jul2025 01:49:02.013] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_tower_2
+[25Jul2025 01:49:15.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to Sr_Riva]
+[25Jul2025 01:49:20.246] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[25Jul2025 01:49:31.117] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:tomb1
+[25Jul2025 01:49:48.237] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[25Jul2025 01:50:01.653] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 32
+[25Jul2025 01:50:03.089] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:50:03.089] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:50:04.088] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:50:04.088] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:50:04.203] [Server thread/DEBUG] [pointblank/]: 4203 handling client fire request
+[25Jul2025 01:50:04.203] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 31
+[25Jul2025 01:50:04.203] [Server thread/DEBUG] [pointblank/]: 4203 - obtained hit result in 0ms
+[25Jul2025 01:50:04.203] [Server thread/DEBUG] [pointblank/]: 4203 obtained hit results
+[25Jul2025 01:50:04.203] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@54ea0e5f
+[25Jul2025 01:50:04.204] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.72, y=78.00, z=-832.59] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.72, y=78.00, z=-832.59]
+[25Jul2025 01:50:04.204] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.72, y=78.00, z=-832.59] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=626.25, y=66.00, z=-800.21]
+[25Jul2025 01:50:04.204] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.72, y=78.00, z=-832.59] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=623.88, y=68.00, z=-831.54]
+[25Jul2025 01:50:04.389] [Server thread/DEBUG] [pointblank/]: 4389 handling client fire request
+[25Jul2025 01:50:04.389] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 30
+[25Jul2025 01:50:04.389] [Server thread/DEBUG] [pointblank/]: 4389 - obtained hit result in 0ms
+[25Jul2025 01:50:04.389] [Server thread/DEBUG] [pointblank/]: 4389 obtained hit results
+[25Jul2025 01:50:04.389] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@56338581
+[25Jul2025 01:50:04.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.48, y=78.00, z=-832.35] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.48, y=78.00, z=-832.35]
+[25Jul2025 01:50:04.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.48, y=78.00, z=-832.35] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=626.25, y=66.00, z=-800.21]
+[25Jul2025 01:50:04.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.48, y=78.00, z=-832.35] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=624.32, y=69.06, z=-833.06]
+[25Jul2025 01:50:04.457] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[25Jul2025 01:50:04.510] [Server thread/DEBUG] [pointblank/]: 4510 handling client fire request
+[25Jul2025 01:50:04.510] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 29
+[25Jul2025 01:50:04.510] [Server thread/DEBUG] [pointblank/]: 4510 - obtained hit result in 0ms
+[25Jul2025 01:50:04.510] [Server thread/DEBUG] [pointblank/]: 4510 obtained hit results
+[25Jul2025 01:50:04.510] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3921bd2b
+[25Jul2025 01:50:04.511] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.41, y=78.00, z=-832.25] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.41, y=78.00, z=-832.25]
+[25Jul2025 01:50:04.511] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.41, y=78.00, z=-832.25] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=626.25, y=66.00, z=-800.21]
+[25Jul2025 01:50:04.511] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.41, y=78.00, z=-832.25] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=624.51, y=69.35, z=-833.66]
+[25Jul2025 01:50:04.679] [Server thread/DEBUG] [pointblank/]: 4679 handling client fire request
+[25Jul2025 01:50:04.679] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 28
+[25Jul2025 01:50:04.679] [Server thread/DEBUG] [pointblank/]: 4679 - obtained hit result in 0ms
+[25Jul2025 01:50:04.679] [Server thread/DEBUG] [pointblank/]: 4679 obtained hit results
+[25Jul2025 01:50:04.679] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@280458db
+[25Jul2025 01:50:04.680] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24]
+[25Jul2025 01:50:04.680] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=626.25, y=66.00, z=-800.21]
+[25Jul2025 01:50:04.680] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=624.79, y=69.18, z=-834.54]
+[25Jul2025 01:50:04.795] [Server thread/DEBUG] [pointblank/]: 4795 handling client fire request
+[25Jul2025 01:50:04.795] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 27
+[25Jul2025 01:50:04.795] [Server thread/DEBUG] [pointblank/]: 4795 - obtained hit result in 0ms
+[25Jul2025 01:50:04.795] [Server thread/DEBUG] [pointblank/]: 4795 obtained hit results
+[25Jul2025 01:50:04.795] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5fc00bf
+[25Jul2025 01:50:04.796] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24]
+[25Jul2025 01:50:04.796] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=626.28, y=66.00, z=-799.95]
+[25Jul2025 01:50:04.796] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=625.07, y=68.33, z=-835.41]
+[25Jul2025 01:50:04.941] [Server thread/DEBUG] [pointblank/]: 4941 handling client fire request
+[25Jul2025 01:50:04.941] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 26
+[25Jul2025 01:50:04.941] [Server thread/DEBUG] [pointblank/]: 4941 - obtained hit result in 0ms
+[25Jul2025 01:50:04.941] [Server thread/DEBUG] [pointblank/]: 4941 obtained hit results
+[25Jul2025 01:50:04.941] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4080ecea
+[25Jul2025 01:50:04.941] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24]
+[25Jul2025 01:50:04.942] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=626.38, y=66.00, z=-799.45]
+[25Jul2025 01:50:04.942] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=625.46, y=68.79, z=-836.59]
+[25Jul2025 01:50:05.095] [Server thread/DEBUG] [pointblank/]: 5095 handling client fire request
+[25Jul2025 01:50:05.096] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 25
+[25Jul2025 01:50:05.096] [Server thread/DEBUG] [pointblank/]: 5096 - obtained hit result in 0ms
+[25Jul2025 01:50:05.096] [Server thread/DEBUG] [pointblank/]: 5096 obtained hit results
+[25Jul2025 01:50:05.096] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@26e7ee80
+[25Jul2025 01:50:05.096] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24]
+[25Jul2025 01:50:05.097] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=626.40, y=66.00, z=-799.34]
+[25Jul2025 01:50:05.097] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=625.79, y=69.35, z=-837.56]
+[25Jul2025 01:50:05.248] [Server thread/DEBUG] [pointblank/]: 5247 handling client fire request
+[25Jul2025 01:50:05.248] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 24
+[25Jul2025 01:50:05.248] [Server thread/DEBUG] [pointblank/]: 5248 - obtained hit result in 0ms
+[25Jul2025 01:50:05.248] [Server thread/DEBUG] [pointblank/]: 5248 obtained hit results
+[25Jul2025 01:50:05.248] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@16c261d3
+[25Jul2025 01:50:05.248] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24]
+[25Jul2025 01:50:05.248] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=626.40, y=66.00, z=-799.33]
+[25Jul2025 01:50:05.248] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=625.99, y=69.18, z=-838.49]
+[25Jul2025 01:50:05.397] [Server thread/DEBUG] [pointblank/]: 5397 handling client fire request
+[25Jul2025 01:50:05.397] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 23
+[25Jul2025 01:50:05.397] [Server thread/DEBUG] [pointblank/]: 5397 - obtained hit result in 0ms
+[25Jul2025 01:50:05.397] [Server thread/DEBUG] [pointblank/]: 5397 obtained hit results
+[25Jul2025 01:50:05.397] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@159d56d9
+[25Jul2025 01:50:05.398] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24]
+[25Jul2025 01:50:05.398] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=626.40, y=66.00, z=-799.33]
+[25Jul2025 01:50:05.398] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=626.16, y=68.33, z=-839.38]
+[25Jul2025 01:50:05.589] [Server thread/DEBUG] [pointblank/]: 5589 handling client fire request
+[25Jul2025 01:50:05.589] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 22
+[25Jul2025 01:50:05.589] [Server thread/DEBUG] [pointblank/]: 5589 - obtained hit result in 0ms
+[25Jul2025 01:50:05.589] [Server thread/DEBUG] [pointblank/]: 5589 obtained hit results
+[25Jul2025 01:50:05.589] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@22e261a4
+[25Jul2025 01:50:05.590] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24]
+[25Jul2025 01:50:05.590] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=626.40, y=66.00, z=-799.33]
+[25Jul2025 01:50:05.590] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=626.50, y=68.00, z=-840.69]
+[25Jul2025 01:50:06.045] [Server thread/DEBUG] [pointblank/]: 6045 handling client fire request
+[25Jul2025 01:50:06.045] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 21
+[25Jul2025 01:50:06.045] [Server thread/DEBUG] [pointblank/]: 6045 - obtained hit result in 0ms
+[25Jul2025 01:50:06.045] [Server thread/DEBUG] [pointblank/]: 6045 obtained hit results
+[25Jul2025 01:50:06.045] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@362909f6
+[25Jul2025 01:50:06.046] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24]
+[25Jul2025 01:50:06.046] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=626.40, y=66.00, z=-799.06]
+[25Jul2025 01:50:06.046] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=627.40, y=69.00, z=-843.40]
+[25Jul2025 01:50:06.194] [Server thread/DEBUG] [pointblank/]: 6194 handling client fire request
+[25Jul2025 01:50:06.194] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 20
+[25Jul2025 01:50:06.194] [Server thread/DEBUG] [pointblank/]: 6194 - obtained hit result in 0ms
+[25Jul2025 01:50:06.194] [Server thread/DEBUG] [pointblank/]: 6194 obtained hit results
+[25Jul2025 01:50:06.194] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@49680768
+[25Jul2025 01:50:06.195] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24]
+[25Jul2025 01:50:06.195] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=626.39, y=66.00, z=-798.67]
+[25Jul2025 01:50:06.195] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=627.80, y=69.79, z=-844.59]
+[25Jul2025 01:50:06.340] [Server thread/DEBUG] [pointblank/]: 6340 handling client fire request
+[25Jul2025 01:50:06.340] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 19
+[25Jul2025 01:50:06.340] [Server thread/DEBUG] [pointblank/]: 6340 - obtained hit result in 0ms
+[25Jul2025 01:50:06.340] [Server thread/DEBUG] [pointblank/]: 6340 obtained hit results
+[25Jul2025 01:50:06.340] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6202ac5c
+[25Jul2025 01:50:06.341] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24]
+[25Jul2025 01:50:06.341] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=626.39, y=66.00, z=-798.44]
+[25Jul2025 01:50:06.341] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=628.10, y=70.35, z=-845.48]
+[25Jul2025 01:50:06.539] [Server thread/DEBUG] [pointblank/]: 6539 handling client fire request
+[25Jul2025 01:50:06.539] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 18
+[25Jul2025 01:50:06.539] [Server thread/DEBUG] [pointblank/]: 6539 - obtained hit result in 0ms
+[25Jul2025 01:50:06.539] [Server thread/DEBUG] [pointblank/]: 6539 obtained hit results
+[25Jul2025 01:50:06.539] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6bd8b433
+[25Jul2025 01:50:06.540] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24]
+[25Jul2025 01:50:06.540] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=626.39, y=66.00, z=-798.43]
+[25Jul2025 01:50:06.540] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=628.50, y=69.97, z=-846.64]
+[25Jul2025 01:50:06.692] [Server thread/DEBUG] [pointblank/]: 6692 handling client fire request
+[25Jul2025 01:50:06.692] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 17
+[25Jul2025 01:50:06.692] [Server thread/DEBUG] [pointblank/]: 6692 - obtained hit result in 0ms
+[25Jul2025 01:50:06.692] [Server thread/DEBUG] [pointblank/]: 6692 obtained hit results
+[25Jul2025 01:50:06.692] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7f0a0404
+[25Jul2025 01:50:06.693] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24]
+[25Jul2025 01:50:06.693] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=626.39, y=66.00, z=-798.43]
+[25Jul2025 01:50:06.693] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=628.70, y=68.90, z=-847.49]
+[25Jul2025 01:50:06.889] [Server thread/DEBUG] [pointblank/]: 6889 handling client fire request
+[25Jul2025 01:50:06.889] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 16
+[25Jul2025 01:50:06.889] [Server thread/DEBUG] [pointblank/]: 6889 - obtained hit result in 0ms
+[25Jul2025 01:50:06.889] [Server thread/DEBUG] [pointblank/]: 6889 obtained hit results
+[25Jul2025 01:50:06.889] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7ce53019
+[25Jul2025 01:50:06.890] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24]
+[25Jul2025 01:50:06.890] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=626.39, y=66.00, z=-798.43]
+[25Jul2025 01:50:06.890] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=628.48, y=68.92, z=-848.50]
+[25Jul2025 01:50:06.904] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:field_stone_ruins_rock5
+[25Jul2025 01:50:07.101] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:50:07.103] [Server thread/DEBUG] [pointblank/]: 7103 handling client fire request
+[25Jul2025 01:50:07.103] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 15
+[25Jul2025 01:50:07.104] [Server thread/DEBUG] [pointblank/]: 7104 - obtained hit result in 0ms
+[25Jul2025 01:50:07.104] [Server thread/DEBUG] [pointblank/]: 7104 obtained hit results
+[25Jul2025 01:50:07.104] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@398efc94
+[25Jul2025 01:50:07.105] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24]
+[25Jul2025 01:50:07.105] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=626.39, y=66.00, z=-798.43]
+[25Jul2025 01:50:07.105] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=628.17, y=68.23, z=-848.70]
+[25Jul2025 01:50:07.191] [Server thread/DEBUG] [pointblank/]: 7191 handling client fire request
+[25Jul2025 01:50:07.191] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 14
+[25Jul2025 01:50:07.191] [Server thread/DEBUG] [pointblank/]: 7191 - obtained hit result in 0ms
+[25Jul2025 01:50:07.191] [Server thread/DEBUG] [pointblank/]: 7191 obtained hit results
+[25Jul2025 01:50:07.191] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@e1dadc1
+[25Jul2025 01:50:07.191] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24]
+[25Jul2025 01:50:07.192] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=626.39, y=66.00, z=-798.43]
+[25Jul2025 01:50:07.192] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=627.85, y=68.79, z=-848.70]
+[25Jul2025 01:50:07.395] [Server thread/DEBUG] [pointblank/]: 7395 handling client fire request
+[25Jul2025 01:50:07.395] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 13
+[25Jul2025 01:50:07.396] [Server thread/DEBUG] [pointblank/]: 7396 - obtained hit result in 0ms
+[25Jul2025 01:50:07.396] [Server thread/DEBUG] [pointblank/]: 7396 obtained hit results
+[25Jul2025 01:50:07.396] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6a3df9e9
+[25Jul2025 01:50:07.396] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24]
+[25Jul2025 01:50:07.396] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=626.39, y=66.00, z=-798.43]
+[25Jul2025 01:50:07.397] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=627.63, y=68.92, z=-848.99]
+[25Jul2025 01:50:07.551] [Server thread/DEBUG] [pointblank/]: 7551 handling client fire request
+[25Jul2025 01:50:07.551] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 12
+[25Jul2025 01:50:07.551] [Server thread/DEBUG] [pointblank/]: 7551 - obtained hit result in 0ms
+[25Jul2025 01:50:07.552] [Server thread/DEBUG] [pointblank/]: 7552 obtained hit results
+[25Jul2025 01:50:07.552] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1aefc400
+[25Jul2025 01:50:07.552] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24]
+[25Jul2025 01:50:07.552] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=626.39, y=66.00, z=-798.43]
+[25Jul2025 01:50:07.552] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=627.51, y=68.23, z=-849.31]
+[25Jul2025 01:50:07.698] [Server thread/DEBUG] [pointblank/]: 7698 handling client fire request
+[25Jul2025 01:50:07.698] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 11
+[25Jul2025 01:50:07.698] [Server thread/DEBUG] [pointblank/]: 7698 - obtained hit result in 0ms
+[25Jul2025 01:50:07.698] [Server thread/DEBUG] [pointblank/]: 7698 obtained hit results
+[25Jul2025 01:50:07.699] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@16c295b0
+[25Jul2025 01:50:07.701] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24]
+[25Jul2025 01:50:07.701] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=626.39, y=66.00, z=-798.43]
+[25Jul2025 01:50:07.701] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=627.55, y=68.44, z=-849.85]
+[25Jul2025 01:50:07.845] [Server thread/DEBUG] [pointblank/]: 7845 handling client fire request
+[25Jul2025 01:50:07.846] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 10
+[25Jul2025 01:50:07.846] [Server thread/DEBUG] [pointblank/]: 7846 - obtained hit result in 0ms
+[25Jul2025 01:50:07.846] [Server thread/DEBUG] [pointblank/]: 7846 obtained hit results
+[25Jul2025 01:50:07.846] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7552410c
+[25Jul2025 01:50:07.847] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24]
+[25Jul2025 01:50:07.847] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=626.39, y=66.00, z=-798.43]
+[25Jul2025 01:50:07.847] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=627.62, y=69.25, z=-850.26]
+[25Jul2025 01:50:07.997] [Server thread/DEBUG] [pointblank/]: 7997 handling client fire request
+[25Jul2025 01:50:07.997] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 9
+[25Jul2025 01:50:07.997] [Server thread/DEBUG] [pointblank/]: 7997 - obtained hit result in 0ms
+[25Jul2025 01:50:07.997] [Server thread/DEBUG] [pointblank/]: 7997 obtained hit results
+[25Jul2025 01:50:07.997] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@70251cfe
+[25Jul2025 01:50:07.998] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24]
+[25Jul2025 01:50:07.998] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=626.39, y=66.00, z=-798.43]
+[25Jul2025 01:50:07.998] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=627.62, y=69.32, z=-850.72]
+[25Jul2025 01:50:08.139] [Server thread/DEBUG] [pointblank/]: 8139 handling client fire request
+[25Jul2025 01:50:08.139] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 8
+[25Jul2025 01:50:08.139] [Server thread/DEBUG] [pointblank/]: 8139 - obtained hit result in 0ms
+[25Jul2025 01:50:08.139] [Server thread/DEBUG] [pointblank/]: 8139 obtained hit results
+[25Jul2025 01:50:08.139] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@140e193e
+[25Jul2025 01:50:08.140] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24]
+[25Jul2025 01:50:08.140] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=626.39, y=66.00, z=-798.43]
+[25Jul2025 01:50:08.140] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=627.55, y=68.69, z=-851.21]
+[25Jul2025 01:50:08.340] [Server thread/DEBUG] [pointblank/]: 8340 handling client fire request
+[25Jul2025 01:50:08.340] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 7
+[25Jul2025 01:50:08.340] [Server thread/DEBUG] [pointblank/]: 8340 - obtained hit result in 0ms
+[25Jul2025 01:50:08.340] [Server thread/DEBUG] [pointblank/]: 8340 obtained hit results
+[25Jul2025 01:50:08.340] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1663711a
+[25Jul2025 01:50:08.341] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24]
+[25Jul2025 01:50:08.341] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=626.39, y=66.00, z=-798.43]
+[25Jul2025 01:50:08.341] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=627.34, y=68.79, z=-851.96]
+[25Jul2025 01:50:08.489] [Server thread/DEBUG] [pointblank/]: 8489 handling client fire request
+[25Jul2025 01:50:08.489] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 6
+[25Jul2025 01:50:08.489] [Server thread/DEBUG] [pointblank/]: 8489 - obtained hit result in 0ms
+[25Jul2025 01:50:08.489] [Server thread/DEBUG] [pointblank/]: 8489 obtained hit results
+[25Jul2025 01:50:08.489] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@715e18fb
+[25Jul2025 01:50:08.490] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24]
+[25Jul2025 01:50:08.490] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=626.39, y=66.00, z=-798.43]
+[25Jul2025 01:50:08.490] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=627.15, y=69.35, z=-852.44]
+[25Jul2025 01:50:09.012] [Server thread/DEBUG] [pointblank/]: 9012 handling client fire request
+[25Jul2025 01:50:09.012] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 5
+[25Jul2025 01:50:09.012] [Server thread/DEBUG] [pointblank/]: 9012 - obtained hit result in 0ms
+[25Jul2025 01:50:09.013] [Server thread/DEBUG] [pointblank/]: 9013 obtained hit results
+[25Jul2025 01:50:09.013] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@29c428c2
+[25Jul2025 01:50:09.013] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24]
+[25Jul2025 01:50:09.014] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=626.11, y=66.00, z=-797.30]
+[25Jul2025 01:50:09.014] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=626.73, y=70.35, z=-854.21]
+[25Jul2025 01:50:09.089] [Server thread/DEBUG] [pointblank/]: 9089 handling client fire request
+[25Jul2025 01:50:09.090] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 4
+[25Jul2025 01:50:09.090] [Server thread/DEBUG] [pointblank/]: 9090 - obtained hit result in 0ms
+[25Jul2025 01:50:09.090] [Server thread/DEBUG] [pointblank/]: 9090 obtained hit results
+[25Jul2025 01:50:09.090] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@385aa0de
+[25Jul2025 01:50:09.090] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24]
+[25Jul2025 01:50:09.090] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=626.10, y=66.00, z=-797.30]
+[25Jul2025 01:50:09.090] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=626.77, y=70.32, z=-854.54]
+[25Jul2025 01:50:09.239] [Server thread/DEBUG] [pointblank/]: 9239 handling client fire request
+[25Jul2025 01:50:09.239] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 3
+[25Jul2025 01:50:09.239] [Server thread/DEBUG] [pointblank/]: 9239 - obtained hit result in 0ms
+[25Jul2025 01:50:09.239] [Server thread/DEBUG] [pointblank/]: 9239 obtained hit results
+[25Jul2025 01:50:09.239] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2489bf23
+[25Jul2025 01:50:09.241] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24]
+[25Jul2025 01:50:09.241] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=625.92, y=66.00, z=-797.72]
+[25Jul2025 01:50:09.241] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=626.84, y=69.69, z=-855.01]
+[25Jul2025 01:50:09.388] [Server thread/DEBUG] [pointblank/]: 9388 handling client fire request
+[25Jul2025 01:50:09.388] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 2
+[25Jul2025 01:50:09.388] [Server thread/DEBUG] [pointblank/]: 9388 - obtained hit result in 0ms
+[25Jul2025 01:50:09.388] [Server thread/DEBUG] [pointblank/]: 9388 obtained hit results
+[25Jul2025 01:50:09.388] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@14e1730e
+[25Jul2025 01:50:09.388] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24]
+[25Jul2025 01:50:09.389] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=625.87, y=66.00, z=-798.35]
+[25Jul2025 01:50:09.389] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=626.89, y=69.00, z=-855.36]
+[25Jul2025 01:50:09.590] [Server thread/DEBUG] [pointblank/]: 9590 handling client fire request
+[25Jul2025 01:50:09.591] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 1
+[25Jul2025 01:50:09.591] [Server thread/DEBUG] [pointblank/]: 9591 - obtained hit result in 0ms
+[25Jul2025 01:50:09.591] [Server thread/DEBUG] [pointblank/]: 9591 obtained hit results
+[25Jul2025 01:50:09.591] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@79506d1c
+[25Jul2025 01:50:09.591] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24]
+[25Jul2025 01:50:09.591] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=625.85, y=66.00, z=-800.06]
+[25Jul2025 01:50:09.591] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=672.40, y=78.00, z=-832.24] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=626.91, y=69.00, z=-855.47]
+[25Jul2025 01:50:10.601] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 11
+[25Jul2025 01:50:16.991] [IO-Worker-61/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[25Jul2025 01:50:16.991] [IO-Worker-61/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[25Jul2025 01:50:17.329] [Worker-Main-14/DEBUG] [ModernFix/]: Structure philipsruins:small_ruin5 is being run through DFU (hash f3d98642eb31c0846bd845e8fea0e827aac0e6113e8c4ee7838b22d0e26fcc55), this will cause launch time delays
+[25Jul2025 01:50:20.358] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:police
+[25Jul2025 01:50:20.899] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:clinic
+[25Jul2025 01:50:23.913] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_10
+[25Jul2025 01:50:24.121] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:50:24.122] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:50:25.095] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:50:25.095] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:50:27.341] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:50:27.341] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:50:27.342] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:50:27.346] [Server thread/DEBUG] [pointblank/]: 27346 handling client fire request
+[25Jul2025 01:50:27.346] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 10
+[25Jul2025 01:50:27.346] [Server thread/DEBUG] [pointblank/]: 27346 - obtained hit result in 0ms
+[25Jul2025 01:50:27.346] [Server thread/DEBUG] [pointblank/]: 27346 obtained hit results
+[25Jul2025 01:50:27.346] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4f8dbe11
+[25Jul2025 01:50:27.346] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=683.23, y=78.00, z=-832.86] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=683.23, y=78.00, z=-832.86]
+[25Jul2025 01:50:27.347] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=683.23, y=78.00, z=-832.86] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=676.10, y=78.44, z=-833.65]
+[25Jul2025 01:50:27.443] [Server thread/DEBUG] [pointblank/]: 27443 handling client fire request
+[25Jul2025 01:50:27.443] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 9
+[25Jul2025 01:50:27.444] [Server thread/DEBUG] [pointblank/]: 27444 - obtained hit result in 1ms
+[25Jul2025 01:50:27.444] [Server thread/DEBUG] [pointblank/]: 27444 obtained hit results
+[25Jul2025 01:50:27.444] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7cecb61e
+[25Jul2025 01:50:27.444] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=683.23, y=78.00, z=-832.86] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=683.23, y=78.00, z=-832.86]
+[25Jul2025 01:50:27.444] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=683.23, y=78.00, z=-832.86] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=676.24, y=79.06, z=-833.66]
+[25Jul2025 01:50:27.601] [Server thread/DEBUG] [pointblank/]: 27601 handling client fire request
+[25Jul2025 01:50:27.601] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 8
+[25Jul2025 01:50:27.601] [Server thread/DEBUG] [pointblank/]: 27601 - obtained hit result in 0ms
+[25Jul2025 01:50:27.601] [Server thread/DEBUG] [pointblank/]: 27601 obtained hit results
+[25Jul2025 01:50:27.601] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5eb3f2a4
+[25Jul2025 01:50:27.602] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=683.18, y=78.47, z=-832.86] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=683.18, y=78.47, z=-832.86]
+[25Jul2025 01:50:27.602] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=683.18, y=78.47, z=-832.86] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=676.45, y=78.97, z=-833.58]
+[25Jul2025 01:50:27.866] [Server thread/DEBUG] [pointblank/]: 27866 handling client fire request
+[25Jul2025 01:50:27.866] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 7
+[25Jul2025 01:50:27.866] [Server thread/DEBUG] [pointblank/]: 27866 - obtained hit result in 0ms
+[25Jul2025 01:50:27.866] [Server thread/DEBUG] [pointblank/]: 27866 obtained hit results
+[25Jul2025 01:50:27.866] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7989dab3
+[25Jul2025 01:50:27.867] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=683.10, y=78.22, z=-832.86] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=683.10, y=78.22, z=-832.86]
+[25Jul2025 01:50:27.867] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=683.10, y=78.22, z=-832.86] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=676.81, y=78.00, z=-833.32]
+[25Jul2025 01:50:28.008] [Server thread/DEBUG] [pointblank/]: 28008 handling client fire request
+[25Jul2025 01:50:28.008] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 6
+[25Jul2025 01:50:28.009] [Server thread/DEBUG] [pointblank/]: 28009 - obtained hit result in 0ms
+[25Jul2025 01:50:28.009] [Server thread/DEBUG] [pointblank/]: 28009 obtained hit results
+[25Jul2025 01:50:28.009] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3b76fe2f
+[25Jul2025 01:50:28.010] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=683.05, y=78.00, z=-832.86] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=683.05, y=78.00, z=-832.86]
+[25Jul2025 01:50:28.010] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=683.05, y=78.00, z=-832.86] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=677.16, y=78.00, z=-833.16]
+[25Jul2025 01:50:28.148] [Server thread/DEBUG] [pointblank/]: 28148 handling client fire request
+[25Jul2025 01:50:28.148] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 5
+[25Jul2025 01:50:28.148] [Server thread/DEBUG] [pointblank/]: 28148 - obtained hit result in 0ms
+[25Jul2025 01:50:28.148] [Server thread/DEBUG] [pointblank/]: 28148 obtained hit results
+[25Jul2025 01:50:28.148] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@208ca6d5
+[25Jul2025 01:50:28.149] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=683.03, y=78.00, z=-832.86] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=683.03, y=78.00, z=-832.86]
+[25Jul2025 01:50:28.149] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=683.03, y=78.00, z=-832.86] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=677.44, y=78.00, z=-833.21]
+[25Jul2025 01:50:30.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[25Jul2025 01:50:38.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was killed by magic
+[25Jul2025 01:50:40.139] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:50:40.304] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[25Jul2025 01:50:40.305] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[25Jul2025 01:50:45.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[25Jul2025 01:51:03.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[25Jul2025 01:51:04.470] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_12
+[25Jul2025 01:51:15.324] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:medicalpost
+[25Jul2025 01:51:33.208] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_11
+[25Jul2025 01:51:34.476] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:apartament
+[25Jul2025 01:51:58.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[25Jul2025 01:52:03.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has made the advancement [Close Quarters]
+[25Jul2025 01:52:04.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo2
+[25Jul2025 01:52:04.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo2
+[25Jul2025 01:52:08.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[25Jul2025 01:52:11.838] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:52:12.337] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:52:12.837] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:52:13.337] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:52:13.838] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:52:14.338] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:52:14.838] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:52:15.337] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:52:15.838] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:52:16.000] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:52:16.338] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:52:36.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Sr_Riva: Location (638.1654248088598, 65.58271420001984, -1012.125) too far away from hit block BlockPos{x=638, y=64, z=-1013}.
+[25Jul2025 01:52:44.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has made the advancement [Disme A Dozen]
+[25Jul2025 01:53:14.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Sr_Riva: Location (617.9016135931015, 66.0, -1018.3129034340382) too far away from hit block BlockPos{x=617, y=64, z=-1018}.
+[25Jul2025 01:53:14.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Sr_Riva: Location (618.0, 65.92781674861908, -1017.9879306042567) too far away from hit block BlockPos{x=617, y=64, z=-1018}.
+[25Jul2025 01:53:23.488] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25Jul2025 01:53:28.543] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:cloggerplacetrue
+[25Jul2025 01:53:29.573] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[25Jul2025 01:53:31.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Sr_Riva: Location (636.3957233130932, 65.75, -1021.7421903014183) too far away from hit block BlockPos{x=636, y=64, z=-1022}.
+[25Jul2025 01:54:02.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [Mine? Mine? Mine?]
+[25Jul2025 01:54:03.752] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[25Jul2025 01:54:31.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[25Jul2025 01:54:31.466] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:market
+[25Jul2025 01:54:36.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to Elishy_]
+[25Jul2025 01:54:58.116] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[25Jul2025 01:55:09.149] [Server thread/DEBUG] [pointblank/]: 9149 handling client fire request
+[25Jul2025 01:55:09.149] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 621685804 to 4
+[25Jul2025 01:55:09.149] [Server thread/DEBUG] [pointblank/]: 9149 - obtained hit result in 0ms
+[25Jul2025 01:55:09.149] [Server thread/DEBUG] [pointblank/]: 9149 obtained hit results
+[25Jul2025 01:55:09.149] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1830118c
+[25Jul2025 01:55:09.151] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=743.97, y=63.00, z=-1174.51] sends hit scan notification to ServerPlayer['Sr_Riva'/3635, l='ServerLevel[Mundo nuevo2]', x=744.23, y=63.00, z=-1172.28]
+[25Jul2025 01:55:09.151] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=743.97, y=63.00, z=-1174.51] sends hit scan notification to ServerPlayer['Elishy_'/45021, l='ServerLevel[Mundo nuevo2]', x=752.26, y=64.18, z=-1174.06]
+[25Jul2025 01:55:09.151] [Server thread/DEBUG] [pointblank/]: ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=743.97, y=63.00, z=-1174.51] sends hit scan notification to ServerPlayer['BlaseTK'/301, l='ServerLevel[Mundo nuevo2]', x=743.97, y=63.00, z=-1174.51]
+[25Jul2025 01:55:36.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to Sr_Riva]
+[25Jul2025 01:55:54.500] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:lost_soul_start_pool
+[25Jul2025 01:55:54.518] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:sculk_dungeon_start
+[25Jul2025 01:55:54.522] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:deepslate_city1
+[25Jul2025 01:55:54.525] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:bone_dungeon_start
+[25Jul2025 01:56:23.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
