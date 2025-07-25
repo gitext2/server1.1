@@ -3942,3 +3942,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Jul2025 01:01:31.495] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
 [25Jul2025 01:01:31.495] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
 [25Jul2025 01:05:44.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [Immersive Engineering]
+[25Jul2025 01:06:49.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has made the advancement [Immersive Engineering]
+[25Jul2025 01:09:38.313] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=273, y=78, z=-941}
+[25Jul2025 01:09:38.358] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: jeffs_cursed_walking_structures:factoryofdoom_parts
+[25Jul2025 01:09:38.467] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: jeffs_cursed_walking_structures:factoryofdoom_parts
+[25Jul2025 01:09:38.608] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: jeffs_cursed_walking_structures:factoryofdoom_parts
+[25Jul2025 01:09:38.726] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: jeffs_cursed_walking_structures:factoryofdoom_parts
+[25Jul2025 01:09:50.672] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=424, y=90, z=-990}
+[25Jul2025 01:09:50.673] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=430, y=96, z=-982}
+[25Jul2025 01:13:11.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ fell from a high place
+[25Jul2025 01:13:13.046] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
+[25Jul2025 01:13:13.047] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
