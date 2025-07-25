@@ -1966,6 +1966,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-07-24 04:06:28 +0000",
       "minecraft:husk": "2025-07-22 01:47:12 +0000",
       "minecraft:zombie": "2025-07-22 01:35:58 +0000"
     },
@@ -3523,6 +3524,12 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-07-24 03:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-24 04:06:36 +0000"
     },
     "done": true
   },
