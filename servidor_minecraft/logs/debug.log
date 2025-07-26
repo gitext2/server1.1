@@ -20321,3 +20321,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 03:06:45.475] [IO-Worker-96/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-98
 [26Jul2025 03:06:45.491] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo2
 [26Jul2025 03:06:45.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo2
+[26Jul2025 03:08:49.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Killed Elishy_]
+[26Jul2025 03:08:55.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ died
+[26Jul2025 03:08:56.727] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 03:08:56.830] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
+[26Jul2025 03:08:56.830] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
+[26Jul2025 03:10:23.716] [IO-Worker-94/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-99
+[26Jul2025 03:11:45.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo2
+[26Jul2025 03:11:45.508] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo2
+[26Jul2025 03:11:50.810] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BlaseTK lost connection: Disconnected
+[26Jul2025 03:11:50.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK left the game
+[26Jul2025 03:11:50.811] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 25537c07-713d-3925-9844-014a82514044 was unloaded
+[26Jul2025 03:11:50.811] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of BlaseTK
+[26Jul2025 03:11:50.811] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BlaseTK
+[26Jul2025 03:16:39.561] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elishy_ lost connection: Disconnected
+[26Jul2025 03:16:39.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ left the game
+[26Jul2025 03:16:39.561] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7ed74cf1-6ee8-3ff2-8e78-71af1bd89aa3 was unloaded
+[26Jul2025 03:16:39.561] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Elishy_
+[26Jul2025 03:16:39.561] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Elishy_
+[26Jul2025 03:16:41.219] [IO-Worker-99/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-100
+[26Jul2025 03:16:45.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo2
+[26Jul2025 03:16:45.492] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo2
