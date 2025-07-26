@@ -5113,5 +5113,11 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-26 01:30:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

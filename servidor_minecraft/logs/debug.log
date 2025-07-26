@@ -17598,3 +17598,29 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 01:25:24.021] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
 [26Jul2025 01:25:24.032] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_12
 [26Jul2025 01:25:29.938] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_1
+[26Jul2025 01:26:45.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo2
+[26Jul2025 01:26:45.535] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo2
+[26Jul2025 01:26:45.599] [IO-Worker-28/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
+[26Jul2025 01:27:21.867] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
+[26Jul2025 01:27:22.384] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:lighthouse
+[26Jul2025 01:31:33.566] [IO-Worker-27/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-34
+[26Jul2025 01:31:45.492] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
+[26Jul2025 01:31:45.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo2
+[26Jul2025 01:31:45.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo2
+[26Jul2025 01:33:17.368] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[26Jul2025 01:33:17.374] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[26Jul2025 01:33:17.375] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[26Jul2025 01:33:17.430] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:pumpkin_ruin_four
+[26Jul2025 01:34:09.612] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:34:09.613] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:34:10.563] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:34:10.564] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:34:33.667] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[26Jul2025 01:34:33.667] [IO-Worker-38/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[26Jul2025 01:34:33.674] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_tower_1
+[26Jul2025 01:34:33.718] [IO-Worker-38/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[26Jul2025 01:35:12.559] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_entrance_0
+[26Jul2025 01:35:12.647] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ruin_guardian_statue
+[26Jul2025 01:35:45.071] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[26Jul2025 01:35:45.268] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[26Jul2025 01:35:45.289] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
