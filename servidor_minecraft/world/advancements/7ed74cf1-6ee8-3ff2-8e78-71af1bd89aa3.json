@@ -4427,15 +4427,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-07-26 02:08:14 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/raw_block_uranium_to_raw_uranium": {
     "criteria": {
       "has_raw_block_uranium": "2025-07-26 02:00:38 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-07-26 02:08:14 +0000"
+    },
+    "done": true
+  },
   "table_top_craft:root": {
     "criteria": {
       "get_chess_piece": "2025-07-26 01:45:26 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/cokebrick": {
+    "criteria": {
+      "has_item": "2025-07-26 02:08:14 +0000"
     },
     "done": true
   },
@@ -4454,6 +4472,18 @@
   "immersiveengineering:recipes/misc/crafting/raw_uranium_to_raw_block_uranium": {
     "criteria": {
       "has_raw_uranium": "2025-07-26 02:00:38 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/concrete": {
+    "criteria": {
+      "has_clay": "2025-07-26 02:08:14 +0000"
+    },
+    "done": true
+  },
+  "overworld_netherite_ore:the_big_one": {
+    "criteria": {
+      "the_big_one_0": "2025-07-26 02:04:54 +0000"
     },
     "done": true
   },

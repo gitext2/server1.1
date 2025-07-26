@@ -4003,3 +4003,65 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 02:04:49.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
 [26Jul2025 02:04:54.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has made the advancement [The Big One]
 [26Jul2025 02:06:09.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[26Jul2025 02:07:16.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[26Jul2025 02:07:28.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK fell from a high place
+[26Jul2025 02:07:30.055] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[26Jul2025 02:07:30.056] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[26Jul2025 02:07:31.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[26Jul2025 02:07:49.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva was killed by magic
+[26Jul2025 02:07:51.165] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[26Jul2025 02:07:51.165] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[26Jul2025 02:08:51.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva was killed by magic
+[26Jul2025 02:08:52.700] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[26Jul2025 02:08:52.700] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[26Jul2025 02:09:00.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was killed by magic whilst trying to escape Zombie
+[26Jul2025 02:09:01.983] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[26Jul2025 02:09:01.983] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[26Jul2025 02:09:02.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[26Jul2025 02:09:25.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: The difficulty has been set to Peaceful]
+[26Jul2025 02:10:05.035] [Server thread/INFO] [incontrol/]: Reading rules from areas.json
+[26Jul2025 02:10:05.036] [Server thread/INFO] [incontrol/]: Reading rules from spawn.json
+[26Jul2025 02:10:05.038] [Server thread/INFO] [incontrol/]: Reading rules from summonaid.json
+[26Jul2025 02:10:05.038] [Server thread/INFO] [incontrol/]: Reading rules from loot.json
+[26Jul2025 02:10:05.038] [Server thread/ERROR] [incontrol/]: Unknown item 'cw_additions:rubber_sheet'!
+[26Jul2025 02:10:05.038] [Server thread/ERROR] [incontrol/]: Unknown item 'cw_additions:plastic_sheet'!
+[26Jul2025 02:10:05.038] [Server thread/INFO] [incontrol/]: Reading rules from experience.json
+[26Jul2025 02:10:05.039] [Server thread/INFO] [incontrol/]: Reading rules from phases.json
+[26Jul2025 02:10:05.039] [Server thread/INFO] [incontrol/]: Reading rules from effects.json
+[26Jul2025 02:10:05.039] [Server thread/INFO] [incontrol/]: Reading rules from breakevents.json
+[26Jul2025 02:10:05.039] [Server thread/INFO] [incontrol/]: Reading rules from placeevents.json
+[26Jul2025 02:10:05.039] [Server thread/INFO] [incontrol/]: Reading rules from rightclicks.json
+[26Jul2025 02:10:05.039] [Server thread/INFO] [incontrol/]: Reading rules from leftclicks.json
+[26Jul2025 02:10:05.039] [Server thread/INFO] [incontrol/]: Reading rules from spawner.json
+[26Jul2025 02:10:05.040] [Server thread/INFO] [incontrol/]: Reading rules from events.json
+[26Jul2025 02:10:13.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: The difficulty has been set to Hard]
+[26Jul2025 02:11:20.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to Elishy_]
+[26Jul2025 02:11:36.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[26Jul2025 02:12:51.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva was killed by magic whilst trying to escape Zombie
+[26Jul2025 02:12:53.093] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[26Jul2025 02:12:53.093] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[26Jul2025 02:12:57.115] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@14b414ff]Trying to start horde event on day 20 with nextDay 20 and time 10000
+[26Jul2025 02:12:57.115] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@273f581a
+[26Jul2025 02:12:57.115] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+[26Jul2025 02:12:57.115] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[26Jul2025 02:12:57.168] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 02:12:57.168] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 02:12:57.168] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 02:12:57.168] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 02:12:57.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[26Jul2025 02:13:47.163] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 02:13:47.164] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 02:13:47.164] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 02:13:47.164] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 02:14:37.163] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 02:14:37.164] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 02:14:37.164] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 02:14:37.164] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 02:15:27.164] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 02:15:27.164] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 02:15:27.164] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 02:15:27.164] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 02:16:17.164] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 02:16:17.165] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 02:16:17.165] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 02:16:17.165] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20

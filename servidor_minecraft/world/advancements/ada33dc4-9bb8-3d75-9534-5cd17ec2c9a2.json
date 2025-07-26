@@ -5049,6 +5049,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/smelting/ingot_nickel3": {
+    "criteria": {
+      "has_raw_nickel": "2025-07-26 02:02:52 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_block_nickel_to_raw_nickel": {
+    "criteria": {
+      "has_raw_block_nickel": "2025-07-26 02:02:52 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/raw_block_silver_to_raw_silver": {
     "criteria": {
       "has_raw_block_silver": "2025-07-26 01:57:09 +0000"
@@ -5100,6 +5112,12 @@
   "immersiveengineering:recipes/misc/crafting/raw_silver_to_raw_block_silver": {
     "criteria": {
       "has_raw_silver": "2025-07-26 01:57:09 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_nickel_to_raw_block_nickel": {
+    "criteria": {
+      "has_raw_nickel": "2025-07-26 02:02:52 +0000"
     },
     "done": true
   },
@@ -5160,6 +5178,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-07-26 01:43:07 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_nickel_from_blasting3": {
+    "criteria": {
+      "has_raw_nickel": "2025-07-26 02:02:52 +0000"
     },
     "done": true
   },
