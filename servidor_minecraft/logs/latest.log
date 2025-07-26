@@ -4192,3 +4192,47 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 02:36:30.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was killed by magic
 [26Jul2025 02:36:31.832] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
 [26Jul2025 02:36:31.832] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[26Jul2025 02:38:04.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK died
+[26Jul2025 02:38:06.448] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[26Jul2025 02:38:06.449] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[26Jul2025 02:40:00.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Difficulty set to 12.0]
+[26Jul2025 02:40:40.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Killed Sr_Riva]
+[26Jul2025 02:40:46.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva died from dehydration
+[26Jul2025 02:40:47.689] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[26Jul2025 02:40:47.689] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[26Jul2025 02:41:42.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was killed by magic
+[26Jul2025 02:41:44.292] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[26Jul2025 02:41:44.292] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[26Jul2025 02:41:56.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva was killed by magic
+[26Jul2025 02:41:58.381] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[26Jul2025 02:41:58.381] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[26Jul2025 02:42:10.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva was killed by magic
+[26Jul2025 02:42:11.887] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[26Jul2025 02:42:11.887] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[26Jul2025 02:42:13.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ was killed by magic
+[26Jul2025 02:42:15.001] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
+[26Jul2025 02:42:15.001] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
+[26Jul2025 02:43:08.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[26Jul2025 02:43:23.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[26Jul2025 02:43:34.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was killed by magic
+[26Jul2025 02:43:35.589] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[26Jul2025 02:43:35.589] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[26Jul2025 02:43:36.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[26Jul2025 02:43:51.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ was killed by magic
+[26Jul2025 02:43:53.246] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
+[26Jul2025 02:43:53.247] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
+[26Jul2025 02:44:24.741] [Server thread/INFO] [incontrol/]: Reading rules from areas.json
+[26Jul2025 02:44:24.741] [Server thread/INFO] [incontrol/]: Reading rules from spawn.json
+[26Jul2025 02:44:24.743] [Server thread/INFO] [incontrol/]: Reading rules from summonaid.json
+[26Jul2025 02:44:24.743] [Server thread/INFO] [incontrol/]: Reading rules from loot.json
+[26Jul2025 02:44:24.744] [Server thread/ERROR] [incontrol/]: Unknown item 'cw_additions:rubber_sheet'!
+[26Jul2025 02:44:24.744] [Server thread/ERROR] [incontrol/]: Unknown item 'cw_additions:plastic_sheet'!
+[26Jul2025 02:44:24.744] [Server thread/INFO] [incontrol/]: Reading rules from experience.json
+[26Jul2025 02:44:24.744] [Server thread/INFO] [incontrol/]: Reading rules from phases.json
+[26Jul2025 02:44:24.744] [Server thread/INFO] [incontrol/]: Reading rules from effects.json
+[26Jul2025 02:44:24.744] [Server thread/INFO] [incontrol/]: Reading rules from breakevents.json
+[26Jul2025 02:44:24.744] [Server thread/INFO] [incontrol/]: Reading rules from placeevents.json
+[26Jul2025 02:44:24.745] [Server thread/INFO] [incontrol/]: Reading rules from rightclicks.json
+[26Jul2025 02:44:24.745] [Server thread/INFO] [incontrol/]: Reading rules from leftclicks.json
+[26Jul2025 02:44:24.745] [Server thread/INFO] [incontrol/]: Reading rules from spawner.json
+[26Jul2025 02:44:24.745] [Server thread/INFO] [incontrol/]: Reading rules from events.json

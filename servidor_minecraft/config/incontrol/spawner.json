@@ -10,8 +10,8 @@
     },
     "conditions": {
       "dimension": "minecraft:overworld", 
-      "mindist": 25,       
-      "maxdist": 35,       
+      "mindist": 35,       
+      "maxdist": 50,       
       "maxthis": 60  
     }
   },
