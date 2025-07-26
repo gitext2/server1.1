@@ -4126,3 +4126,69 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 02:24:26.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was killed by magic
 [26Jul2025 02:24:27.997] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
 [26Jul2025 02:24:27.997] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[26Jul2025 02:26:50.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva was killed by magic
+[26Jul2025 02:26:52.091] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[26Jul2025 02:26:52.091] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[26Jul2025 02:26:58.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was killed by magic whilst trying to escape Husk
+[26Jul2025 02:27:00.605] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[26Jul2025 02:27:00.605] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[26Jul2025 02:27:39.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was killed by magic whilst trying to escape Husk
+[26Jul2025 02:27:41.136] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[26Jul2025 02:27:41.136] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[26Jul2025 02:27:53.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva was killed by magic whilst trying to escape Zombie
+[26Jul2025 02:27:55.388] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[26Jul2025 02:27:55.388] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[26Jul2025 02:28:10.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was killed by magic whilst trying to escape Husk
+[26Jul2025 02:28:11.796] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[26Jul2025 02:28:11.796] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[26Jul2025 02:28:15.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to BlaseTK]
+[26Jul2025 02:28:33.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva was killed by magic
+[26Jul2025 02:28:35.288] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[26Jul2025 02:28:35.288] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[26Jul2025 02:28:44.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was killed by magic
+[26Jul2025 02:28:45.481] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[26Jul2025 02:28:45.481] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[26Jul2025 02:30:07.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva was killed by magic
+[26Jul2025 02:30:08.689] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[26Jul2025 02:30:08.689] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[26Jul2025 02:30:14.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to BlaseTK]
+[26Jul2025 02:30:18.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was killed by magic whilst trying to escape Zombie
+[26Jul2025 02:30:19.435] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[26Jul2025 02:30:19.435] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[26Jul2025 02:31:47.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was killed by magic whilst trying to escape Zombie
+[26Jul2025 02:31:49.069] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[26Jul2025 02:31:49.069] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[26Jul2025 02:32:02.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was killed by magic whilst trying to escape Zombie
+[26Jul2025 02:32:03.931] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[26Jul2025 02:32:03.932] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[26Jul2025 02:32:19.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was killed by magic
+[26Jul2025 02:32:19.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to Sr_Riva]
+[26Jul2025 02:32:20.451] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[26Jul2025 02:32:20.451] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[26Jul2025 02:32:37.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to Elishy_]
+[26Jul2025 02:32:49.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva was killed by magic
+[26Jul2025 02:32:50.736] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[26Jul2025 02:32:50.736] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[26Jul2025 02:32:55.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was killed by magic whilst trying to escape Zombie
+[26Jul2025 02:32:56.712] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[26Jul2025 02:32:56.713] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[26Jul2025 02:33:06.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ was killed by magic
+[26Jul2025 02:33:07.885] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
+[26Jul2025 02:33:07.885] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
+[26Jul2025 02:33:14.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[26Jul2025 02:33:45.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was killed by magic
+[26Jul2025 02:33:47.251] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[26Jul2025 02:33:47.252] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[26Jul2025 02:33:57.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ was killed by magic
+[26Jul2025 02:33:58.981] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Elishy_]
+[26Jul2025 02:33:58.981] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Elishy_]
+[26Jul2025 02:35:36.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK died
+[26Jul2025 02:35:38.331] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[26Jul2025 02:35:38.331] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[26Jul2025 02:36:19.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[26Jul2025 02:36:19.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva was killed by magic
+[26Jul2025 02:36:21.335] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[26Jul2025 02:36:21.335] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[26Jul2025 02:36:30.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was killed by magic
+[26Jul2025 02:36:31.832] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[26Jul2025 02:36:31.832] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
