@@ -3931,3 +3931,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 01:24:37.383] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 25537c07-713d-3925-9844-014a82514044 was loaded
 [26Jul2025 01:24:37.383] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
 [26Jul2025 01:24:37.383] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[26Jul2025 01:39:41.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva was killed by magic whilst trying to escape Zombie
+[26Jul2025 01:39:43.092] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[26Jul2025 01:39:43.092] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[26Jul2025 01:40:09.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva was killed by magic whilst trying to escape Zombie
+[26Jul2025 01:40:11.735] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[26Jul2025 01:40:11.735] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[26Jul2025 01:41:26.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [Tunnel Treasures]
+[26Jul2025 01:41:47.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to BlaseTK]
+[26Jul2025 01:41:51.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has made the advancement [Tunnel Treasures]
+[26Jul2025 01:41:55.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[26Jul2025 01:42:01.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has made the advancement [Tunnel Treasures]
+[26Jul2025 01:42:19.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [The Hoarding Begins]
+[26Jul2025 01:44:05.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[26Jul2025 01:44:07.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[26Jul2025 01:44:36.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [Crops of the Wild]
+[26Jul2025 01:45:26.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has made the advancement [The Hoarding Begins]
+[26Jul2025 01:46:11.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]

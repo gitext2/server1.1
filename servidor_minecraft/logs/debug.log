@@ -17624,3 +17624,160 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 01:35:45.071] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
 [26Jul2025 01:35:45.268] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
 [26Jul2025 01:35:45.289] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[26Jul2025 01:36:25.216] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:36:25.216] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:36:45.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo2
+[26Jul2025 01:36:45.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo2
+[26Jul2025 01:36:51.322] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:36:51.322] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:37:30.120] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:37:30.120] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:37:31.517] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:37:31.518] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:37:34.932] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:lost_desert_ruin1
+[26Jul2025 01:37:34.941] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:badlands_ruin2
+[26Jul2025 01:37:34.949] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:badlands_start_dungeon
+[26Jul2025 01:38:17.122] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:38:17.122] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:38:34.016] [IO-Worker-40/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[26Jul2025 01:38:34.016] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[26Jul2025 01:39:12.181] [Server thread/DEBUG] [mixin/]: Mixing features.breeding_cap.tasks.AnimalMakeLoveMixin from servercore.common.mixins.json into net.minecraft.world.entity.ai.behavior.AnimalMakeLove
+[26Jul2025 01:39:12.181] [Server thread/DEBUG] [mixin/]: servercore.common.mixins.json:features.breeding_cap.tasks.AnimalMakeLoveMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[26Jul2025 01:39:14.722] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:39:14.723] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:39:18.370] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:39:18.370] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:39:32.904] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:39:32.904] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:39:35.269] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:39:35.269] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:39:35.270] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:39:38.029] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[26Jul2025 01:39:41.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva was killed by magic whilst trying to escape Zombie
+[26Jul2025 01:39:42.975] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:39:43.092] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[26Jul2025 01:39:43.092] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[26Jul2025 01:39:44.573] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_10
+[26Jul2025 01:39:44.704] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
+[26Jul2025 01:39:44.704] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[26Jul2025 01:39:44.930] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:gas_station1
+[26Jul2025 01:39:45.724] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ocean_fortress_main
+[26Jul2025 01:39:45.739] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ocean_fortress_part1
+[26Jul2025 01:39:45.743] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ocean_fortress_part2
+[26Jul2025 01:39:45.745] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ocean_fortress_part3
+[26Jul2025 01:39:46.048] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:apartament
+[26Jul2025 01:39:46.111] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ruins_house_with_tree
+[26Jul2025 01:39:46.120] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_ruin11
+[26Jul2025 01:39:46.236] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_11
+[26Jul2025 01:39:46.725] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:field_stone_ruins2
+[26Jul2025 01:39:47.351] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[26Jul2025 01:39:51.269] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:39:51.269] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:39:53.968] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:39:53.968] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:39:58.319] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:39:58.320] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:39:59.820] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:39:59.820] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:40:01.120] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:40:01.120] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:40:03.917] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:40:03.918] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:40:03.918] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:40:08.919] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:40:09.419] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:40:09.968] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:40:09.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva was killed by magic whilst trying to escape Zombie
+[26Jul2025 01:40:11.579] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:40:11.735] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sr_Riva]
+[26Jul2025 01:40:11.735] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sr_Riva]
+[26Jul2025 01:40:30.417] [Server thread/DEBUG] [pointblank/]: 30417 handling client fire request
+[26Jul2025 01:40:30.418] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1930393235 to 6
+[26Jul2025 01:40:30.421] [Server thread/DEBUG] [pointblank/]: 30421 - obtained hit result in 0ms
+[26Jul2025 01:40:30.421] [Server thread/DEBUG] [pointblank/]: 30421 obtained hit results
+[26Jul2025 01:40:30.421] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3637cc90
+[26Jul2025 01:40:30.422] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Sr_Riva'/934, l='ServerLevel[Mundo nuevo2]', x=422.23, y=67.00, z=-732.64] sends hit scan notification to ServerPlayer['Sr_Riva'/934, l='ServerLevel[Mundo nuevo2]', x=422.23, y=67.00, z=-732.64]
+[26Jul2025 01:40:30.867] [Server thread/DEBUG] [pointblank/]: 30867 handling client fire request
+[26Jul2025 01:40:30.867] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1930393235 to 5
+[26Jul2025 01:40:30.867] [Server thread/DEBUG] [pointblank/]: 30867 - obtained hit result in 0ms
+[26Jul2025 01:40:30.867] [Server thread/DEBUG] [pointblank/]: 30867 obtained hit results
+[26Jul2025 01:40:30.867] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6b9f411
+[26Jul2025 01:40:30.868] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Sr_Riva'/934, l='ServerLevel[Mundo nuevo2]', x=424.24, y=67.00, z=-732.99] sends hit scan notification to ServerPlayer['Sr_Riva'/934, l='ServerLevel[Mundo nuevo2]', x=424.24, y=67.00, z=-732.99]
+[26Jul2025 01:40:31.302] [Server thread/DEBUG] [pointblank/]: 31302 handling client fire request
+[26Jul2025 01:40:31.302] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1930393235 to 4
+[26Jul2025 01:40:31.302] [Server thread/DEBUG] [pointblank/]: 31302 - obtained hit result in 0ms
+[26Jul2025 01:40:31.302] [Server thread/DEBUG] [pointblank/]: 31302 obtained hit results
+[26Jul2025 01:40:31.302] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@68cb75d3
+[26Jul2025 01:40:31.303] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Sr_Riva'/934, l='ServerLevel[Mundo nuevo2]', x=424.70, y=67.00, z=-733.08] sends hit scan notification to ServerPlayer['Sr_Riva'/934, l='ServerLevel[Mundo nuevo2]', x=424.70, y=67.00, z=-733.08]
+[26Jul2025 01:40:32.217] [Server thread/DEBUG] [pointblank/]: 32217 handling client fire request
+[26Jul2025 01:40:32.218] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1930393235 to 3
+[26Jul2025 01:40:32.218] [Server thread/DEBUG] [pointblank/]: 32218 - obtained hit result in 0ms
+[26Jul2025 01:40:32.218] [Server thread/DEBUG] [pointblank/]: 32218 obtained hit results
+[26Jul2025 01:40:32.218] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2c834d48
+[26Jul2025 01:40:32.218] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Sr_Riva'/934, l='ServerLevel[Mundo nuevo2]', x=425.30, y=67.00, z=-734.70] sends hit scan notification to ServerPlayer['Sr_Riva'/934, l='ServerLevel[Mundo nuevo2]', x=425.30, y=67.00, z=-734.70]
+[26Jul2025 01:40:33.068] [Server thread/DEBUG] [pointblank/]: 33068 handling client fire request
+[26Jul2025 01:40:33.068] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1930393235 to 2
+[26Jul2025 01:40:33.068] [Server thread/DEBUG] [pointblank/]: 33068 - obtained hit result in 0ms
+[26Jul2025 01:40:33.068] [Server thread/DEBUG] [pointblank/]: 33068 obtained hit results
+[26Jul2025 01:40:33.068] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@15edf5be
+[26Jul2025 01:40:33.069] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Sr_Riva'/934, l='ServerLevel[Mundo nuevo2]', x=426.41, y=67.00, z=-737.81] sends hit scan notification to ServerPlayer['Sr_Riva'/934, l='ServerLevel[Mundo nuevo2]', x=426.41, y=67.00, z=-737.81]
+[26Jul2025 01:40:33.817] [Server thread/DEBUG] [pointblank/]: 33817 handling client fire request
+[26Jul2025 01:40:33.817] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1930393235 to 1
+[26Jul2025 01:40:33.817] [Server thread/DEBUG] [pointblank/]: 33817 - obtained hit result in 0ms
+[26Jul2025 01:40:33.817] [Server thread/DEBUG] [pointblank/]: 33817 obtained hit results
+[26Jul2025 01:40:33.817] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@66aaaa02
+[26Jul2025 01:40:33.818] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Sr_Riva'/934, l='ServerLevel[Mundo nuevo2]', x=429.20, y=67.00, z=-739.32] sends hit scan notification to ServerPlayer['Sr_Riva'/934, l='ServerLevel[Mundo nuevo2]', x=429.20, y=67.00, z=-739.32]
+[26Jul2025 01:40:34.327] [Server thread/DEBUG] [pointblank/]: 34327 handling client fire request
+[26Jul2025 01:40:34.327] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1930393235 to 0
+[26Jul2025 01:40:34.327] [Server thread/DEBUG] [pointblank/]: 34327 - obtained hit result in 0ms
+[26Jul2025 01:40:34.327] [Server thread/DEBUG] [pointblank/]: 34327 obtained hit results
+[26Jul2025 01:40:34.327] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3ce45f7d
+[26Jul2025 01:40:34.342] [Server thread/DEBUG] [pointblank/]: Creating state 19f0a66a-b8a8-4d1c-b391-6a100dfb1b0e
+[26Jul2025 01:40:34.349] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Sr_Riva'/934, l='ServerLevel[Mundo nuevo2]', x=430.70, y=67.00, z=-740.98] sends hit scan notification to ServerPlayer['Sr_Riva'/934, l='ServerLevel[Mundo nuevo2]', x=430.70, y=67.00, z=-740.98]
+[26Jul2025 01:40:35.074] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1930393235 to 7
+[26Jul2025 01:40:52.316] [Server thread/DEBUG] [pointblank/]: 52316 handling client fire request
+[26Jul2025 01:40:52.316] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1930393235 to 6
+[26Jul2025 01:40:52.316] [Server thread/DEBUG] [pointblank/]: 52316 - obtained hit result in 0ms
+[26Jul2025 01:40:52.316] [Server thread/DEBUG] [pointblank/]: 52316 obtained hit results
+[26Jul2025 01:40:52.316] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@61e5c8ee
+[26Jul2025 01:40:52.317] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Sr_Riva'/934, l='ServerLevel[Mundo nuevo2]', x=425.95, y=67.00, z=-736.33] sends hit scan notification to ServerPlayer['Sr_Riva'/934, l='ServerLevel[Mundo nuevo2]', x=425.95, y=67.00, z=-736.33]
+[26Jul2025 01:40:53.174] [Server thread/DEBUG] [pointblank/]: 53174 handling client fire request
+[26Jul2025 01:40:53.174] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1930393235 to 5
+[26Jul2025 01:40:53.175] [Server thread/DEBUG] [pointblank/]: 53175 - obtained hit result in 1ms
+[26Jul2025 01:40:53.175] [Server thread/DEBUG] [pointblank/]: 53175 obtained hit results
+[26Jul2025 01:40:53.175] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@17d70f3d
+[26Jul2025 01:40:53.176] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Sr_Riva'/934, l='ServerLevel[Mundo nuevo2]', x=427.46, y=67.00, z=-739.57] sends hit scan notification to ServerPlayer['Sr_Riva'/934, l='ServerLevel[Mundo nuevo2]', x=427.46, y=67.00, z=-739.57]
+[26Jul2025 01:40:54.023] [Server thread/DEBUG] [pointblank/]: 54023 handling client fire request
+[26Jul2025 01:40:54.023] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1930393235 to 4
+[26Jul2025 01:40:54.024] [Server thread/DEBUG] [pointblank/]: 54024 - obtained hit result in 0ms
+[26Jul2025 01:40:54.024] [Server thread/DEBUG] [pointblank/]: 54024 obtained hit results
+[26Jul2025 01:40:54.024] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7a2d5798
+[26Jul2025 01:40:54.026] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Sr_Riva'/934, l='ServerLevel[Mundo nuevo2]', x=428.04, y=67.00, z=-740.42] sends hit scan notification to ServerPlayer['Sr_Riva'/934, l='ServerLevel[Mundo nuevo2]', x=428.04, y=67.00, z=-740.42]
+[26Jul2025 01:41:06.531] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[26Jul2025 01:41:11.667] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:41:11.667] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:41:20.018] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:41:20.018] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:41:26.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [Tunnel Treasures]
+[26Jul2025 01:41:32.366] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:41:32.366] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:41:45.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo2
+[26Jul2025 01:41:45.532] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo2
+[26Jul2025 01:41:47.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to BlaseTK]
+[26Jul2025 01:41:51.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sr_Riva has made the advancement [Tunnel Treasures]
+[26Jul2025 01:41:55.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[26Jul2025 01:41:57.256] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[26Jul2025 01:42:01.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has made the advancement [Tunnel Treasures]
+[26Jul2025 01:42:19.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [The Hoarding Begins]
+[26Jul2025 01:43:29.123] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[26Jul2025 01:43:29.123] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[26Jul2025 01:43:55.298] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:44:05.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[26Jul2025 01:44:07.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[26Jul2025 01:44:33.693] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[26Jul2025 01:44:36.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [Crops of the Wild]
+[26Jul2025 01:44:37.156] [Server thread/DEBUG] [mixin/]: Mixing common.access.entity.AccessFakePlayerFactory from crafttweaker.forge.mixins.json into net.minecraftforge.common.util.FakePlayerFactory
+[26Jul2025 01:44:37.157] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getFakePlayers()Ljava/util/Map; to crafttweaker$getFakePlayers_$md$1ef8c9$0 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[26Jul2025 01:44:37.157] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getMINECRAFT()Lcom/mojang/authlib/GameProfile; to crafttweaker$getMINECRAFT_$md$1ef8c9$1 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[26Jul2025 01:45:26.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has made the advancement [The Hoarding Begins]
+[26Jul2025 01:46:11.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
