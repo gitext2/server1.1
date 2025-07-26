@@ -4511,6 +4511,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-07-26 02:48:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_bannerpatterns": {
+    "criteria": {
+      "has_paper": "2025-07-26 02:49:01 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_uranium_to_ingot_uranium": {
+    "criteria": {
+      "has_storage_uranium": "2025-07-26 02:50:50 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/berry_jam_jar": {
+    "criteria": {
+      "has_berry_jam_jar": "2025-07-26 02:47:36 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/storage_nickel_to_ingot_nickel": {
     "criteria": {
       "has_storage_nickel": "2025-07-26 02:45:18 +0000"
@@ -4529,9 +4553,57 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-07-26 02:48:41 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/plate_nickel_hammering": {
     "criteria": {
       "has_nickel_ingot": "2025-07-26 02:45:18 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_bullets": {
+    "criteria": {
+      "has_paper": "2025-07-26 02:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-26 02:54:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/ingot_uranium_to_storage_uranium": {
+    "criteria": {
+      "has_ingot_uranium": "2025-07-26 02:50:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-07-26 02:47:36 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_molds": {
+    "criteria": {
+      "has_paper": "2025-07-26 02:49:01 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:oneskelly": {
+    "criteria": {
+      "oneskelly_0": "2025-07-26 02:55:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-26 02:49:01 +0000"
     },
     "done": true
   },
@@ -4541,9 +4613,57 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-07-26 02:48:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-07-26 02:48:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_uranium_hammering": {
+    "criteria": {
+      "has_uranium_ingot": "2025-07-26 02:50:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_components": {
+    "criteria": {
+      "has_paper": "2025-07-26 02:49:01 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/ingot_nickel_to_storage_nickel": {
     "criteria": {
       "has_ingot_nickel": "2025-07-26 02:45:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-26 02:54:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-07-26 02:48:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-26 02:49:01 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/wall_toilet_paper": {
+    "criteria": {
+      "has_paper": "2025-07-26 02:49:01 +0000"
     },
     "done": true
   },

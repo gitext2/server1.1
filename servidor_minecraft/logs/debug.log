@@ -20246,3 +20246,40 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 02:46:45.479] [IO-Worker-88/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-89
 [26Jul2025 02:46:45.496] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo2
 [26Jul2025 02:46:45.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo2
+[26Jul2025 02:49:56.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=434, y=68, z=-735} BlockPos{x=431, y=66, z=-734}
+[26Jul2025 02:51:45.475] [IO-Worker-89/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-90
+[26Jul2025 02:51:45.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo2
+[26Jul2025 02:51:45.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo2
+[26Jul2025 02:51:51.561] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 02:51:51.561] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 02:51:54.411] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 02:51:54.411] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 02:52:43.661] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 02:52:43.661] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 02:52:43.661] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 02:52:43.661] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 02:52:44.714] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 02:52:44.715] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 02:52:44.715] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 02:52:44.715] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 02:52:44.715] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 02:52:44.715] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 02:52:44.715] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 02:52:44.716] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 02:52:44.716] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 02:52:44.716] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 02:52:44.716] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 02:52:44.716] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 02:52:44.716] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 02:52:44.716] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 02:52:51.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK was killed by magic
+[26Jul2025 02:52:52.481] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 02:52:52.626] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [BlaseTK]
+[26Jul2025 02:52:52.626] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [BlaseTK]
+[26Jul2025 02:52:54.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
+[26Jul2025 02:54:54.720] [IO-Worker-90/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-91
+[26Jul2025 02:55:00.065] [IO-Worker-78/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-92
+[26Jul2025 02:55:12.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has completed the challenge [One eyed big skelly]
+[26Jul2025 02:56:45.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo2
+[26Jul2025 02:56:45.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo2
+[26Jul2025 02:56:45.607] [IO-Worker-90/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-93
