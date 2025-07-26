@@ -87,7 +87,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-07-24 02:44:52 +0000",
-      "opened_chest": "2025-07-22 01:17:41 +0000"
+      "opened_chest": "2025-07-22 01:17:41 +0000",
+      "opened_cart": "2025-07-26 01:42:01 +0000"
     },
     "done": false
   },
@@ -4417,6 +4418,48 @@
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-07-25 03:18:11 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-07-26 01:42:01 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_block_uranium_to_raw_uranium": {
+    "criteria": {
+      "has_raw_block_uranium": "2025-07-26 02:00:38 +0000"
+    },
+    "done": true
+  },
+  "table_top_craft:root": {
+    "criteria": {
+      "get_chess_piece": "2025-07-26 01:45:26 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_uranium3": {
+    "criteria": {
+      "has_raw_uranium": "2025-07-26 02:00:38 +0000"
+    },
+    "done": true
+  },
+  "table_top_craft:the_hoarding_begins": {
+    "criteria": {
+      "ChessPieceFigure": "2025-07-26 01:45:26 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_uranium_to_raw_block_uranium": {
+    "criteria": {
+      "has_raw_uranium": "2025-07-26 02:00:38 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_uranium_from_blasting3": {
+    "criteria": {
+      "has_raw_uranium": "2025-07-26 02:00:38 +0000"
     },
     "done": true
   },

@@ -5,14 +5,14 @@
     "persecond": 0.0333333333,          
     "attempts": 10,                      
     "amount": {
-      "minimum": 1,
+      "minimum": 2,
       "maximum": 3
     },
     "conditions": {
       "dimension": "minecraft:overworld", 
-      "mindist": 20,       
-      "maxdist": 40,       
-      "maxthis": 55  
+      "mindist": 10,       
+      "maxdist": 20,       
+      "maxthis": 60  
     }
   },
 

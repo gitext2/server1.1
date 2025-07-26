@@ -3948,3 +3948,58 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 01:44:36.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlaseTK has made the advancement [Crops of the Wild]
 [26Jul2025 01:45:26.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has made the advancement [The Hoarding Begins]
 [26Jul2025 01:46:11.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[26Jul2025 01:46:21.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[26Jul2025 01:48:54.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[26Jul2025 01:48:59.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[26Jul2025 01:53:08.620] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@5f5f0bf5]Trying to start horde event on day 20 with nextDay 20 and time 10230
+[26Jul2025 01:53:08.623] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@2aa0748f
+[26Jul2025 01:53:08.623] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[26Jul2025 01:53:08.624] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[26Jul2025 01:53:08.668] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 01:53:08.669] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 01:53:08.669] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 01:53:08.669] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 01:53:58.666] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 01:53:58.666] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 01:53:58.666] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 01:53:58.667] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 01:54:03.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[26Jul2025 01:54:47.450] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=664, y=96, z=-1629}
+[26Jul2025 01:54:48.668] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 01:54:48.668] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 01:54:48.668] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 01:54:48.668] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 01:55:38.667] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 01:55:38.668] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 01:55:38.668] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 01:55:38.668] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 01:55:57.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to Elishy_]
+[26Jul2025 01:56:28.667] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 01:56:28.667] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 01:56:28.667] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 01:56:28.668] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 01:57:18.669] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 01:57:18.669] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 01:57:18.669] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 01:57:18.669] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 01:57:47.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Difficulty set to 11.0]
+[26Jul2025 01:58:00.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to Elishy_]
+[26Jul2025 01:59:50.726] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=587, y=99, z=-1616}
+[26Jul2025 02:04:20.599] [Server thread/INFO] [incontrol/]: Reading rules from areas.json
+[26Jul2025 02:04:20.599] [Server thread/INFO] [incontrol/]: Reading rules from spawn.json
+[26Jul2025 02:04:20.602] [Server thread/INFO] [incontrol/]: Reading rules from summonaid.json
+[26Jul2025 02:04:20.602] [Server thread/INFO] [incontrol/]: Reading rules from loot.json
+[26Jul2025 02:04:20.603] [Server thread/ERROR] [incontrol/]: Unknown item 'cw_additions:rubber_sheet'!
+[26Jul2025 02:04:20.603] [Server thread/ERROR] [incontrol/]: Unknown item 'cw_additions:plastic_sheet'!
+[26Jul2025 02:04:20.603] [Server thread/INFO] [incontrol/]: Reading rules from experience.json
+[26Jul2025 02:04:20.604] [Server thread/INFO] [incontrol/]: Reading rules from phases.json
+[26Jul2025 02:04:20.604] [Server thread/INFO] [incontrol/]: Reading rules from effects.json
+[26Jul2025 02:04:20.605] [Server thread/INFO] [incontrol/]: Reading rules from breakevents.json
+[26Jul2025 02:04:20.605] [Server thread/INFO] [incontrol/]: Reading rules from placeevents.json
+[26Jul2025 02:04:20.606] [Server thread/INFO] [incontrol/]: Reading rules from rightclicks.json
+[26Jul2025 02:04:20.607] [Server thread/INFO] [incontrol/]: Reading rules from leftclicks.json
+[26Jul2025 02:04:20.607] [Server thread/INFO] [incontrol/]: Reading rules from spawner.json
+[26Jul2025 02:04:20.608] [Server thread/INFO] [incontrol/]: Reading rules from events.json
+[26Jul2025 02:04:49.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[26Jul2025 02:04:54.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has made the advancement [The Big One]
+[26Jul2025 02:06:09.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]

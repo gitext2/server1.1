@@ -17781,3 +17781,168 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 01:44:37.157] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getMINECRAFT()Lcom/mojang/authlib/GameProfile; to crafttweaker$getMINECRAFT_$md$1ef8c9$1 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
 [26Jul2025 01:45:26.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has made the advancement [The Hoarding Begins]
 [26Jul2025 01:46:11.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[26Jul2025 01:46:21.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[26Jul2025 01:46:45.502] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo2
+[26Jul2025 01:46:45.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo2
+[26Jul2025 01:47:42.366] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[26Jul2025 01:48:28.578] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
+[26Jul2025 01:48:54.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[26Jul2025 01:48:59.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[26Jul2025 01:50:01.220] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[26Jul2025 01:51:45.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo2
+[26Jul2025 01:51:45.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo2
+[26Jul2025 01:51:56.823] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[26Jul2025 01:51:56.823] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[26Jul2025 01:51:58.046] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/town_centers/plains_meeting_point_1
+[26Jul2025 01:51:58.060] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/town_centers/desert_meeting_point_2
+[26Jul2025 01:51:58.079] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/town_centers/taiga_meeting_point_2
+[26Jul2025 01:51:58.232] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:storage
+[26Jul2025 01:52:01.025] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:sculk_dungeon_start
+[26Jul2025 01:52:01.030] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:lost_soul_start_pool
+[26Jul2025 01:52:01.034] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:bone_dungeon_start
+[26Jul2025 01:52:01.037] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:deep_ruin7
+[26Jul2025 01:52:12.394] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:53:08.620] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@5f5f0bf5]Trying to start horde event on day 20 with nextDay 20 and time 10230
+[26Jul2025 01:53:08.623] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@2aa0748f
+[26Jul2025 01:53:08.623] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[26Jul2025 01:53:08.624] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[26Jul2025 01:53:08.668] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 01:53:08.669] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 01:53:08.669] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 01:53:08.669] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 01:53:46.867] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:53:47.366] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:53:58.666] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 01:53:58.666] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 01:53:58.666] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 01:53:58.667] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 01:54:03.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elishy_: Teleported Elishy_ to BlaseTK]
+[26Jul2025 01:54:08.874] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[26Jul2025 01:54:08.875] [IO-Worker-56/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[26Jul2025 01:54:25.318] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:54:40.067] [IO-Worker-56/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[26Jul2025 01:54:47.450] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=664, y=96, z=-1629}
+[26Jul2025 01:54:48.324] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:modern_house1
+[26Jul2025 01:54:48.668] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 01:54:48.668] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 01:54:48.668] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 01:54:48.668] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 01:55:38.667] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 01:55:38.668] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 01:55:38.668] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 01:55:38.668] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 01:55:46.317] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 01:55:57.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to Elishy_]
+[26Jul2025 01:56:28.667] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 01:56:28.667] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 01:56:28.667] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 01:56:28.668] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 01:56:33.419] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[26Jul2025 01:56:33.557] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:field_stone_ruins_rock4
+[26Jul2025 01:56:45.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo2
+[26Jul2025 01:56:45.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo2
+[26Jul2025 01:57:18.669] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 01:57:18.669] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[26Jul2025 01:57:18.669] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 01:57:18.669] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[26Jul2025 01:57:47.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Difficulty set to 11.0]
+[26Jul2025 01:58:00.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sr_Riva: Teleported Sr_Riva to Elishy_]
+[26Jul2025 01:59:48.918] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[26Jul2025 01:59:49.119] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[26Jul2025 01:59:49.148] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/savanna/town_centers/savanna_meeting_point_4
+[26Jul2025 01:59:49.158] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/town_centers/plains_meeting_point_3
+[26Jul2025 01:59:49.186] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/town_centers/taiga_meeting_point_1
+[26Jul2025 01:59:49.222] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:post
+[26Jul2025 01:59:49.924] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[26Jul2025 01:59:50.726] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=587, y=99, z=-1616}
+[26Jul2025 02:01:13.042] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/town_centers/desert_meeting_point_3
+[26Jul2025 02:01:13.053] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/town_centers/snowy_meeting_point_1
+[26Jul2025 02:01:13.081] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_small_house_1 is being run through DFU (hash 598e06407be676c3f5dbae1ca4018890298493021374c3cd66bf6f5282592e62), this will cause launch time delays
+[26Jul2025 02:01:13.492] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_small_house_2 is being run through DFU (hash 5116fa0e35fe4c9f20a4db9abecd042e010f29640e24142a3071a6e4e33752d5), this will cause launch time delays
+[26Jul2025 02:01:13.533] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_small_house_3 is being run through DFU (hash 63413a24fd019ca4288483de8e63380f483d57816b657f48e0af4bc898ddbb0e), this will cause launch time delays
+[26Jul2025 02:01:13.557] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_small_house_4 is being run through DFU (hash 8a1782fee993ccf1783ea5bc3253ecb76e4ffc69ef9b5d388c19e601e017e1d5), this will cause launch time delays
+[26Jul2025 02:01:13.584] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_small_house_5 is being run through DFU (hash 36472dbf3c69a164769fa5c4bd2a8dec895caf1a5208108d4076f1cce131ed7f), this will cause launch time delays
+[26Jul2025 02:01:13.622] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_small_house_6 is being run through DFU (hash 4c61faa02e37371eda30690387d0c254b3ef4ab7486a4fcf12566421e3d7ae9e), this will cause launch time delays
+[26Jul2025 02:01:13.640] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_small_house_7 is being run through DFU (hash 231ebec4c87d7f28fff381665a02d446d174b9be64522da9fd3b9fe852d76d2a), this will cause launch time delays
+[26Jul2025 02:01:13.654] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_small_house_8 is being run through DFU (hash e5ea47733b66d6de80cc84c90cae8d56d4bf789137a9c3692c1d2b7bcb91c823), this will cause launch time delays
+[26Jul2025 02:01:13.684] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_medium_house_1 is being run through DFU (hash 5405eb37d0abe98f8017068808127f3cc5c23bfe8e5724cccf129f94e5e91341), this will cause launch time delays
+[26Jul2025 02:01:13.769] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_medium_house_2 is being run through DFU (hash 9ed3c0bf9340ccdfdc026cdeb90467e3743e4e32b0b21a527179083840a129d8), this will cause launch time delays
+[26Jul2025 02:01:13.824] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_medium_house_3 is being run through DFU (hash 08176542e92a2210b2fd3fbf6b30a56a80e1f8a7eff8af9a124d1bafecb70f93), this will cause launch time delays
+[26Jul2025 02:01:13.878] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_butchers_shop_1 is being run through DFU (hash 975b5b3b6f47c3f1a2257dc4aae070b30dc7f6cc568e2c5a4dbef5f6d133f6fb), this will cause launch time delays
+[26Jul2025 02:01:13.899] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_butchers_shop_2 is being run through DFU (hash a8f14759385837ae474f87a40280d995b753bf915d7533792daeac1e5be04325), this will cause launch time delays
+[26Jul2025 02:01:13.917] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_tool_smith_1 is being run through DFU (hash 9b11e8248dce55990c6ff70c84d8bc1f7e3222ab9b6a44e9348c18978c385c2a), this will cause launch time delays
+[26Jul2025 02:01:13.941] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_fletcher_house_1 is being run through DFU (hash ad8dd94f81c468eae496d33480fa9db97c65b735a221c855f1052dd147131f51), this will cause launch time delays
+[26Jul2025 02:01:13.949] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_shepherds_house_1 is being run through DFU (hash 1c2fffabee8ecb8fbd38e953fa7cb7db8791331a35ec1039363d149a286b24a2), this will cause launch time delays
+[26Jul2025 02:01:13.959] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_armorer_house_1 is being run through DFU (hash f2d63b36b821e4a56deee767e6f854d87fe7e693e842ea408b89c54582852a36), this will cause launch time delays
+[26Jul2025 02:01:13.980] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_armorer_house_2 is being run through DFU (hash 9f4e513e966ef2fc493783b962852cc16b588293aaf703a66dff5121e56d8322), this will cause launch time delays
+[26Jul2025 02:01:14.003] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_fisher_cottage is being run through DFU (hash 64a03f7116f72bd17cec393b64a16d2c71b9e65d5cc3c86a8daeb750ff176834), this will cause launch time delays
+[26Jul2025 02:01:14.036] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_tannery_1 is being run through DFU (hash 57e2088eb9643f79c74f8473f2c1dcbd1f0f03218bf158addfaeba41e4621271), this will cause launch time delays
+[26Jul2025 02:01:14.057] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_cartographer_house_1 is being run through DFU (hash 22db52bfbac8965fa670a633b5b9640fd7f3d388651d6935ca7bbbcd5d5155c6), this will cause launch time delays
+[26Jul2025 02:01:14.068] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_library_1 is being run through DFU (hash 331fe69616ac7f252ccaea51927eaf7e852a73a20614ab049210d8548d3811d3), this will cause launch time delays
+[26Jul2025 02:01:14.152] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_masons_house_1 is being run through DFU (hash f7f67768e382dc7466438f94af9d1e9eb58d82970c3dbf401be5e60cfce8753e), this will cause launch time delays
+[26Jul2025 02:01:14.160] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_masons_house_2 is being run through DFU (hash 66cafe90b38d9bd35a4e16b2f0dc371c4a28d6b54f17d29305e359a1a3c4c7ba), this will cause launch time delays
+[26Jul2025 02:01:14.177] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_weapon_smith_1 is being run through DFU (hash 5ae4299242cdeb83563760ff8d6d6362659f1807678b6b6208c42954bc59e5b1), this will cause launch time delays
+[26Jul2025 02:01:14.200] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_temple_1 is being run through DFU (hash 73253e450dcb969086507e09b68e189b5a5853979aab25ba4d0660b77ce647de), this will cause launch time delays
+[26Jul2025 02:01:14.206] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_farm_1 is being run through DFU (hash 86fc99fadbaaf60c266ac9172b15031502fffacd7821c92e8a83369f6b067af2), this will cause launch time delays
+[26Jul2025 02:01:14.208] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_farm_2 is being run through DFU (hash 69a9e2287927084c30c4f926b51693713444671e11cb1c73f07b5c213a288531), this will cause launch time delays
+[26Jul2025 02:01:14.211] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_animal_pen_1 is being run through DFU (hash daf2302d7abe0f5fac68bd77e4e294ef76bb380e743e29fb01c97cc9c68a9412), this will cause launch time delays
+[26Jul2025 02:01:14.217] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_animal_pen_2 is being run through DFU (hash 981c947eef89684d8308a83dff80806c5bf0bf8ea2de70a874cf8568797a4307), this will cause launch time delays
+[26Jul2025 02:01:15.277] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_small_house_1
+[26Jul2025 02:01:15.279] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_small_house_2
+[26Jul2025 02:01:15.280] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_small_house_3
+[26Jul2025 02:01:15.282] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_small_house_4
+[26Jul2025 02:01:15.284] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_small_house_5
+[26Jul2025 02:01:15.285] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_small_house_6
+[26Jul2025 02:01:15.287] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_small_house_7
+[26Jul2025 02:01:15.289] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_small_house_8
+[26Jul2025 02:01:15.291] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_medium_house_1
+[26Jul2025 02:01:15.295] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_medium_house_2
+[26Jul2025 02:01:15.302] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_big_house_1
+[26Jul2025 02:01:15.309] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_butcher_shop_1
+[26Jul2025 02:01:15.314] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_butcher_shop_2
+[26Jul2025 02:01:15.316] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_tool_smith_1
+[26Jul2025 02:01:15.319] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_fletcher_house_1
+[26Jul2025 02:01:15.325] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_shepherds_house_1
+[26Jul2025 02:01:15.328] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_armorer_house_1
+[26Jul2025 02:01:15.332] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_fisher_cottage_1
+[26Jul2025 02:01:15.335] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_tannery_1
+[26Jul2025 02:01:15.337] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_cartographer_1
+[26Jul2025 02:01:15.347] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_library_1
+[26Jul2025 02:01:15.351] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_library_2
+[26Jul2025 02:01:15.355] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_masons_house_1
+[26Jul2025 02:01:15.361] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_weaponsmith_1
+[26Jul2025 02:01:15.367] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_temple_3
+[26Jul2025 02:01:15.374] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_temple_4
+[26Jul2025 02:01:15.377] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_stable_1
+[26Jul2025 02:01:15.380] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_stable_2
+[26Jul2025 02:01:15.381] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_large_farm_1
+[26Jul2025 02:01:15.382] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_small_farm_1
+[26Jul2025 02:01:15.385] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_animal_pen_1
+[26Jul2025 02:01:15.386] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_animal_pen_2
+[26Jul2025 02:01:15.388] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_animal_pen_3
+[26Jul2025 02:01:15.389] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_accessory_1
+[26Jul2025 02:01:15.390] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_meeting_point_4
+[26Jul2025 02:01:15.392] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_meeting_point_5
+[26Jul2025 02:01:45.502] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo2
+[26Jul2025 02:01:45.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo2
+[26Jul2025 02:01:51.852] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:tomb1
+[26Jul2025 02:03:11.976] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Jul2025 02:04:20.599] [Server thread/INFO] [incontrol/]: Reading rules from areas.json
+[26Jul2025 02:04:20.599] [Server thread/INFO] [incontrol/]: Reading rules from spawn.json
+[26Jul2025 02:04:20.602] [Server thread/INFO] [incontrol/]: Reading rules from summonaid.json
+[26Jul2025 02:04:20.602] [Server thread/INFO] [incontrol/]: Reading rules from loot.json
+[26Jul2025 02:04:20.603] [Server thread/ERROR] [incontrol/]: Unknown item 'cw_additions:rubber_sheet'!
+[26Jul2025 02:04:20.603] [Server thread/ERROR] [incontrol/]: Unknown item 'cw_additions:plastic_sheet'!
+[26Jul2025 02:04:20.603] [Server thread/INFO] [incontrol/]: Reading rules from experience.json
+[26Jul2025 02:04:20.604] [Server thread/INFO] [incontrol/]: Reading rules from phases.json
+[26Jul2025 02:04:20.604] [Server thread/INFO] [incontrol/]: Reading rules from effects.json
+[26Jul2025 02:04:20.605] [Server thread/INFO] [incontrol/]: Reading rules from breakevents.json
+[26Jul2025 02:04:20.605] [Server thread/INFO] [incontrol/]: Reading rules from placeevents.json
+[26Jul2025 02:04:20.606] [Server thread/INFO] [incontrol/]: Reading rules from rightclicks.json
+[26Jul2025 02:04:20.607] [Server thread/INFO] [incontrol/]: Reading rules from leftclicks.json
+[26Jul2025 02:04:20.607] [Server thread/INFO] [incontrol/]: Reading rules from spawner.json
+[26Jul2025 02:04:20.608] [Server thread/INFO] [incontrol/]: Reading rules from events.json
+[26Jul2025 02:04:49.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Sr_Riva]
+[26Jul2025 02:04:54.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elishy_ has made the advancement [The Big One]
+[26Jul2025 02:05:07.467] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[26Jul2025 02:06:09.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlaseTK: Teleported BlaseTK to Elishy_]
